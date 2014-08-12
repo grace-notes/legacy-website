@@ -1,0 +1,54 @@
+<!DOCTYPE html >
+
+<html>
+
+<head>
+<title>Building Program</title>
+<link href="ZAMBIA_STYLE.css" rel="stylesheet" type="text/css">
+</head>
+
+<body>
+
+<script type="text/javascript">  /* Google Analytics */
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-36925139-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+
+<div class="container">
+<!--#include file ="Header.html" -->
+<br />
+
+<h2>Building Program - Kabwe Church</h2>
+<div class="container">
+<div class="indent">
+<p>Today, neither the Kabwe Central Baptist Church nor the Grace Bible College of Kabwe have their own facilities in which to meet, worship, and conduct classes. The church and college meet in rooms rented from nearby schools, an arrangement which is subject to the desires of school authoritiesl</p>
+<p>This situation seriously hampers the church's ability to reach people and conduct a training ministry.<br> 
+For example:</p>
+<ul>
+<li>It is difficult to attract people to attend a church that doesn't have the distinct identity and location that a church building provides.</li>
+<li>The school authorities can, at a moment's notice, revoke permission to meet on school property.</li>
+<li>College classes, evangelistic meetings, and worship services meet in separate places, making organization and planning difficult.</li>
+<li>If</li>
+<li></li>
+<li></li>
+</ul>
+
+</div>
+
+<p class="construction"><b>PAGE UNDER CONSTRUCTION</b></p>
+</div>
+</div>
+
+<!--#include file="Footer.html" -->
+
+</body>
+</html>

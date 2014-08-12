@@ -1,0 +1,419 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>
+      Bible Studies
+    </title>
+    <meta name="description" content=
+    "Grace Notes provides verse-by-verse Bible studies and a library of related categorical and historical studies.">
+    <meta name="keywords" content=
+    "Bible,Christian,religion,Titus,Elijah,Colossians,Philippians, spiritual,Romans,Philemon,Joel,Jude,Malachi,doctrine,Hosea,Ruth,Ephesians,prayer,church,category,categorical,thieme,depression,recovery,sex,counseling,ecclesiastes,Christ,Jesus,training,diploma,degree,pastor,teacher,theology">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <link href="CSS/GN_STYLE.css" rel="stylesheet" type="text/css">
+</head>
+<style>
+table {
+width:100%;
+}
+
+</style>
+  <body>
+  
+<script type="text/javascript">
+/* Google Analytics Script */
+    var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-3622200-1']);
+    _gaq.push(['_trackPageview']);
+
+    (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    })();
+</script>
+	
+    <div class="container">
+      <!--#include virtual="/header.html" -->
+      <div class="content">
+        <br>
+        <h2>
+          Expository Bible Studies, History, Supporting Studies
+        </h2>
+        <p></p>
+        <p>
+          Many of these studies are available as Grace Notes courses leading to
+          certificates.<br>
+          Click on a link below to see a course description and to download the
+          study.<br>
+        </p>
+        <table>
+          <tr>
+            <th>
+              New Testament
+            </th>
+            <th>
+              Old Testament
+            </th>
+            <th>
+              History
+            </th>
+            <th>
+              Supporting Studies
+            </th>
+          </tr>
+          <tr>
+            <td class="bible">
+              Matthew
+            </td>
+            <td class="bible">
+              <a class="bible" href= 
+              "/GENESIS/GENESIS.shtml">Genesis</a>
+            </td>
+            <td class="bible">
+              <a href=
+              "/HISTORY/HISTORY100.shtml">History
+              100</a>
+            </td>
+            <td class="bible">
+              <a class="bible" href= 
+              "/documents/TOPICS_DOC/Hermeneutics.pdf">
+              Hermeneutics</a>
+            </td>
+          </tr>
+          <tr>
+            <td class="bible">
+              <a class="bible" href="MARK/MARK.shtml">Mark</a>
+            </td>
+            <td class="bible">
+              <a href=
+              "/EXODUS/Exodus.shtml">Exodus</a>
+            </td>
+            <td class="bible">
+              <a href=
+              "/HISTORY/HISTORY200.shtml">History 200</a>
+              (The Temple)
+            </td>
+            <td class="bible">
+              <a href=
+              "/FOUNDATIONS/FOUNDATIONS.shtml">Foundations
+              100</a>
+            </td>
+          </tr>
+          <tr>
+            <td class="bible">
+              <a class="bible" href="Luke/Luke.shtml">Luke</a>
+            </td>
+            <td class="bible">
+              <a href=
+              "/LEVITICUS/LEVITICUS.shtml">Leviticus</a>
+            </td>
+            <td class="bible">
+              <a href=
+              "/HISTORY/HISTORY300.shtml">History 300</a>
+              (Jewish Social Life)
+            </td>
+            <td class="bible">
+              <a href=
+              "/FOUNDATIONS/FOUNDATIONS.shtml">Foundations
+              200</a>
+            </td>
+          </tr>
+          <tr>
+            <td class="bible">
+              <a class="bible" href="JOHN/JOHN.shtml">John</a>
+            </td>
+            <td class="bible">
+              <a href=
+              "/NUMBERS/NUMBERS.shtml">Numbers</a>
+            </td>
+            <td class="bible">
+              <a class="bible" href="HISTORY/HISTORY400.shtml">History 400</a> (Life & Times of Jesus the Messiah)
+            </td>
+            <td class="bible">
+			<a class="bible" href="TTB/TTB.shtml">One Year Through the Bible</a>
+              
+            </td>
+          </tr>
+          <tr>
+            <td class="bible">
+              <a class="bible" href="ACTS/Acts100.shtml">Acts 1 to 7</a><br>
+              <a class="bible" href="ACTS/Acts200.shtml">Acts 8 to 14</a><br>
+              <a class="bible" href="ACTS/Acts300.shtml">Acts 15 to 21</a>
+            </td>
+            <td class="bible">
+              <a href=
+              "/DEUTERONOMY/DEUTERONOMY.shtml">Deuteronomy</a>
+            </td>
+            <td class="bible">
+              <a class="bible" href="History/History500.shtml">History 500</a> (Old Testament History)
+            </td>
+            <td class="blble">
+              <a href="/PAUL/PAUL.shtml">The Life and
+              Epistles of St. Paul</a>
+            </td>
+          </tr>
+          <tr>
+            <td class="bible">
+              <a class="bible" href="ROMANS/ROMANS.shtml">Romans</a>
+            </td>
+            <td class="bible">
+              <a href=
+              "/JOSHUA/JOSHUA.shtml">Joshua</a> | 
+			  <a href=
+              "/JUDGES/JUDGES.shtml">Judges</a>
+            </td>
+            <td class="bible">
+              <a href="HISTORY/History600.shtml">History 600</a> (People of the Old Testament
+              World)
+            </td>
+            <td class="bible">
+              <a href="/LOC/LifeOfChrist.shtml">Life
+              of Christ</a>
+            </td>
+          </tr>
+          <tr>
+            <td class="bible">
+              <a class="bible" href="GALATIANS/GALATIANS.shtml">Galatians</a>
+            </td>
+            <td class="bible"><a href="/RUTH/Ruth.shtml">Ruth</a></td>
+            <td class="bible">
+              <a href="HISTORY/History700.shtml">History 700</a> (The Jewish Nation
+              after 70 AD)
+            </td>
+            <td class="bible"></td>
+          </tr>
+          <tr>
+            <td class="bible">
+              <a href=
+              "/EPHESIANS/Ephesians.shtml">Ephesians</a>
+            </td>
+            <td class="bible"><a href="/1SAMUEL/1SAMUEL.shtml">1
+              Samuel</a> | 
+			  <a href="/2SAMUEL/2SAMUEL.shtml">2
+              Samuel</a>
+              
+            </td>
+            <td class="bible"><a href="/HISTORY/History801.shtml">History 801</a> (Chaldea)</td>
+            <td class="bible"></td>
+          </tr>
+          <tr>
+            <td class="bible">
+              <a class="bible" href=
+              "PHILIPPIANS/PHILIPPIANS.shtml">Philippians</a>
+            </td>
+            <td class="bible"><a href="/1KINGS/1KINGS.shtml">1
+              Kings</a> | 
+			  <a href="/2KINGS/2KINGS.shtml">2
+              Kings</a>
+			  </td>
+            <td class="bible"><a href="/HISTORY/History802.shtml">History 802</a> (Assyria)</td>
+            <td class="bible"></td>
+          </tr>
+          <tr>
+            <td class="bible">
+              <a class="bible" href=
+              "COLOSSIANS/COLOSSIANS.shtml">Colossians</a>
+            </td>
+            <td class="bible"><a href=
+              "/1CHRONICLES/1CHRONICLES.shtml">1
+              Chron.</a> | 
+			  <a href=
+              "/2CHRONICLES/2CHRONICLES.shtml">2
+              Chron.</a>
+              
+            </td>
+            <td class="bible"><a href="/HISTORY/History803.shtml">History 803</a> (Media)</td>
+            <td class="bible"></td>
+          </tr>
+          <tr>
+            <td class="bible">
+              <a class="bible" href= 
+              "/12THESSALONIANS/12Thessalonians.shtml">
+              1 Thessalonians</a>
+            </td>
+            <td class="bible">
+            <a href="/EZRA/EZRA.shtml">Ezra</a> | 
+			  <a href=
+              "cNEHEMIAH/NEHEMIAH.shtml">Nehemiah</a>
+            </td>
+            <td class="bible"><a href="/HISTORY/History804.shtml">History 804</a> (Babylonia)</td>
+            <td class="bible"></td>
+          </tr>
+          <tr>
+            <td class="bible">
+              <a class="bible" href= 
+              "/12THESSALONIANS/12Thessalonians.shtml">
+              2 Thessalonians</a>
+            </td>
+            <td class="bible">
+            <a class="bible" href="ESTHER/Esther.shtml">Esther</a> | 
+			<a href="/JOB/JOB.shtml">Job</a>
+            </td>
+            <td class="bible"><a href="/HISTORY/History805.shtml">History 805</a> (Persia)</td>
+            <td class="bible"></td>
+          </tr>
+          <tr>
+            <td class="bible">
+              <a class="bible" href="TITUS/TITUS.shtml">Titus</a>
+            </td>
+            <td class="bible">
+            <a href=
+              "/PSALMS/PSALMS.shtml">Psalms</a>  
+            </td>
+            <td class="bible"><a href="/HISTORY/History806.shtml">History 806</a> (Parthia)</td>
+            <td class="bible"></td>
+          </tr>
+          <tr>
+            <td class="bible">
+              <a class="bible" href="PHILEMON/Philemon.shtml">Philemon</a>
+            </td>
+            <td class="bible">
+             <a href=
+              "/PROVERBS/PROVERBS.shtml">Proverbs</a> 
+            </td>
+            <td class="bible"><a href="/HISTORY/History807.shtml">History 807</a> (Phoenicia)</td>
+            <td class="bible"></td>
+          </tr>
+          <tr>
+            <td class="bible">
+              <a class="bible" href="JAMES/JAMES.shtml">James</a>
+            </td>
+            <td class="bible">
+             <a class="bible" href=
+              "ECCLESIASTES/ECCLESIASTES.shtml">Ecclesiastes</a> 
+            </td>
+            <td class="bible"><a href="/HISTORY/History808.shtml">History 808</a> (Egypt)</td>
+            <td class="bible"></td>
+          </tr>
+          <tr>
+            <td class="bible">
+              <a class="bible" href= 
+              "/12PETER/12Peter.shtml">1 Peter</a>
+            </td>
+            <td class="bible">
+            <a class="bible" href= 
+              "/SONGOFSOLOMON/SONGOFSOLOMON.shtml">Song of Solomon</a>
+            </td>
+            <td class="bible"><a href="/HISTORY/History809.shtml">History 809</a> (The Sassanians)</td>
+            <td class="bible"></td>
+          </tr>
+          <tr>
+            <td class="bible">
+              <a class="bible" href= 
+              "/12PETER/12Peter.shtml">2 Peter</a>
+            </td>
+            <td class="bible">
+            <a class="bible" href= 
+              "/ISAIAH/ISAIAH.shtml">Isaiah</a> 
+            </td>
+            <td class="bible"><a href="/HISTORY/History810.shtml">History 810</a> (The Twelve Caesars)</td>
+            <td class="bible"></td>
+          </tr>
+          <tr>
+            <td class="bible">
+              <a class="bible" href= 
+              "/123JOHN/123John.shtml">1 John</a>
+            </td>
+            <td class="bible">
+            <a class="bible" href= 
+              "/JEREMIAH/JEREMIAH.shtml">Jeremiah</a> 
+            </td>
+            <td class="bible"></td>
+            <td class="bible"></td>
+          </tr>
+          <tr>
+            <td class="bible">
+              <a class="bible" href= 
+              "/123JOHN/123John.shtml">2 John</a>
+            </td>
+            <td class="bible">
+            <a class="bible" href= 
+              "/LAMENTATIONS/LAMENTATIONS.shtml">Lamentations</a>  
+            </td>
+            <td class="bible"></td>
+            <td class="bible"></td>
+          </tr>
+          <tr>
+            <td class="bible">
+              <a class="bible" href= 
+              "/123JOHN/123John.shtml">3 John</a>
+            </td>
+            <td class="bible">
+            <a class="bible" href= 
+              "/EZEKIEL/EZEKIEL.shtml">Ezekiel</a>
+            </td>
+            <td class="bible"></td>
+            <td class="bible"></td>
+          </tr>
+          <tr>
+            <td class="bible">
+              <a class="bible" href=
+              "/JUDE/Jude.shtml">Jude</a>
+            </td>
+            <td class="bible">
+            <a class="bible" href="DANIEL/DANIEL.shtml">Daniel</a>
+            </td>
+            <td class="bible"></td>
+            <td class="bible"></td>
+          </tr>
+          <tr>
+            <td class="bible">
+              <a class="bible" href="revelation/revelation.html">Revelation</a>
+            </td>
+            <td class="bible">
+            <a class="bible" href="HOSEA/Hosea.shtml">Hosea</a> |
+			<a class="bible" href="JOEL/JOEL.shtml">Joel</a> |
+			<a class="bible" href="AMOS/AMOS.shtml">Amos</a>
+            </td>
+            <td class="bible"></td>
+            <td class="bible"></td>
+          </tr>
+          
+          <tr>
+            <td class="bible"></td>
+            <td class="bible">
+              <a class="bible" href="OBADIAH/OBADIAH.shtml">Obadiah</a> | 
+			  <a class="bible" href="JONAH/JONAH.shtml">Jonah</a>
+            </td>
+            <td class="bible"></td>
+            <td class="bible"></td>
+          </tr>
+          <tr>
+            <td class="bible"></td>
+            <td class="bible">
+             <a class="bible" href="MICAH/MICAH.shtml">Micah</a> | 
+			 <a class="bible" href="NAHUM/NAHUM.shtml">Nahum</a>
+            </td>
+            <td class="bible"></td>
+            <td class="bible"></td>
+          </tr>
+          <tr>
+            <td class="bible"></td>
+            <td class="bible">
+             <a class="bible" href="HABAKKUK/HABAKKUK.shtml">Habakkuk</a> | 
+			 <a class="bible" href="ZEPHANIAH/ZEPHANIAH.shtml">Zephaniah</a>
+            </td>
+            <td class="bible"> Minor Prophets</td>
+            <td class="bible"></td>
+          </tr>
+          <tr>
+            <td class="bible"></td>
+            <td class="bible">
+            <a class="bible" href="HAGGAI/HAGGAI.shtml">Haggai</a> | 
+			<a class="bible" href="ZECHARIAH/ZECHARIAH.shtml">Zechariah</a> 
+            </td>
+            <td class="bible"></td>
+            <td class="bible"></td>
+          </tr>
+          <tr>
+            <td class="bible"></td>
+            <td class="bible"><a class="bible" href="MALACHI/MALACHI.shtml">Malachi</a></td>
+            <td class="bible"></td>
+            <td class="bible"></td>
+          </tr>
+        </table><br>
+        <!--#include virtual="/footer.html" -->
+      </div>
+    </div>
+  </body>
+</html>

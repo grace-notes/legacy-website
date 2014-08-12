@@ -1,0 +1,144 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <link href="../CSS/GN_STYLE.css" rel="stylesheet" type="text/css">
+    <title>
+      RUTH
+    </title>
+  </head>
+  <body>
+    <div class="container">
+      <!--#include virtual="/header.html" -->
+      <div class="content">
+        <br>
+        <br>
+        <h3>
+          Ruth the Moabitess
+        </h3>
+        <p>
+          by Warren Doud
+        </p>
+        <p>
+          This wonderful narrative is not only inspired Scripture from the
+          "mouth of God", it is one of the crown jewels of English literature
+          (at least in the KJV). If you're looking for a good book as your
+          "first" Old Testament book study, RUTH is a good choice.
+        </p>
+        <p>
+          There are 10 lessons in the Ruth course, distributed by email. To
+          register for the certificate courses, write to <b><a href= 
+          "mailto:wdoud@gracenotes.info">Warren Doud</a></b>.
+        </p>
+        <p>
+          The topical studies are listed in alphabetical order in the Topics
+          Library.
+        </p>
+        <p></p>
+        <table>
+          <tr>
+            <th width="20%">
+              <b>LESSON</b>
+            </th>
+            <th width="80%">
+              <b>TOPICS</b>
+            </th>
+          </tr>
+          <tr>
+            <td>
+              <b><a href="Ruth01.pdf" target="_blank">Ruth 1:1-10</a></b><br />
+			  <a href="Ruth01_Quiz.pdf" target="_blank">Ruth01 Quiz</a>
+            </td>
+            <td>
+              Bethlehem | The Moabites | Faith-Rest | Rahab
+            </td>
+          </tr>
+          <tr>
+            <td>
+              <b><a href="Ruth02.pdf" target="_blank">Ruth 1:11-22</a></b><br />
+			  <a href="Ruth02_Quiz.pdf" target="_blank">Ruth02 Quiz</a>
+            </td>
+            <td>
+              Old Age | Depression | Worry | Peace | Balaam
+            </td>
+          </tr>
+          <tr>
+            <td>
+              <b><a href="Ruth03.pdf" target="_blank">Ruth 2:1-7</a></b><br />
+			  <a href="Ruth03_Quiz.pdf" target="_blank">Ruth03 Quiz</a>
+            </td>
+            <td>
+              Servants and Slaves in Palestine | Faithfulness of God |
+              Agriculture in Palestine
+            </td>
+          </tr>
+          <tr>
+            <td>
+              <b><a href="Ruth04.pdf" target="_blank">Ruth 2:8-14</a></b><br />
+			  <a href="Ruth04_Quiz.pdf" target="_blank">Ruth04 Quiz</a>
+            </td>
+            <td>
+              The Christian in the Workplace | Levitical Sacrifices and
+              Offerings
+            </td>
+          </tr>
+          <tr>
+            <td>
+              <b><a href="Ruth05.pdf" target="_blank">Ruth 2:15-23</a></b><br />
+			  <a href="Ruth05_Quiz.pdf" target="_blank">Ruth05 Quiz</a>
+            </td>
+            <td>
+              Blessing | Faith
+            </td>
+          </tr>
+          <tr>
+            <td>
+              <b><a href="Ruth06.pdf" target="_blank">Ruth 3:1-6</a></b><br />
+			  <a href="Ruth06_Quiz.pdf" target="_blank">Ruth06 Quiz</a>
+            </td>
+            <td>
+              Redemption
+            </td>
+          </tr>
+          <tr>
+            <td>
+              <b><a href="Ruth07.pdf" target="_blank">Ruth 3:7-11</a></b><br />
+			  <a href="Ruth07_Quiz.pdf" target="_blank">Ruth07 Quiz</a>
+            </td>
+            <td>
+              Occupation with Christ | Separation | Purity in the Christian
+              Life
+            </td>
+          </tr>
+          <tr>
+            <td>
+              <b><a href="Ruth08.pdf" target="_blank">Ruth 3:12-18</a></b><br />
+			  <a href="Ruth08_Quiz.pdf" target="_blank">Ruth08 Quiz</a>
+            </td>
+            <td>
+              Promotion
+            </td>
+          </tr>
+          <tr>
+            <td>
+              <b><a href="Ruth09.pdf" target="_blank">Ruth 4:1-8</a></b><br />
+			  <a href="Ruth09_Quiz.pdf" target="_blank">Ruth09 Quiz</a>
+            </td>
+            <td>
+              [no topics with this lesson]
+            </td>
+          </tr>
+          <tr>
+            <td>
+              <b><a href="Ruth10.pdf" target="_blank">Ruth 4:9-22</a></b><br />
+			  <a href="Ruth10_Quiz.pdf" target="_blank">Ruth10 Quiz</a>
+            </td>
+            <td>
+              Husband of a Happy Wife | The Christian's Inheritance
+            </td>
+          </tr>
+        </table><br>
+        <!--#include virtual="/footer.html" -->
+      </div>
+    </div>
+  </body>
+</html>

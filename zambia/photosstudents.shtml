@@ -1,0 +1,179 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+
+<html>
+<head>
+   <title>Teacher Training Students</title>
+   <link href="ZAMBIA_STYLE.css" rel="stylesheet" type="text/css">
+   <style type="text/css">
+p.c2 {text-align: center}
+   p.c1 {font-weight: bold; text-align: center}
+   </style>
+</head>
+
+<body>
+
+<script type="text/javascript">  /* Google Analytics */
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-36925139-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+
+   <div class="container">
+      <!--#include file ="Header.html" -->
+
+      <div>
+         <br>
+
+         <h2>Grace Bible College of Kabwe</h2>
+
+         <h3>Teacher Training Students</h3>
+
+         <table class="photos">
+            <tr>
+               <td class="photos">
+                  <img src="Zambia_Images/PHOTOS_STUDENTS/BANDA_Jacob(062).JPG"
+                  width="180px" height="240px" border="2px solid black">
+
+                  <p class="c1">Jacob Banda</p>
+               </td>
+
+               <td>
+                  <img src=
+                  "Zambia_Images/PHOTOS_STUDENTS/BANDA_Philemon(144).JPG"
+                  width="180px" height="240px" border="2px solid black">
+
+                  <p class="c1">Philemon Banda</p>
+               </td>
+
+               <td>
+                  <img src=
+                  "Zambia_Images/PHOTOS_STUDENTS/BWALYA_Dominic(061).JPG"
+                  width="180px" height="240px" border="2px solid black">
+
+                  <p class="c2"><b>Dominic Bwalya</b></p>
+               </td>
+
+               <td>
+                  <img src=
+                  "Zambia_Images/PHOTOS_STUDENTS/CHITI_Barnabas(066).JPG"
+                  width="180px" height="240px" border="2px solid black">
+
+                  <p class="c1">Barnabas Chiti</p>
+               </td>
+            </tr>
+
+            <tr>
+               <td class="photos">
+                  <img src=
+                  "Zambia_Images/PHOTOS_STUDENTS/BINDABINDA_Phoeb(114).JPG"
+                  width="180px" height="240px" border="2px solid black">
+
+                  <p class="c1">Phoeb Bindabinda</p>
+               </td>
+
+               <td>
+                  <img src=
+                  "Zambia_Images/PHOTOS_STUDENTS/MBEHA_JudithChuma(044).JPG"
+                  width="180px" height="240px" border="2px solid black">
+
+                  <p class="c1">Judith Chuma Mbeha</p>
+               </td>
+
+               <td>
+                  <img src=
+                  "Zambia_Images/PHOTOS_STUDENTS/MUDENDA_Alfardronic(045).JPG"
+                  width="180px" height="240px" border="2px solid black">
+
+                  <p class="c2"><b>Alfardronic Mudenda, Accounts
+                  Assistant</b><br>
+                  Kabwe Central Baptist Church</p>
+               </td>
+
+               <td>
+                  <img src=
+                  "Zambia_Images/PHOTOS_STUDENTS/MUKANAKA_Cornelius(039).JPG"
+                  width="180px" height="240px" border="2px solid black">
+
+                  <p class="c1">Cornelius Mukanaka</p>
+               </td>
+            </tr>
+
+            <tr>
+               <td class="photos">
+                  <img src=
+                  "Zambia_Images/PHOTOS_STUDENTS/MUKISI_Ezekiel(142).JPG"
+                  width="180px" height="240px" border="2px solid black">
+
+                  <p class="c1">Ezekiel Mukisi</p>
+               </td>
+
+               <td>
+                  <img src="Zambia_Images/PHOTOS_STUDENTS/MWANSA_Amos(040).JPG"
+                  width="180px" height="240px" border="2px solid black">
+
+                  <p class="c1">Amos Mwansa Katongo</p>
+               </td>
+
+               <td>
+                  <img src=
+                  "Zambia_Images/PHOTOS_STUDENTS/MWANSA_Moses(007).JPG" width=
+                  "180px" height="240px" border="2px solid black">
+
+                  <p class="c1">Moses Mwansa</p>
+               </td>
+
+               <td>
+                  <img src=
+                  "Zambia_Images/PHOTOS_STUDENTS/LUKONDE_Francis(019).JPG"
+                  width="180px" height="240px" border="2px solid black">
+
+                  <p class="c1">Francis Lukonde</p>
+               </td>
+            </tr>
+
+            <tr>
+               <td class="photos">
+                  <img src=
+                  "Zambia_Images/PHOTOS_STUDENTS/MUKWAILA_Ronald(004).JPG"
+                  width="180px" height="240px" border="2px solid black">
+
+                  <p class="c1">Ronald Mukwaila</p>
+               </td>
+
+               <td class="photos">
+                  <img src=
+                  "Zambia_Images/PHOTOS_STUDENTS/MAMBWE_Phales(2).JPG"
+                  width="180px" height="240px" border="2px solid black">
+
+                  <p class="c1">Phales Mambwe</p>
+               </td>
+			   
+               <td class="photos">
+                  <img src=
+                  "Zambia_Images/PHOTOS_STUDENTS/MUNYENYEMBE_Joseph(2).JPG"
+                  width="180px" height="240px" border="2px solid black">
+
+                  <p class="c1">Joseph Munyenyembe</p>
+               </td>
+			                  
+			   <td class="photos">
+                  <img src=
+                  "Zambia_Images/PHOTOS_STUDENTS/NSOFWA_LutaKasongo(166).JPG"
+                  width="180px" height="240px" border="2px solid black">
+
+                  <p class="c1">Luta Kasongo Nsofwa</p>
+               </td>
+            </tr>
+         </table><!--#include file="Footer.html" -->
+      </div>
+   </div>
+</body>
+</html>

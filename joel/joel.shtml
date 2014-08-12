@@ -1,0 +1,45 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN">
+<html>
+  <head>
+    <link href="../CSS/GN_STYLE.css" rel="stylesheet" type="text/css">
+    <meta http-equiv="Content-Type" content="text/html; ISO-8859-1">
+    <title>
+      JOEL
+    </title>
+  </head>
+  <body>
+    <div class="container">
+      <!--#include virtual="/header.html" -->
+      <div class="content">
+        <br>
+        <br>
+        <h2>
+          JOEL
+        </h2>
+        <p>
+          This commentary on the book of Joel is part of a Grace Notes course
+          on Joel, Jonah, and Malachi.
+        </p>
+        <p>
+        To download the Joel study (pdf), click here:
+        <b><a href="Joel.pdf" target="_blank">JOEL</a></b></p>
+        <p>
+          Click to download the Keil and Delitzsch commentary: <b><a href= 
+          "JOEL(K&D).pdf" target="_blank">JOEL (K&D)</a></b>
+        </p>
+        <p>
+          Grace Notes has a 10-lesson course for <b>Joel, Jude, and
+          Malachi</b>.
+        </p>
+        <p>
+          The lessons are distributed by email. For information, or to register
+          for the certificate course, write to <b><a href= 
+          "mailto:wdoud@gracenotes.info">Warren Doud</a></b>.
+        </p><br>
+        <br>
+        <br>
+        <!--#include virtual="/footer.html" -->
+      </div>
+    </div>
+  </body>
+</html>

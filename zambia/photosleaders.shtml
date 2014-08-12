@@ -1,0 +1,83 @@
+<!DOCTYPE html >
+
+<html>
+<head>
+<title>Church Leaders</title>
+
+<link href="ZAMBIA_STYLE.css" rel="stylesheet" type="text/css">
+</head>
+
+<body>
+
+<script type="text/javascript">  /* Google Analytics */
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-36925139-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+
+<div class="container">
+
+<!--#include file ="Header.html" -->
+	   
+<div><br />
+<h2>Grace Bible College of Kabwe</h2>
+<h3>Church Leaders Attending Bible College</h3>
+
+<table class="photos">
+
+<tr>
+<td class="photos"><img src="Zambia_Images/PHOTOS_LEADERS/CHABALA_Nathan(146).JPG" width="180px" height="240px" border="2px solid black">
+<p align="center"><b>Nathan Chabala, Elder</b><br>
+Nakoli Township</p> 
+</td>
+<td><img src="Zambia_Images/PHOTOS_LEADERS/CHABINGA_Solomon(105).JPG" width="180px" height="240px" border="2px solid black">
+<p align="center"><b>Solomon Chabinga, Deacon</b><br>
+Kabwe Central Baptist Church</p> </td>
+<td><img src="Zambia_Images/PHOTOS_LEADERS/CHEMBE_Shadreck(149).JPG" width="180px" height="240px" border="2px solid black">
+<p align="center"><b>Shadreck Chembe, Elder</b></p> </td>
+<td><img src="Zambia_Images/PHOTOS_LEADERS/KAYOMBO_Joseph(139).JPG" width="180px" height="240px" border="2px solid black">
+<p align="center"><b>Joseph Kayombo, Deacon</b></p> </td>
+</tr>
+
+<tr>
+<td class="photos"><img src="Zambia_Images/PHOTOS_LEADERS/KUNDA_Lovemore(175).JPG" width="180px" height="240px" border="2px solid black">
+<p align="center"><b>Lovemore Kunda, Deacon</b><br>
+Kabwe Central Baptist Church</p> 
+</td>
+<td><img src="Zambia_Images/PHOTOS_LEADERS/LUNGU_Mateyo(104).JPG" width="180px" height="240px" border="2px solid black">
+<p align="center"><b>Mateo Lungu, Deacon</b></p> </td>
+<td><img src="Zambia_Images/PHOTOS_LEADERS/MUSHANGA_Moffatt(110).JPG" width="180px" height="240px" border="2px solid black">
+<p align="center"><b>Moffatt Mushanga, Deacon</b><br>
+Kabwe Central Baptist Church</p>
+</td>
+<td><img src="Zambia_Images/PHOTOS_LEADERS/NGOSA_Gabriel(140).JPG" width="180px" height="240px" border="2px solid black">
+<p align="center"><b>Gabriel Ngosa, Elder</b><br>
+Nakoli Township</p> 
+</td>
+</tr>
+
+<tr>
+<td><img src="Zambia_Images/PHOTOS_LEADERS/NJOBVU_Gamariel(037).JPG" width="180px" height="240px" border="2px solid black">
+<p align="center"><b>Gamariel Njobvu, Deacon</b><br>
+Kabwe Central Baptist Church</p>
+</td>
+<td><img src="Zambia_Images/PHOTOS_LEADERS/SINKUNTWA_Melvin(063).JPG" width="180px" height="240px" border="2px solid black">
+<p align="center"><b>Melvin Sinkuntwa, Elder</b></p> 
+</td>
+</tr>
+
+</table>
+   
+<!--#include file="Footer.html" -->
+
+</div>
+</body>
+</html>

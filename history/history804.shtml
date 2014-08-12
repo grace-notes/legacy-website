@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+   <link href="../CSS/GN_STYLE.css" rel="stylesheet" type="text/css">
+
+   <title>History 804 - Babylonia</title>
+</head>
+
+<body>
+<div class="container">
+<!--#include virtual="/header.html" -->
+
+<div class="content">
+
+   <h2>History 804 - Babylonia</h2>
+
+<h3>by George Rawlinson</h3>
+
+   <p>This course is based on the work of George Rawlinson, <i>The Seven Great Monarchies of the Ancient Eastern World</i>.</p>
+   <p>There is a biography of George Rawlinson in Wikipedia: <a href="http://en.wikipedia.org/wiki/George_Rawlinson" target="_blank">George Rawlinson</a></p>
+   <p>The course has five (5) lessons, with quizzes.<br>
+    To request the course, write to:
+   <a href="mailto:wdoud@gracenotes.info" target=_blank">wdoud@gracenotes.info</a></p>
+
+   
+
+<p>Download the complete file: <a href="/HISTORY/History804_Documents/BABYLONIA.pdf" target="_blank">Babylonia</a></p>
+
+<!--#include virtual="/footer.html" -->
+</div>
+</div>
+</body>
+</html>

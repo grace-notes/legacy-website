@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+   <link href="../CSS/GN_STYLE.css" rel="stylesheet" type="text/css">
+
+   <title>History 700</title>
+</head>
+
+<body>
+   <div class="container">
+      <!--#include virtual="/header.html" -->
+
+      <div class="content">
+         <br>
+         <br>
+
+         <h2>History 700 - History of the Jewish Nation after 70 AD</h2>
+
+         <h3>by Alfred Edersheim</h3>
+
+         <p>This course is based on the book, <b>History of the Jewish Nation after the Destruction of Jerusalem under Titus</b>, by Rev. Alfred Edersheim, MA, DD, PhD.</p>
+         <p>Download the complete file, with Table of Contents: <a href="History700_Documents/EDERSHEIM_HistoryOfJewishNation.pdf" target="_blank">History of Jewish Nation after 70 AD</a></p>
+
+		 <p>The Grace Notes course has 12 lessons, with quizzes.<br />
+         To request the course, write to: <a href= 
+         "mailto:wdoud@gracenotes.info" target=
+         "_blank&quot;">wdoud@gracenotes.info</a></p>
+         <!--#include virtual="/footer.html" -->
+      </div>
+   </div>
+</body>
+</html>

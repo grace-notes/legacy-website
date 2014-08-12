@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+   <title>Runyankore Library</title>
+   <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+   <link href="/CSS/GN_STYLE.css" rel="stylesheet" type="text/css">
+</head>
+<style>
+td { 
+padding:5px;
+}
+</style>
+
+<body>
+<script type="text/javascript">
+/* Google Analytics */
+
+   var _gaq = _gaq || [];
+   _gaq.push(['_setAccount', 'UA-36925139-1']);
+   _gaq.push(['_trackPageview']);
+
+   (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+   })();
+
+</script>
+
+   <div class="container">
+      <!--#include virtual="/header.html" -->
+
+      <div class="content">
+	  <br>
+          <h3>Runyankore Library</h3>
+        
+
+         <p>Bible doctrine topical studies in RUNYANKORE and English.<br><br />
+         <strong>Click</strong> [<b>PDF</b>] to read a file.</p>
+
+         <table>
+		   <tr>
+               <td><b>RUNYANKORE/English Parallel Bible Books -
+               [<a href="/TRANSLATION/RUNYANKORE/BOOKS/RUTH_RUNYANKORE-NIV.pdf"
+               target="_blank">RUTH</a>] 			   
+			   [<a href="/TRANSLATION/RUNYANKORE/BOOKS/EPHESIANS_RUNYANKORE-NIV.pdf"
+               target="_blank">EPHESIANS</a>]
+			   [<a href="/TRANSLATION/RUNYANKORE/BOOKS/TITUS_RUNYANKORE-NIV.pdf"
+               target="_blank">TITUS</a>] 
+			   </td>
+            </tr>			            
+            <tr>
+              <td><b>DOCTRINE 100</b>
+			   <blockquote>
+			   <b>Amara Agtahwaho</b> (Eternal Life) - [<a href= 
+              "/TRANSLATION/RUNYANKORE/TOPICS/ETERNALLIFE_RunyankoreEnglish.pdf"
+              target="_blank">PDF</a>]<br />
+			   <b>Engiri</b> (The Gospel) - [<a href= 
+              "/TRANSLATION/RUNYANKORE/TOPICS/GOSPEL_RunyankoreEnglish.pdf"
+              target="_blank">PDF</a>]<br />
+			  <b>Enyikiriza Zobujunwa</b> (Salvation Doctrines) - [<a href= 
+              "/TRANSLATION/RUNYANKORE/TOPICS/SALVATION_RunyankoreEnglish.pdf"
+              target="_blank">PDF</a>]<br />
+			  <b>Obumwe na Kristo</b> (Union with Christ) - [<a href= 
+              "/TRANSLATION/RUNYANKORE/TOPICS/UNION_RunyankoreEnglish.pdf"
+              target="_blank">PDF</a>]<br />
+			  <b>Okuzaarwa Obwakabiri</b> (Regeneration) - [<a href= 
+              "/TRANSLATION/RUNYANKORE/TOPICS/REGENERATION_RunyankoreEnglish.pdf"
+              target="_blank">PDF</a>]
+			   </blockquote>
+			  </td>
+            </tr>            
+         </table><br>
+         <br>
+         <br>
+         <!--#include virtual="/Footer.html" -->
+      </div>
+   </div>
+</body>
+</html>

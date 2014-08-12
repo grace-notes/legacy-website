@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+   <link href="../CSS/GN_STYLE.css" rel="stylesheet" type="text/css">
+
+   <title>TITUS</title>
+</head>
+
+<body>
+   <div class="container">
+      <!--#include virtual="/header.html" -->
+
+      <div class="content">
+         <br>
+         <br>
+
+         <h3>Epistle to Titus</h3>
+
+         <p>by Warren Doud</p>
+
+         <p>An expositional study of the Epistle to Titus. Titus was assigned by Paul to "correct the things wanting" on the island of Crete.</p>
+		 <p>An excellent book to study; my personal favorite, probably because it's the first complete book I taught, and the first one I memorized.  It's a short book, so your gratification and blessing at having studied (and memorized) a complete book comes fairly quickly.</p>
+
+         <p>There are 10 lessons in the Titus course, distributed by email. To
+         register for the certificate courses, write to <b><a href=
+         "mailto:wdoud@gracenotes.info">Warren Doud</a></b>.</p>
+		 <p>Download the whole Titus study in a single file: <b><a href="TITUS.pdf" target="_blank">TITUS</a></b> (PDF)
+
+         <p>The topical studies are listed in alphabetical order in the Topics
+         Library.</p>
+
+         <p></p>
+
+         <table>
+            <tr>
+               <th width="20%"><b>LESSON</b></th>
+               <th width="80%"><b>TOPICS</b></th>
+            </tr>
+
+            <tr>
+               <td><b><a href="Titus001.pdf" target="_blank">Titus
+               1:1-7</a></b><br />
+			   <a href="Titus001_Quiz.pdf" target="_blank">Titus001 Quiz</a></td>
+               <td>Godliness | Hope | Preaching | Paul the Apostle</td>
+            </tr>
+
+            <tr>
+               <td><b><a href="Titus002.pdf" target="_blank">Titus
+               1:8,9</a></b><br />
+			   <a href="Titus002_Quiz.pdf" target="_blank">Titus002 Quiz</a></td>
+               <td>Judgment, Justice, Judging | Shepherds of the Flock of God</td>
+            </tr>
+
+            <tr>
+               <td><b><a href="Titus003.pdf" target="_blank">Titus
+               1:10-16</a></b><br />
+			   <a href="Titus003_Quiz.pdf" target="_blank">Titus003 Quiz</a></td>
+               <td>Circumcision | Union with Christ |
+               Mental Attitude | Sins of the Tongue</td>
+            </tr>
+
+            <tr>
+               <td><b><a href="Titus004.pdf" target="_blank">Titus
+               2:1-6</a></b><br />
+			   <a href="Titus004_Quiz.pdf" target="_blank">Titus004 Quiz</a></td>
+               <td>Faith-Rest | Old Age | Authority</td>
+            </tr>
+
+            <tr>
+               <td><b><a href="Titus005.pdf" target="_blank">Titus
+               2:7-10</a></b><br />
+			   <a href="Titus005_Quiz.pdf" target="_blank">Titus005 Quiz</a></td>
+               <td>Servants of God | Servants and Slaves in Palestine</td>
+            </tr>
+
+            <tr>
+               <td><b><a href="Titus006.pdf" target="_blank">Titus
+               2:11,12</a></b><br />
+			   <a href="Titus006_Quiz.pdf" target="_blank">Titus006 Quiz</a></td>
+               <td>Grace | Salvation Doctrines</td>
+            </tr>
+
+            <tr>
+               <td><b><a href="Titus007.pdf" target="_blank">Titus
+               2:13-15</a></b><br />
+			   <a href="Titus007_Quiz.pdf" target="_blank">Titus007 Quiz</a></td>
+               <td>Rapture | Redemption</td>
+            </tr>
+
+            <tr>
+               <td><b><a href="Titus008.pdf" target="_blank">Titus
+               3:1-6</a></b><br />
+			   <a href="Titus008_Quiz.pdf" target="_blank">Titus008 Quiz</a></td>
+               <td>Anger | Forgiveness | Regeneration | Sin Nature | Essence of God</td>
+            </tr>
+
+            <tr>
+               <td><b><a href="Titus009.pdf" target="_blank">Titus
+               3:7-11</a></b><br />
+			   <a href="Titus009_Quiz.pdf" target="_blank">Titus009 Quiz</a></td>
+               <td>Heresy and Apostasy | Propitiation | Imputation | Reconciliation</td>
+            </tr>
+
+            <tr>
+               <td><b><a href="Titus010.pdf" target="_blank">Titus
+               3:12-15</a></b><br />
+			   <a href="Titus010_Quiz.pdf" target="_blank">Titus010 Quiz</a></td>
+               <td>Apollos | Aquila and Priscilla</td>
+            </tr>
+         </table><br>
+         <!--#include virtual="/footer.html" -->
+      </div>
+   </div>
+</body>
+</html>

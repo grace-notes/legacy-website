@@ -1,0 +1,135 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+   <title>Bemba Topics Library</title>
+   <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+   <link href="ZAMBIA_STYLE.css" rel="stylesheet" type="text/css">
+</head>
+
+<body>
+   <script type="text/javascript">
+/* Google Analytics */
+
+   var _gaq = _gaq || [];
+   _gaq.push(['_setAccount', 'UA-36925139-1']);
+   _gaq.push(['_trackPageview']);
+
+   (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+   })();
+
+   </script>
+
+   <div class="container">
+      <!--#include file="Header.html" -->
+
+      <div class="content">
+         <br>
+         <br>
+
+         <p>Bible doctrine topical studies in Bemba and English.<br>
+         <strong>Click</strong> [<b>PDF</b>] to read a file. <strong>Right
+         Click</strong> to download the Acrobat Reader version of the
+         topic.</p>
+
+         <table>
+		 <tr>
+               <td><b>Bemba/English Parallel Translations -
+               <a href="/TRANSLATION/BEMBA/BOOKS/TITUS_BEMBA-NIV.pdf"
+               target="_blank">Titus</a> | 
+			   <a href="/TRANSLATION/BEMBA/BOOKS/RUTH_BEMBA-NIV.pdf"
+               target="_blank">Ruth</a> | 
+			   <a href="/TRANSLATION/BEMBA/BOOKS/EPHESIANS_BEMBA-NIV.pdf"
+               target="_blank">Ephesians</a> | 
+			   <a class="bible" href="/TRANSLATION/BEMBA/BOOKS/ROMANS_BEMBA-NIV.pdf"
+              target="_blank">Romans</a> | 
+			   </td>
+            </tr>
+            <tr>
+               <td><b>DOCTRINE 101</b>
+			   <blockquote>
+			   <b> Amasambilisho Yepusukilo</b> (Salvation Doctrines) -
+               [<a href="Zambia_Documents/TOPICS/SALVATION_Bemba-English.pdf"
+               target="_blank">PDF</a>]<br />
+			   <b> Imbila Nsuma</b> (The Gospel) - [<a href= 
+               "Zambia_Documents/TOPICS/GOSPEL_Bemba-English.pdf" target=
+               "_blank">PDF</a>]<br />
+			   <b> Isinge na Kristu</b> (Union with Christ) - [<a href= 
+               "Zambia_Documents/TOPICS/UNION_Bemba-English.pdf" target=
+               "_blank">PDF</a>]<br />
+			   <b> Ukufyalwa Cipyapya</b> (Regeneration) -[<a href= 
+               "Zambia_Documents/TOPICS/REGENERATION_Bemba-English.pdf" target= 
+               "_blank">PDF</a>]<br />
+			   <b> Umweo Wamuyaya</b> (Eternal Life) - [<a href= 
+               "Zambia_Documents/TOPICS/ETERNAL-LIFE_Bemba-English.pdf" target= 
+               "_blank">PDF</a>]
+			   </blockquote>
+			   </td>
+            </tr>
+            <tr>
+               <td><b>DOCTRINE 102</b>
+			   <blockquote>
+			   <b>Ukuyebelela Imembu</b> (Confession of Sin) - [<a href= 
+               "Zambia_Documents/TOPICS/Confession_Bemba-English.pdf" target= 
+               "_blank">PDF</a>]<br />
+			   <b>Ukwikalilila kwa Mupashi wa Mushilo</b> (Indwelling Holy Spirit) - [<a href= 
+               "Zambia_Documents/TOPICS/HolySpiritIndwelling_Bemba-English.pdf" target= 
+               "_blank">PDF</a>]<br />
+			   <b>Ukwisushiwa Kwa Mupashi Wamushilo</b> (Filling of the
+               Holy Spirit) - [<a href= 
+               "Zambia_Documents/TOPICS/HolySpiritFilling_Bemba-English.pdf" target= 
+               "_blank">PDF</a>]<br />
+			   <b>Ulubatisho lwa Mupashi wa Mushilo</b> (Baptism of the Holy Spirit) - [<a href= 
+               "Zambia_Documents/TOPICS/HolySpiritBaptism_Bemba-English.pdf" target= 
+               "_blank">PDF</a>]<br />
+			   <b>Umupashi Wamushilo</b> (The Person and Work of the Holy Spirit) - [<a href= 
+               "Zambia_Documents/TOPICS/HolySpirit_Bemba-English.pdf" target= 
+               "_blank">PDF</a>]
+			   </blockquote>
+			   </td>
+            </tr>
+            <tr>
+               <td><b>DOCTRINE 106</b>
+			   <blockquote>
+			   <b>Icipuna ca Bupingishi Ica kwa Kristu</b> (Judgment Seat of Christ) -
+               [<a href="Zambia_Documents/TOPICS/JudgmentSeat_Bemba-English.pdf"
+               target="_blank">PDF</a>]<br />
+			   <b>Umubili wakwa Kristu</b> (The Body of Christ) - [<a href= 
+               "Zambia_Documents/TOPICS/BodyOfChrist_Bemba-English.pdf" target= 
+               "_blank">PDF</a>]<br />
+			   <b>Umulalilo Ne Cakucilila</b> (Communion and Passover) - [<a href= 
+               "Zambia_Documents/TOPICS/CommunionPassover_Bemba-English.pdf" target= 
+               "_blank">PDF</a>]<br />
+			   <b>Umulopa wakwa Kristu</b> (The Blood of Christ) - [<a href= 
+               "Zambia_Documents/TOPICS/BloodOfChrist_Bemba-English.pdf" target= 
+               "_blank">PDF</a>]
+			   </blockquote>
+			   </td>
+            </tr>
+			<tr>
+				<td><b>DOCTRINE 107</b>
+				<blockquote>
+				<b>Ubupyungishi Bwakwa Mupashi wa Mushilo Ubwakubakilila</b></b> - (Holy Spirit Sustaining Ministries) -
+               [<a href="Zambia_Documents/TOPICS/HolySpiritSustaining_Bemba-English.pdf"
+               target="_blank">PDF</a>]<br />
+				<b>Ubupyungishi Bwakwa Mupashi wa Mushilo Ubwepusukilo</b></b> - (Holy Spirit Salvation Ministries) -
+               [<a href="Zambia_Documents/TOPICS/HolySpiritSalvation_Bemba-English.pdf"
+               target="_blank">PDF</a>]<br />
+				<b>Ukunina no Kupatama kwa kwa Kristu</b> - (Ascension/Session of Christ) -
+               [<a href="Zambia_Documents/TOPICS/AscensionSession_BembaEnglish.pdf"
+               target="_blank">PDF</a>]
+			   
+				</blockquote>
+				</td>
+			</tr>
+         </table><br>
+         <br>
+         <br>
+         <!--#include file="Footer.html" -->
+      </div>
+   </div>
+</body>
+</html>

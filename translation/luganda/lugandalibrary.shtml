@@ -1,0 +1,183 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>
+      Luganda Doctrinal Library
+    </title>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <link href="/CSS/GN_STYLE.css" rel="stylesheet"
+    type="text/css">
+    <style type="text/css">
+td { 
+    padding:5px;
+    }
+    </style>
+  </head>
+  <body>
+    <script type="text/javascript">
+/* Google Analytics */
+
+    var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-36925139-1']);
+    _gaq.push(['_trackPageview']);
+
+    (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    })();
+
+    </script>
+    <div class="container">
+      <!--#include virtual="/header.html" -->
+      <div class="content">
+        <br>
+        <h3>
+          Luganda Doctrinal Library
+        </h3>
+        <p>
+          Bible doctrine topical studies in LUGANDA and English.<br>
+          <br>
+          <strong>Click</strong> [<b>PDF</b>] to read a file.
+        </p>
+        <table>
+          <tr>
+            <td>
+              <b>Luganda Bible (8 MB) - <a href="/UGANDA/UGANDA_DOCUMENTS/LUGANDA_Bible.pdf"
+              target="_blank">[PDF]</a></b>
+            </td>
+          </tr>
+          <tr>
+            <td>
+              <b>LUGANDA/English Parallel Bible Books - [<a href= 
+              "/TRANSLATION/LUGANDA/BOOKS/RUTH_LUGANDA-NIV.pdf"
+              target="_blank">Ruth</a>] [<a href= 
+              "/TRANSLATION/LUGANDA/BOOKS/HOSEA_LUGANDA-NIV.pdf"
+              target="_blank">Hosea</a>] [<a href= 
+              "/TRANSLATION/LUGANDA/BOOKS/MARK_LUGANDA-NIV.pdf"
+              target="_blank">Mark</a>] [<a href= 
+              "/TRANSLATION/LUGANDA/BOOKS/ROMANS_LUGANDA-NIV.pdf"
+              target="_blank">Romans</a>] [<a href= 
+              "/TRANSLATION/LUGANDA/BOOKS/EPHESIANS_LUGANDA-NIV.pdf"
+              target="_blank">Ephesians</a>] [<a href= 
+              "/TRANSLATION/LUGANDA/BOOKS/TITUS_LUGANDA-NIV.pdf"
+              target="_blank">Titus</a>]</b>
+            </td>
+          </tr>
+          <tr>
+            <td>
+			<b>DOCTRINE 101</b><br />
+              <b>Enjiri</b> (The Gospel) - [<a href= 
+              "/TRANSLATION/LUGANDA/TOPICS/GOSPEL_Luganda-English.pdf"
+              target="_blank">PDF</a>]<br />			
+              <b>Enjigiriza z'obulokozi</b> (Salvation Doctrines) - [<a href= 
+              "/TRANSLATION/LUGANDA/TOPICS/SALVATION_Luganda-English.pdf"
+              target="_blank">PDF</a>]<br />			  
+              <b>Obulamu obutaggwaawo</b> (Eternal Life) - [<a href= 
+              "/TRANSLATION/LUGANDA/TOPICS/ETERNAL-LIFE_Luganda-English.pdf"
+              target="_blank">PDF</a>]<br />			  
+              <b>Okugattibwa ne Kristo</b> (Union with Christ) - [<a href= 
+              "/TRANSLATION/LUGANDA/TOPICS/UNION_Luganda-English.pdf"
+              target="_blank">PDF</a>]<br />
+			  <b>Okuzaalibwa ogw'okubiri</b> (Regeneration) - [<a href= 
+              "/TRANSLATION/LUGANDA/TOPICS/REGENERATION_Luganda-English.pdf"
+              target="_blank">PDF</a>]             
+            </td>
+          </tr>
+          <tr>
+            <td>
+			<b>DOCTRINE 102</b><br />
+			<b>Embeera z’obuntu bw’Omwoyo Omutukuvu</b> (The Person and Work of the Holy Spirit) - [<a href= 
+              "/TRANSLATION/LUGANDA/TOPICS/HolySpirit_LugandaEnglish.pdf"
+              target="_blank">PDF</a>]<br />
+			  <b>Omwoyo Omutukuvu Abeera Muffe</b> (The Indwelling Holy Spirit) - [<a href= 
+              "/TRANSLATION/LUGANDA/TOPICS/HolySpiritIndwelling_LugandaEnglish.pdf"
+              target="_blank">PDF</a>]<br />
+			  <b>Okujjuzibwa Omwoyo Omutukuvu</b> (The Filling of the Holy Spirit) - [<a href= 
+              "/TRANSLATION/LUGANDA/TOPICS/HolySpiritFilling_LugandaEnglish.pdf"
+              target="_blank">PDF</a>]<br />
+			  <b>Okwatula Ekibi</b> (Confession of Sin) - [<a href= 
+              "/TRANSLATION/LUGANDA/TOPICS/ConfessionOfSin_LugandaEnglish.pdf"
+              target="_blank">PDF</a>]<br />
+			  <b>Okubatizibwa Omwoyo Omutukuvu</b> (The Baptism of the Holy Spirit) - [<a href= 
+              "/TRANSLATION/LUGANDA/TOPICS/HolySpiritBaptism_LugandaEnglish.pdf"
+              target="_blank">PDF</a>]
+            </td>
+          </tr>
+          <tr>
+            <td>
+			<b>DOCTRINE 103</b><br />
+              <b>EKISA</b> (GRACE) - [<a href= 
+              "/TRANSLATION/LUGANDA/TOPICS/GRACE_Luganda-English.pdf"
+              target="_blank">PDF</a>]
+              
+            </td>
+          </tr>
+          <tr>
+            <td>
+			<b>DOCTRINE 106</b><br />
+			<b>Entebe Ya Kristo Ey'omusango</b> (The Judgment Seat of Christ)
+              - [<a href= 
+              "/TRANSLATION/LUGANDA/TOPICS/JUDGMENTSEAT_Luganda-English.pdf"
+              target="_blank">PDF</a>]<br />
+			  <b>Omusaayi gwa Kristo</b> (The Blood of Christ) - [<a href= 
+              "/TRANSLATION/LUGANDA/TOPICS/BLOODOFCHRIST_Luganda-English.pdf"
+              target="_blank">PDF</a>]<br />
+			  <b>Omubiri gwa Kristo</b> (The Body of Christ) - [<a href= 
+              "/TRANSLATION/LUGANDA/TOPICS/BODYOFCHRIST_Luganda-English.pdf"
+              target="_blank">PDF</a>]<br />
+			  <b>Emmeeza engukuvu n’okuyitako</b> (Communion and Passover) -
+              [<a href="/TRANSLATION/LUGANDA/TOPICS/COMMUNIONPASSOVER_Luganda-English.pdf"
+              target="_blank">PDF</a>]
+            </td>
+          </tr>          
+          <tr>
+            <td>
+              <b>Okubuulira</b> (Preaching) - [<a href= 
+              "/TRANSLATION/LUGANDA/TOPICS/PREACHING_Luganda-English.pdf"
+              target="_blank">PDF</a>]
+            </td>
+          </tr>
+          <tr>
+            <td>
+              <b>Okutya Katonda</b> (Godliness) - [<a href= 
+              "/TRANSLATION/LUGANDA/TOPICS/GODLINESS_Luganda-English.pdf"
+              target="_blank">PDF</a>]
+            </td>
+          </tr>          
+          <tr>
+            <td>
+              <b>Omusango, Obwenkanya, n'Okulamula</b> (Judgment, Justice, and
+              Judging) - [<a href= 
+              "/TRANSLATION/LUGANDA/TOPICS/JudgmentJusticeJudging_Luganda-English.pdf"
+              target="_blank">PDF</a>]
+            </td>
+          </tr>          
+          <tr>
+            <td>
+              <b>Pawulo Omutume</b> (Paul the Apostle) - [<a href= 
+              "/TRANSLATION/LUGANDA/TOPICS/PAUL_Luganda-English.pdf"
+              target="_blank">PDF</a>]<br />
+			  <b>Balunzi b'ekisibo kya Katonda</b> (Shepherds of the Flock of
+              God) - [<a href= 
+              "/TRANSLATION/LUGANDA/TOPICS/Shepherds_Luganda-English.pdf"
+              target="_blank">PDF</a>]
+            </td>
+          </tr>
+          <tr>
+            <td>
+              <b>Ebbaluwa ya Pawulo eri TITO</b> (Titus Course) - [<a href= 
+              "/TRANSLATION/LUGANDA/TITUS/TITO001_Luganda.pdf"
+              target="_blank">Essomo 1: Tito 1:1-7</a>] [<a href= 
+              "/TRANSLATION/LUGANDA/TITUS/TITO002_Luganda.pdf"
+              target="_blank">Essomo 2: Tito 1:8,9</a>]
+            </td>
+          </tr>
+        </table><br>
+        <br>
+        <br>
+        <!--#include virtual="/Footer.html" -->
+      </div>
+    </div>
+  </body>
+</html>

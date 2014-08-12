@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+   <title>Kabwe Church</title>
+   <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+   <link href="ZAMBIA_STYLE.css" rel="stylesheet" type="text/css">
+</head>
+
+<body>
+
+<script type="text/javascript">  /* Google Analytics */
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-36925139-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+
+   <div class="container">
+      <!--#include file ="Header.html" -->
+      <img class="right" src="Zambia_Images/Gabriel_Nsofwa-002.jpg">
+
+      <div class="content">
+         <br>
+
+         <p style="font-size:1.2em"><b>Kabwe Central Baptist Church<br>
+         Kabwe, Zambia</b></p>
+
+         <div class="indent">
+            <p><b>"Umukristu uushaishiba ifyo Lesa acita munshiku shakale,
+            kabili uusha kwata ici tetekelo mufyo Lesa aka cita munshiku sha
+            kuntanshi, akaba uwapumfyanishiwa muma sanso ya shino inshiku."</b>
+            Chester McCalley <b>*</b></p>
+         </div>
+
+         <p style="font-size:1.1em"><b>Pastor, Rev. Gabriel Bwalya
+         Nsofwa</b><br></p>
+
+         <div class="indent">
+            <a class="menu" href="ChurchSchedule.shtml">Schedule of Church
+            Activities</a><br>
+            <a class="menu" href="Constitution.shtml">Church
+            Constitution</a><br>
+            <a class="menu" href="Constitution.shtml#faith" target=
+            "_blank">Doctrinal Statement of Faith</a>
+
+            <p></p>
+         </div>
+
+<!--#include file ="RightMenu.html" -->
+
+         <p style="font-size:1.0em"><b>Church Outreach Activities</b></p>
+
+         <div class="indent">
+            <a class="menu" href=
+            "/ZAMBIA/SchoolsMinistry.shtml">Evangelism
+            in Public Schools</a><br>
+            <a class="menu" href=
+            "/ZAMBIA/BibleCollege.shtml">Grace Bible
+            College of Kabwe</a><br>
+            <a class="menu" href=
+            "/ZAMBIA/Translation.shtml">Bemba
+            Translation of Grace Notes</a><br>
+         </div>
+
+         <p>We want to carry out the commission of our Lord Jesus Christ,
+         through the Church's Bible teaching, preaching, and care ministries.
+         Our mission is to bring the lost to Christ, help them develop into
+         Christ-like maturity, and equip them for a life-saving Christian
+         ministry, in the church and in the world-at-large.</p>
+
+         <p>Our main objective for the church in Kabwe is to be a dynamic
+         spiritual organism which the Holy Spirit uses to share Christ with
+         as many people as possible, in our church and community, and to
+         minister unselfishly to persons in the community and the
+         world in Jesus' name.</p>
+
+         <p><b>Note</b>: The townships from which we draw our membership are
+         densely populated, with the majority of the people not in formal
+         employment, following the liquidation of several government-owned
+         parastatals (government-owned commercial enterprises) in the early
+         1990's. Most of those who are employed are so poorly paid that they
+         cannot adequately provide for their families. Sustenance for these
+         folks is dependent upon small scale farming, business in local
+         markets, or street vending.</p>
+
+         <p class="cambria">In view of economic hardships, many young men and
+         ladies have become involved with vices, such as prostitution and
+         thieving, to earn a living. The Kabwe Church's challenge is to reach
+         out and rehabilitate people through evangelism, Bible teaching, and
+         counseling.</p>
+
+         <p><b>*</b> "The Christian who does not understand what God has done
+         in the past, and who does not have faith in what God will do in the
+         future, will be overwhelmed by today's crisis." Chester McCalley</p>
+
+         <p class="cambria"></p>
+
+         <p class="cambria"></p><!--#include file="Footer.html" -->
+      </div>
+   </div>
+</body>
+</html>

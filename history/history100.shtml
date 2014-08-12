@@ -1,0 +1,181 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <link href="../CSS/GN_STYLE.css" rel="stylesheet" type="text/css">
+    <title>
+      History 100
+    </title>
+  </head>
+  <body>
+    <div class="container">
+      <!--#include virtual="/header.html" -->
+      <div class="content">
+        <br>
+        <br>
+        <h2>
+          History 100
+        </h2>
+        <p>
+          History 100 contains some outline surveys of history in the light of
+          the Bible. These can be studied alone or in the context of reading
+          and studying various books of the Bible
+        </p>
+        <p>
+          Download the whole History 100 study as a single file: <a href= 
+          "/HISTORY/History100_Documents/HISTORY_100.pdf"
+          target="_blank">History 100</a> (PDF)
+        </p>
+        <p>
+          The lessons are distributed by email. To register for the certificate
+          courses, write to <b><a href="mailto:wdoud@gracenotes.info">Warren
+          Doud</a></b>.
+        </p>
+        <p></p>
+        <table>
+          <caption>
+            HISTORY 100
+          </caption>
+          <tr>
+            <th width="20%">
+              <b>LESSON</b>
+            </th>
+            <th width="80%">
+              <b>TOPICS</b>
+            </th>
+          </tr>
+          <tr>
+            <td>
+              <b><a href= 
+              "/HISTORY/History100_Documents/History101.pdf" target="_blank">
+              History 101</a></b><br />
+			  <a href= 
+              "/HISTORY/History100_Documents/Hist101_Quiz.pdf" target="_blank">
+              History 101 Quiz</a>
+            </td>
+            <td>
+              Old Testament History, Part 1
+            </td>
+          </tr>
+          <tr>
+            <td>
+              <b><a href= 
+              "/HISTORY/History100_Documents/History102.pdf" target="_blank">
+              History 102</a></b><br />
+			  <a href= 
+              "/HISTORY/History100_Documents/Hist102_Quiz.pdf" target="_blank">
+              History 102 Quiz</a>
+            </td>
+            <td>
+              Old Testament History, Part 2
+            </td>
+          </tr>
+          <tr>
+            <td>
+              <b><a href= 
+              "/HISTORY/History100_Documents/History103.pdf" target="_blank">
+              History 103</a></b><br />
+			  <a href= 
+              "/HISTORY/History100_Documents/Hist103_Quiz.pdf" target="_blank">
+              History 103 Quiz</a>
+            </td>
+            <td>
+              Old Testament History, Part 3
+            </td>
+          </tr>
+          <tr>
+            <td>
+              <b><a href= 
+              "/HISTORY/History100_Documents/History104.pdf" target="_blank">
+              History 104</a></b><br />
+			  <a href= 
+              "/HISTORY/History100_Documents/Hist104_Quiz.pdf" target="_blank">
+              History 104 Quiz</a>
+            </td>
+            <td>
+              Old Testament History, Part 4
+            </td>
+          </tr>
+          <tr>
+            <td>
+              <b><a href= 
+              "/HISTORY/History100_Documents/History105.pdf" target="_blank">
+              History 105</a></b><br />
+			  <a href= 
+              "/HISTORY/History100_Documents/Hist105_Quiz.pdf" target="_blank">
+              History 105 Quiz</a>
+            </td>
+            <td>
+              Roman History, Part 1
+            </td>
+          </tr>
+          <tr>
+            <td>
+              <b><a href= 
+              "/HISTORY/History100_Documents/History106.pdf" target="_blank">
+              History 106</a></b><br />
+			  <a href= 
+              "/HISTORY/History100_Documents/Hist106_Quiz.pdf" target="_blank">
+              History 106 Quiz</a>
+            </td>
+            <td>
+              Roman History, Part 2
+            </td>
+          </tr>
+          <tr>
+            <td>
+              <b><a href= 
+              "/HISTORY/History100_Documents/History107.pdf" target="_blank">
+              History 107</a></b><br />
+			  <a href= 
+              "/HISTORY/History100_Documents/Hist107_Quiz.pdf" target="_blank">
+              History 107 Quiz</a>
+            </td>
+            <td>
+              Roman History, Part 3
+            </td>
+          </tr>
+          <tr>
+            <td>
+              <b><a href= 
+              "/HISTORY/History100_Documents/History108.pdf" target="_blank">
+              History 108</a></b><br />
+			  <a href= 
+              "/HISTORY/History100_Documents/Hist108_Quiz.pdf" target="_blank">
+              History 108 Quiz</a>
+            </td>
+            <td>
+              Roman History, Part 4
+            </td>
+          </tr>
+          <tr>
+            <td>
+              <b><a href= 
+              "/HISTORY/History100_Documents/History109.pdf" target="_blank">
+              History 109</a></b><br />
+			  <a href= 
+              "/HISTORY/History100_Documents/Hist109_Quiz.pdf" target="_blank">
+              History 109 Quiz</a>
+            </td>
+            <td>
+              Judean History
+            </td>
+          </tr>
+          <tr>
+            <td>
+              <b><a href= 
+              "/HISTORY/History100_Documents/History110.pdf" target="_blank">
+              History 110</a></b><br />
+			  <a href= 
+              "/HISTORY/History100_Documents/Hist110_Quiz.pdf" target="_blank">
+              History 110 Quiz</a>
+            </td>
+            <td>
+              Brief History of Crete (in support of the study of Titus)
+            </td>
+          </tr>
+        </table><br>
+        <!--#include virtual="/footer.html" -->
+      </div>
+    </div>
+  </body>
+</html>

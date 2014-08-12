@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>
+      Grace Giving
+    </title>
+    <link href="CSS/GN_STYLE.css" rel="stylesheet" type="text/css">
+  </head>
+  <body>
+    <div class="container">
+      <!--#include virtual="/header.html" -->
+      <div class="content">
+        <br>
+        <h3>Grace Giving</h3>
+		<h4>Grace Notes Teacher Training Projects</h4>
+        <p class="cambria">
+          All Grace Notes services or materials are free. All of the Authors of
+          Grace Notes materials have graciously placed their work in the public
+          domain, and they do not ask for compensation. The minimal overhead
+          expenses are met by three or four regular donors who have supported
+          the work for many years. No salaries are paid.
+        </p>
+        <p class="cambria">
+          I hope that you will prayerfully consider adding resources to support
+          the efforts of many pastor/teachers in Africa and other countries,
+          who are using Grace Notes courses to train Bible teachers in their
+          local churches.
+        </p>
+        
+        <p class="cambria">
+          To contribute:
+        </p>
+        <blockquote>
+          <p>
+            Send check (USD) payable to Grace Notes to: <b>Grace Notes, %Austin Bible Church, PO BOX 142648, Austin, Texas 78714-2648 USA</b>. These gifts are tax
+            deductible and are handled by the Austin Bible Church treasurer, or
+          </p>
+          <p>
+            Use PayPal to send a gift using a credit card. You can use your
+            PayPal account if you have one, but you do not need a PayPal
+            account to do this. Use the link below.
+          </p>
+        </blockquote>
+        <div class="indent">
+          <div class="indent">
+            <form action="https://www.paypal.com/cgi-bin/webscr" method="post">
+			<input type="hidden" name="cmd" value="_s-xclick">
+			<input type="hidden" name="hosted_button_id" value="4EZHM7SNTVARS">
+			<input type="image" src="/images/GraceGiving.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+			<img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
+			</form>
+          </div>
+        </div>
+        <p class="cambria">
+          For information, write to <b><a href= 
+          "mailto:GRACE%20NOTES%20(bizopp06@gmail.com)">Louis Roth,
+          Director</a></b> <!--#include virtual="/footer.html" -->
+        </p>
+      </div>
+    </div>
+  </body>
+</html>

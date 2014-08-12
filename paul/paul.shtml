@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+   <link href="../CSS/GN_STYLE.css" rel="stylesheet" type="text/css">
+   <meta http-equiv="Content-Type" content="text/html; ISO-8859-1">
+
+   <title>PAUL</title>
+</head>
+
+<body>
+   <div class="container">
+      <!--#include virtual="/header.html" -->
+
+      <div class="content">
+         <br>
+         <br>
+
+         <h2>Paul the Apostle</h2>
+
+         <p>This course is based on the book <b>The Life and Epistles of St. Paul</b>, 
+		 by W. J. Conybeare and J. S. Howson. 
+		 This book is one of the most often read and quoted books by 
+		 Bible teachers and pastors for several generations who have 
+		 taught the Acts of the Apostles. 
+		 It is rich in history, geography, and sound doctrinal teaching.</p>
+
+         <p>To download the complete PAUL study, click here:</p>
+
+         <div class="indent">
+            <b><a href="PAUL.pdf" target="_blank">The Life and Epistles of St.
+            Paul</a></b>
+         </div>
+
+         <p>Grace Notes has three courses for the study on Paul, <b>Paul 100,
+         Paul 200, and Paul 300</b>.<br>
+         The lessons are distributed by email.<br>
+         For information, or to register for the certificate course, write to
+         <b><a href="mailto:wdoud@gracenotes.info">Warren Doud</a></b>.</p><br>
+         <br>
+         <br>
+         <!--#include virtual="/footer.html" -->
+      </div>
+   </div>
+</body>
+</html>

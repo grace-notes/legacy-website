@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+   <title>Grace Notes Home Page</title>
+   <meta name="description" content=
+   "Grace Notes provides verse-by-verse Bible studies and a library of related categorical and historical studies.">
+   <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+   <meta name="keywords" content=
+   "Bible,Christian,religion,Titus,Elijah,Colossians,Philippians, spiritual,Romans,Philemon,Joel,Jude,Malachi,doctrine,Hosea,Ruth,Ephesians,prayer,church,category, categorical,thieme,depression,recovery,sex,counseling,ecclesiastes,Christ,Jesus">
+   <link href="CSS/GN_STYLE.css" rel="stylesheet" type="text/css">
+
+
+</head>
+
+<body>
+<script type="text/javascript"> /* Google Analytics Script */
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-3622200-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
+   
+
+   <div class="container">
+      <!--#include virtual="/header.html" -->
+
+      <div class="content">
+         <img class="right" src="eagle.gif"><br>
+
+         <h2>Grace Notes Bible Training</h2>
+
+         <div class="center">
+            <b>&quot;The Christian who does not understand what God has done in
+            the past, and who does not have faith in what God will do in the
+            future, will be overwhelmed by today&#39;s crisis.&quot;</b>
+            Chester McCalley
+         </div><br>
+
+         <div class="indent">
+            <a href="BibleReading.shtml" target="_blank">2013 DAILY BIBLE
+            READING</a>
+         </div>
+
+         <p class="cambria">Missionaries on the foreign field, nationals in
+         many countries, and people in North America who live far from
+         Bible-teaching churches, have the common problem of lack of access to
+         Bible instruction.</p>
+
+         <p class="cambria">Grace Notes delivers expositional
+         Bible teaching to people who do not have ready access to
+         face-to-face teaching by a pastor/teacher in a local church. Most of
+         the Bible studies in the Grace Notes curriculum are the written notes
+         from pastors who have taught books of the Bible to their own
+         congregations.</p>
+
+         <div class="indent">
+            <a href="VisionStrategy.shtml">Grace Notes Vision and
+            Strategy</a><br>
+            <a href="Authors.shtml">Grace Notes Authors</a><br>
+            <a href="DoctrinalStatement.shtml">Doctrinal Statement<br></a>
+			<a href="GraceNotesHistory.shtml">Grace Notes History</a>
+            <p>
+         </div>
+		 
+<!--#include file ="RightMenu.html" -->
+
+         <p class="cambria">Many pastors and teachers use Grace Notes courses
+         both for help in preparation for teaching and for use in classes held
+         in Sunday schools, home schools, cell churches, and other venues where
+         the Word of God is taught.</p>
+
+         <p class="cambria">An example of this application is seen in the Grace
+         Notes-sponsored ministry of the Kabwe Central Baptist Church in
+         Zambia. Pastor Gabriel Nsofwa uses Grace Notes in his teaching
+         ministry of the church, and he conducts Bible College classes for
+         local pastors, church leaders, and student teachers, using Grace Notes
+         for the core curriculum. Click on the link to the Kabwe church&#39;s
+         web site: <a href=
+         "/ZAMBIA/BibleCollege.shtml" target=
+         "_blank">Grace Bible College of Kabwe (Zambia)</a></p>
+
+         <p class="cambria">Grace Notes offers twelve (12) Units of course
+         work, each unit roughly analogous to a semester of Bible College
+         instruction. Students can earn certificates for each course completed,
+         Unit certificates, and Diplomas for completing various portions of the
+         curriculum. See the course descriptions here: <a href=
+         "DiplomaCourses.shtml">Diplomas in Bible Teaching</a></p><a href=
+         "GraceGiving.shtml"><img src=
+         "/images/GraceGiving.gif"></a>
+      </div>
+   </div><!--#include virtual="/footer.html" -->
+</body>
+</html>

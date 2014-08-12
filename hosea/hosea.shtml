@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+   <link href="../CSS/GN_STYLE.css" rel="stylesheet" type="text/css">
+
+   <title>HOSEA</title>
+</head>
+
+<body>
+   <div class="container">
+      <!--#include virtual="/header.html" -->
+
+      <div class="content">
+         <br>
+         <br>
+
+         <h3>HOSEA</h3>
+
+         <p>by Mark Perkins, Pastor</p>
+
+         <p>A verse-by-verse exposition of the very powerful prophetic book of
+         Hosea. The Israel of Hosea's time had much in the way of prosperity.
+         There was plenty to eat, trade was brisk, and the Jews of the Northern
+         Kingdom were enjoying a pretty nice standard of living for the time.
+         The people of Israel had much more than just food on the table; there
+         were many forms of recreation and distraction according to ancient
+         customs. A common form of distraction was the worship of idols, and
+         Israel was a nation beset with this problem.</p>
+
+         <p>There are 14 lessons in the Hosea course, distributed by email. To
+         register for the certificate courses, write to <b><a href=
+         "mailto:wdoud@gracenotes.info">Warren Doud</a></b>.</p>
+
+         <p>Download the whole Hosea study in a single file: <b><a href=
+         "Hosea.pdf" target="_blank">HOSEA</a></b>.</p>
+		 <p>
+          Click to download the Keil and Delitzsch commentary: <b><a href= 
+          "HOSEA(K&D).pdf" target="_blank">HOSEA (K&D)</a></b></p>
+		 <p>Download individual lessons below:
+		 <div class="indent">
+         <p>
+		 <b><a href="HoseaLesson01.pdf" target="_blank">Hosea 1:1</a></b><br />
+		 <b><a href="HoseaLesson02.pdf" target="_blank">Hosea 1:2-9</a></b><br />
+		 <b><a href="HoseaLesson03.pdf" target="_blank">Hosea 1:10 to 2:5</a></b><br />
+		 <b><a href="HoseaLesson04.pdf" target="_blank">Hosea 2:6-11</a></b><br />
+		 <b><a href="HoseaLesson05.pdf" target="_blank">Hosea 2:12-20</a></b><br />
+		 <b><a href="HoseaLesson06.pdf" target="_blank">Hosea 2:21 to 4:5</a></b><br />
+		 <b><a href="HoseaLesson07.pdf" target="_blank">Hosea 4:6-19</a></b><br />
+		 <b><a href="HoseaLesson08.pdf" target="_blank">Hosea 5:1-15</a></b><br />
+		 <b><a href="HoseaLesson09.pdf" target="_blank">Hosea 6:1-11</a></b><br />
+		 <b><a href="HoseaLesson10.pdf" target="_blank">Hosea 7:1-16</a></b><br />
+		 <b><a href="HoseaLesson11.pdf" target="_blank">Hosea 8:1-14</a></b><br />
+		 <b><a href="HoseaLesson12.pdf" target="_blank">Hosea 9:1 to 10:4</a></b><br />
+		 <b><a href="HoseaLesson13.pdf" target="_blank">Hosea 10:5 to 11:12</a></b><br />
+		 <b><a href="HoseaLesson14.pdf" target="_blank">Hosea 11:13 to 14:5</a></b>
+		 </p>
+		 </div>
+         
+         <!--#include virtual="/footer.html" -->
+      </div>
+   </div>
+</body>
+</html>

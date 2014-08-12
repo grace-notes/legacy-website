@@ -1,0 +1,19 @@
+p {
+font-family:Arial, Helvetica, sans-serif;
+font-size: .8em;
+}
+a:link {
+	color: #0000CC;
+	text-decoration: none;
+}
+a:visited {
+	color: #0000CC;
+	text-decoration: none;
+}
+a:hover {
+	color: #333333;
+	text-decoration: underline;
+}
+a:active {
+	text-decoration: none;
+}

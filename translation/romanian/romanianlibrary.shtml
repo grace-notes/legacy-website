@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+   <title>Romanian Doctrinal Library</title>
+   <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+   <link href="/CSS/GN_STYLE.css" rel="stylesheet" type="text/css">
+</head>
+<style>
+td { 
+padding:5px;
+}
+</style>
+
+<body>
+<script type="text/javascript">
+/* Google Analytics */
+
+   var _gaq = _gaq || [];
+   _gaq.push(['_setAccount', 'UA-36925139-1']);
+   _gaq.push(['_trackPageview']);
+
+   (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+   })();
+
+</script>
+
+   <div class="container">
+      <!--#include virtual="/header.html" -->
+
+      <div class="content">
+	  <br>
+          <h3>Romanian Doctrinal Library</h3>
+        
+
+         <p>Bible doctrine topical studies in ROMANIAN and English.<br><br />
+         <strong>Click</strong> [<b>PDF</b>] to read a file.</p>
+		 <p>Translation by Mrs. Maria Fletcher, Austin Bible Church, Austin, TX</p>
+
+         <table>
+		 <tr>
+         <td><b>ROMANIAN/English Parallel Bible Books -
+               [<a href="/TRANSLATION/ROMANIAN/BOOKS/RUTH_RomanianEnglish.pdf"
+               target="_blank">Ruth</a>]			   
+			   [<a href="/TRANSLATION/ROMANIAN/BOOKS/TITUS_RomanianEnglish.pdf"
+               target="_blank">Titus</a>] 
+		  </td>
+            </tr>			            
+            <tr>
+               <td><b>Doctrinele Mântuirii</b> (Salvation Doctrines) - [<a href= 
+               "/TRANSLATION/ROMANIAN/TOPICS/SALVATION_RomanianEnglish.pdf" target=
+               "_blank">PDF</a>]</td>
+            </tr>			            
+            <tr>
+               <td><b>Evanghelia</b> (The Gospel) - [<a href= 
+               "/TRANSLATION/ROMANIAN/TOPICS/GOSPEL_RomanianEnglish.pdf" target=
+               "_blank">PDF</a>]</td>
+            </tr>			            
+            <tr>
+               <td><b>Regenerarea</b> (Regeneration) - [<a href= 
+               "/TRANSLATION/ROMANIAN/TOPICS/REGENERATION_RomanianEnglish.pdf" target=
+               "_blank">PDF</a>]</td>
+            </tr>			            
+            <tr>
+               <td><b>Unirea cu Hristos</b> (Union with Christ) - [<a href= 
+               "/TRANSLATION/ROMANIAN/TOPICS/UNION_RomanianEnglish.pdf" target=
+               "_blank">PDF</a>]</td>
+            </tr>		            
+            <tr>
+               <td><b>Viata Vesnicã</b> (Eternal Life) - [<a href= 
+               "/TRANSLATION/ROMANIAN/TOPICS/ETERNAL-LIFE_RomanianEnglish.pdf" target=
+               "_blank">PDF</a>]</td>
+            </tr>
+         </table><br>
+         <br>
+         <br>
+         <!--#include virtual="/Footer.html" -->
+      </div>
+   </div>
+</body>
+</html>

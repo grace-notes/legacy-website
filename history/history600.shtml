@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+   <link href="../CSS/GN_STYLE.css" rel="stylesheet" type="text/css">
+
+   <title>History 600</title>
+</head>
+
+<body>
+<div class="container">
+<!--#include virtual="/header.html" -->
+
+<div class="content">
+<br /><br />
+   <h2>History 600 - Peoples of the Old Testament World</h2>
+
+<h3>by Alfred Hoerth, Gerald Mattingly, and Edwin Yamauchi</h3>
+
+   <p>This course is based on the book,<b> Peoples of the Old Testament World</b>, by Alfred Hoerth, Gerald Mattingly, and Edwin Yamauchi (ISBN 0718829883).</p>
+   <p>You must purchase the textbook for this course from a bookstore. 
+   Amazon.com has it for sale for about US $ 28.00.
+   Click <a href="http://www.amazon.com/Peoples-Testament-World-Alfred-Hoerth/dp/0801021960/ref=sr_1_1?ie=UTF8&s=books&qid=1212267231&sr=1-1" target="_blank">HERE</a> to see a description of the book.</p>
+
+   <p>The Grace Notes course has 10 lessons, with quizzes.</p>
+   <p>Ancient peoples discussed are: Sumerians, Babylonians, Assyrians, Persians, Hittites, Canaanites,<br>
+   Amorites, Phoenicians, Aramaens, Philistines, Egyptians, Ammonites, Moabites and Edomites</p>
+    <p>To request the course, write to:
+   <a href="mailto:wdoud@gracenotes.info" target=_blank">wdoud@gracenotes.info</a></p>
+
+  
+<!--#include virtual="/footer.html" -->
+</div>
+</div>
+</body>
+</html>

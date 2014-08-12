@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+
+			 <link href="../CSS/GN_STYLE.css" rel="stylesheet" type="text/css"/>
+			 <meta http-equiv="Content-Type" content="text/html; ISO-8859-1">
+			<title>LEVITICUS</title>
+</head>
+
+<body>
+<div class="container">
+<!--#include virtual="/header.html" -->
+
+<div class="content">
+<br /><br />
+<h2>LEVITICUS</h2>
+<p>This is a course in the book of Leviticus, taken from Commentary on the Old Testament, by C. F. Keil and F. Delitzsch.</p>
+<p>Click to download the PDF of the complete study here: <b><a href="Leviticus.pdf" target="_blank">LEVITICUS</a> </b></p>
+<p>The <b>Grace Notes course in Leviticus</b> has twenty (20) lessons, distributed by email.<br />
+To register for the certificate course, 
+write to <b><a href="mailto:wdoud@gracenotes.info">Warren Doud</a></b>.</p>
+Wikipedia links: <b><a href="http://en.wikipedia.org/wiki/Johann_Friedrich_Karl_Keil" target="_blank">C. F. Keil</a></b> and
+<b><a href="http://en.wikipedia.org/wiki/Franz_Delitzsch" target="_blank">Franz Delitzsch</a></b>
+
+<br /><br /><br /><br />
+<!--#include virtual="/footer.html" -->
+</div>
+</div>
+</body>
+</html>

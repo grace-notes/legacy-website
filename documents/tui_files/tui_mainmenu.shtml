@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link href="http://www.gracenotes.info/CSS/GN_STYLE.css" rel="stylesheet" type="text/css"/>
+<meta http-equiv="Content-Type" content="text/html; ISO-8859-1">
+<title>TUI MAIN MENU</title>
+</head>
+<style>
+table {
+table-layout: fixed;
+width:75%;
+font-family:Calibri, Arial, Helvetica, Verdana, san-serif;
+border: 1px solid black;
+border-collapse:collapse;
+padding-top:5px;
+padding-bottom:5px;
+}
+td {
+vertical-align: text-top;
+}
+</style>
+
+<body>
+
+
+<!-- GOOGLE ANALYTICS -->
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-51479444-1', 'gracenotes.info');
+  ga('send', 'pageview');
+  <!-- END GOOGLE ANALYTICS -->
+
+</script> 
+
+<div class="container">
+
+<div class="content">
+<br />
+<h2>The Ugly Indian (TUI) - Main Menu</h2>
+<p>The Ugly Indian is an anonymous group of people in Bangalore, India, who have developed a project for cleaning up unsightly places in their city.  They have had marvellous success, and their vision is spreading to many other communities in India. You will really enjoy following their many activities, on YouTube and in Facebook photo albums.</p>
+
+<div class="indent">
+
+
+<table>
+	<tr>
+		<th style="width:40%"><b>KEY LINKS</b></th>
+		<th style="width:60%"><b>USEFUL FILES</b></th>
+	</tr>
+	<tr>
+		<td><b>
+			<p><a href="https://www.facebook.com/theugl.yindian" target="_blank">TUI Facebook Page</a></p>
+			<p><a href="http://www.theuglyindian.com/menu.html" target="_blank">TUI Home Page</a></p>
+			<p><a href="http://www.gracenotes.info/DOCUMENTS/TUI_FILES/TUI_Pages.shtml">Spotfix TEAMS (Risings)</a></p>
+			<p><a href="http://www.gracenotes.info/DOCUMENTS/TUI_FILES/TUI_Photos.shtml">Spotfix PHOTO Albums</a></p>
+			<p><a href="http://www.gracenotes.info/DOCUMENTS/TUI_FILES/TUI_VIDEOS.shtml" target="_blank">Spotfix VIDEOS</a></p>
+			<p><a href="https://www.google.co.in/maps/ms?msid=202891846241379424353.0004f1bc37176528c8270&msa=0&ll=12.933805,77.630148&spn=0.001751,0.002411&iwloc=0004f971fdf507367be0b&dg=feature">TUI Spotfix Map (Google)</a></p>
+			</b>
+		</td>
+		<td>
+		<b><p><a href="http://bangalore.citizenmatters.in/articles/a-guide-to-taking-charge-of-your-neighbourhood-the-ugly-indian-way" target="_blank">A Complete Guide to Getting Started in Your Neighborhood</a></b><br />
+		This is an excellent Getting Started guide when you want to begin spotfixing!</p>
+		<b><p><a href="http://theuglyindian.com/books/" target="_blank">A Must Read: The Ugly Indian Book !!</a></b><br />
+		Thorough explanation of the philosophy and practical methods of the TUI spotfixing teams.</p
+		<p><b><a href="https://www.youtube.com/watch?v=ZLRRHrNHK5g">MANDUR: Hell on Earth!</a>...</b>[16 JULY 2014]</p>
+		<p><b><a href="http://bangalore.citizenmatters.in/articles/two-wheelers-buses-among-bbmp-garbage-trucks-bangalore-bengaluru">BBMP lists two-wheelers, buses among garbage trucks, pays them!</a>...</b>[16 JULY 2014]</p>
+		<p><b><a href="https://www.youtube.com/watch?v=cX-SPAqOZuA">Bangalore, E-Waste Capital!</a>...</b>[16 JULY 2014]</p>
+		<p></p>
+		</td>
+	</tr>
+</table>
+<table>
+	<tr>
+		<th style="width:40%"><b>HOW-TO FILES</b></th>		
+		<th style="width:60%"><b></b></th>
+	</tr>
+	<tr>
+		<td><b>
+			<p>Create Spotfix Photo Albums</p>
+			<p>Create Spotfix Videos for YouTube</p>
+			<p>Posting Results to the TUI Facebook Page</p>
+			<p></p>
+			</b>
+		</td>
+		<td>
+		</td>
+	</tr>
+	
+</table>
+<p>Site maintained by: <a href="mailto:warren.doud@gmail.com" target="_blank">Warren Doud</a></p>
+</div>
+</div>
+</div>
+</body>
+</html>

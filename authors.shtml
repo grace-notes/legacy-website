@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link href="CSS/GN_STYLE.css" rel="stylesheet" type="text/css"/>
+
+<title>Grace Notes Authors</title>
+</head>
+
+<body>
+<div class="container">
+<!--#include virtual="/header.html" -->
+<br /><br />
+<h3>Grace Notes Authors</h3>
+<div class="indent">
+<p></p>
+Here are brief biographies of the authors of Grace Notes materials.&nbsp;<br /><br />
+<div class="indent">
+<p><b>Bob Bolender</b> <br>
+        Pastor, Austin Bible Church, Austin, Texas<br>
+        <a href="mailto:pastorbob@austinbiblechurch.com">pastorbob@austinbiblechurch.com</a><br></p>
+				<p><b>Rev. Drue Freeman</b> <br>
+        Pastor, Trinity Bible Church, Oklahoma City, Oklahoma<br>
+        <a href="mailto:freeman405@aol.com">freeman405@aol.com</a>
+        <p><b>Dr. Dan Hill</b><br>
+        Pastor, Southwood Bible Church, Tulsa, Oklahoma<br>
+  			<a href="mailto:hill918@aol.com">hill918@aol.com</a></p>
+        <p><b>Rev. Mark Perkins</b><br>
+          Pastor, Front Range Bible Church, Denver, Colorado<br>
+          <a HREF="mailto:shepdbc1@mindspring.com">shepfrbc@comcast.net</a></p>
+        <p><b>Dr. Grant C. Richison</b><br>
+  			Lecturer, Campus Crusade for Christ (Canada)<br>
+  			Pastor Emeritus, Grant Memorial Baptist Church, Winnipeg, Manitoba</p>
+        <p><b>Warren Doud</b><br>
+  Director, Grace Notes<br></p>
+	</div>
+ <h3>Dr. Dan Hill</h3>
+ <div class="indent">
+        <p>After graduating from high school 
+          in Scottsdale, Arizona, Dan Hill served in the United States Navy. Upon 
+          receiving his honorable discharge in 1965 he attended Arizona State 
+          University where he received a degree in Speech and History. Dan and 
+          his wife Patricia were married in 1970.</p>
+        <p>Following three years of teaching in the public schools, Dr. Hill enrolled
+  at Dallas Theological Seminary where he received his Masters degree in
+  Theology in 1976. During that time he also was working on research that earned
+  him a Doctorate from the California Graduate School of Theology in 1977.</p>
+        <p>Dr. Hill pastored Grace Bible Church in Prescott, Arizona for three years,
+  then returned to Phoenix where he was the Bible editor for Alpha Omega
+  Publications and assistant pastor of West Side Bible Church. In 1987, the
+  Hills moved to Hope, Arkansas where Dr. Hill served as pastor of Hope
+  Community Church. In 1990, Dr. Hill accepted his present pastorate at
+  Southwood Bible Church in Tulsa.</p>
+</div>
+      <h3>Rev. Mark Perkins</h3>
+ <div class="indent">
+			           <p>Mark has a B.A 
+          in Bible Literature from Azusa Pacific University and a Master's degree 
+          in New Testament from Talbot Theological Seminary. He served for five 
+          years in the Army National Guard as a Cavalry Scout and Fire Direction 
+          Controller. He was ordained as a Pastor at Berachah Church in Houston, 
+          Texas; and he has been the Pastor of Front Range Bible Church since 
+          1988.</p>
+</div>
+
+<h3>Dr. Grant C. Richison</h3>
+ <div class="indent">
+        <p>Dr. Richison is a highly experienced 
+          pastor, lecturer, and Christian servant who is dedicated to a lifetime 
+          of studying and teaching God's Word. Almost immediately after his salvation 
+          he began to desire to teach the Word, and he set about a lifelong program 
+          of preparation and ministry.</p>
+        <p>Dr. Richison has a diploma from Detroit Bible Institute, a bachelor's
+  degree in religious education from William Tyndale College (Detroit), a
+  Masters in Theology from Dallas Theological Seminary, and a doctorate in
+  ministries from Luther Rice Seminary in Jacksonville, Florida.</p>
+        <p>Dr. Richison has been pastor and senior pastor of Baptist churches from
+  1965 to 1992. His most recent pastorate was at Grant Memorial Baptist Church,
+  Winnipeg, Manitoba, where, over a 20 year period, he had oversight of a
+  ministry that expanded from about 350 to more than 2500 communicants. During
+  the period of his pastorates, Dr. Richison was also a lecturer at Detroit
+  Bible College and Winnipeg Theological Seminary.</p>
+        <p>From 1993 to 1995, Dr. Richison was Director of Leadership Ministries for
+  Campus Crusade for Christ (Canada). He currently has a world-wide lecture
+  ministry with Campus Crusade.</p>
+        <p>Dr. Richison is an experienced writer, and he provides materials for three
+  areas on the Internet: Sermon on the Net; Today's   Word</a>, and Pastors' Power Points. He has considerable ability to
+  communicate God's Word verse by verse in a relevant, clear, applicable and
+  insightful manner and to communicate vision and establish a philosophy of
+  ministry in the local assembly.</p>
+</div>
+
+      <h3>Warren Doud</h3>
+ <div class="indent">
+       <p>My theological orientation, briefly, is evangelical Christian. I believe
+that the Bible in its original manuscripts is divinely inspired and that
+Jesus Christ is God and Savior. The Grace Notes doctrinal statement is adapted
+  from my personal doctrinal position.</p>
+<p>I graduated in 1957 from Prairie Bible Institute, Three Hills, Alberta, Canada,
+with majors in Bible, English, and Christian Music.  I received the BS in Mathematics and Computer Science (1967), and an MS in Mathematics
+(Abstract Algebra and Topology) (1969), from the University of Southwest Louisiana, Lafayette, LA.</p>
+<p> Ethel and I spent several years in Christian work as a vocation: three
+(3) years with Christian boarding school and mission in the U.S., as teacher
+of math, French, and English. Three years as principal of Christian school in
+Austin, Texas, in a local church, grades 2 to 12. I am an active Bible teacher and
+writer.</p>
+<p>I was employed from 1980 to 2011 as a computer information specialist and science
+  writer with BAE SYSTEMS, the Analysis and Applied Research Division, Austin, TX. and with Ultra Electronics Advanced Tactical Systems.</p>
+
+I am retired from work now and my Christian work is Bible teaching and writing and in the management of Grace Notes.</p>
+</div>
+</div>
+
+<!--#include virtual="/footer.html" -->
+</div>
+</div>
+        
+</body>
+
+</html>

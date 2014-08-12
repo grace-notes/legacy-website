@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+   <title>Nyanja Topics Library</title>
+   <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+   <link href="ZAMBIA_STYLE.css" rel="stylesheet" type="text/css">
+</head>
+
+<body>
+<script type="text/javascript">
+/* Google Analytics */
+
+   var _gaq = _gaq || [];
+   _gaq.push(['_setAccount', 'UA-36925139-1']);
+   _gaq.push(['_trackPageview']);
+
+   (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+   })();
+
+</script>
+
+   <div class="container">
+      <!--#include file="Header.html" -->
+
+      <div class="content">
+         <br>
+         <h3>Nyanja Doctrinal Library</h3>
+
+         <p>Bible doctrine topical studies in Nyanja and English.<br><br />
+         <strong>Click</strong> [<b>PDF</b>] to read a file. <strong>Right
+         Click</strong> to download the Acrobat Reader version of the
+         topic.</p>
+
+         <table>
+		 <tr>
+               <td><b>Nyanja/English Parallel Translations -
+               <a href="/DOCUMENTS/LANGUAGES/TITUS_NYANJA-NIV.pdf"
+               target="_blank">Titus</a> | 
+			   <a href="/DOCUMENTS/LANGUAGES/EPHESIANS_NYANJA-NIV.pdf"
+               target="_blank">Ephesians</a> | 
+			   </td>
+            </tr>
+            
+
+            <tr>
+               <td></td>
+            </tr>
+
+            <tr>
+               <td></td>
+            </tr>
+
+            <tr>
+               <td></td>
+            </tr>
+         </table><br>
+         <br>
+         <br>
+         <!--#include file="Footer.html" -->
+      </div>
+   </div>
+</body>
+</html>

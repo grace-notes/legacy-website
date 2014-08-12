@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+   <link href="../CSS/GN_STYLE.css" rel="stylesheet" type="text/css">
+   <meta http-equiv="Content-Type" content="text/html; ISO-8859-1">
+
+   <title>JUDE</title>
+</head>
+
+<body>
+   <div class="container">
+      <!--#include virtual="/header.html" -->
+
+      <div class="content">
+         <br>
+         <br>
+
+         <h2>JUDE</h2>
+
+         <p>This commentary on the book of Jude is part of a Grace Notes course on Philemon, Jude, and the three epistles of John.</p>
+
+         <p>To download the Jude study (pdf), click here:</p>
+
+         <div class="indent">
+            <b><a href="Jude.pdf" target="_blank">Jude</a></b>
+         </div>
+
+         <p>Grace Notes has a 10-lesson course for <b>123 John, Jude, and
+         Philemon</b>.</p>
+
+         <p>The lessons are distributed by email. For information, or to
+         register for the certificate course, write to <b><a href=
+         "mailto:wdoud@gracenotes.info">Warren Doud</a></b>.</p>
+
+        
+         <br>
+         <br>
+         <br>
+         <!--#include virtual="/footer.html" --></b>
+      </div>
+   </div>
+</body>
+</html>

@@ -1,0 +1,287 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Ministry Training Status</title>  
+<link href="CSS/GN_STYLE.css" rel="stylesheet" type="text/css">
+
+<style type="text/css">
+table {width:95%;}
+table.blank {width: 50%%;border:none;}
+td {width:auto;vertical-align:top;padding-left: 5px;}
+td.right {text-align:right;}
+th {width:auto;}
+td.bible {font-size:medium;padding-left: 5px;}
+th {padding-left: 5px;}
+</style> 
+</head>
+<body>
+<script type="text/javascript">
+/* Google Analytics Script */
+    var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-3622200-1']);
+    _gaq.push(['_trackPageview']);
+
+    (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    })();
+</script>
+    <div class="container">
+      <!--#include virtual="/header.html" -->
+      <div class="content"><br>
+        <h3>Grace Notes Ministry Training - Status</h3>		
+		<h4><blockquote>
+          <table class="blank">
+            <tr>
+              <td class="right"><font color="red">40</font></td>
+              <td>Training Centers (20 Directors)</td>
+            </tr>
+            <tr>
+              <td class="right"><font color="red">1,570</font></td>
+              <td>Total Registered Students</td>
+            </tr>
+            <tr>
+              <td class="right"></td>
+              <td><font color="red">490</font> Pastors; <font color="red">288</font> Church Leaders</td>
+            </tr>
+            <tr>
+              <td class="right"><font color="red">2,830</font></td>
+              <td>GN Certificates <br/><font color="red">134</font> Unit I; <font color="red">36</font> Unit II; <font color="red">5</font> Unit III; <font color="red">13</font> Unit IV</td>
+            </tr>
+            <tr>
+              <td class="right"><font color="red">1,832</font></td>
+              <td><font color="green">Bibles Distributed</font> - 
+			  Click: <a href="/DOCUMENTS/BIBLES_STATUS.pdf" target="blank">
+			  Distribution Status</a></td>
+            </tr>
+          </table>
+        </blockquote></h4>
+        <p>
+          Grace Notes is sponsoring Ministry Training programs, which are being
+          conducted by local church pastors in several countries. The table
+          shows the pastors and churches with whom we are working, along with
+          the current status of each effort.  [Training Director links are to Facebook pages.]
+		  <b><a href="/GraceGiving.shtml">Grace Giving</a></b>
+        </p>
+        <table>
+          <tr>
+            <th width="20%">Training Director</th>
+            <th width="40%">Location</th>
+            <th width="40%">Start Date</th>
+          </tr>
+          <tr>
+            <td class="bible">
+              <a href="http://www.facebook.com/gabriel.nsofwa" target=
+              "_blank">
+			  Gabriel Nsofwa</a>
+            </td>
+            <td class="bible">
+              <a href="/ZAMBIA/BibleCollege.shtml"
+              target="_blank">Grace Bible College of Kabwe</a> [Kabwe, <b>Zambia</b>]<br />
+			  Nakoli Township Class [Kabwe, <b>Zambia</b>]
+            </td>
+            <td class="bible">MAR 2012<br />
+			AUG 2012</td>
+          </tr>
+          <tr>
+            <td class="bible">
+			Dickson Kasongo</td>
+            <td class="bible">Galilea Baptist Church [Lusaka, <b>Zambia</b>]
+            </td>
+            <td class="bible">JAN 2013</td>
+          </tr>
+          <tr>
+            <td class="bible">
+              <a href="http://www.facebook.com/pstbazil.lawrence?fref=ts" target="_blank">
+			  Bazil Lawrence</a>
+            </td>
+            <td class="bible">
+              Kingdom Life Ministries [Pinetown, <b>South Africa</b>]
+            </td>
+            <td class="bible">JAN 2013</td>
+          </tr>
+          <tr>
+            <td class="bible">
+              <a href="http://www.facebook.com/enock.njovu.3?fref=ts" target="_blank">
+			  Enock Njovu</a>
+            </td>
+            <td class="bible">
+              Trinity Baptist Church [Lusaka, <b>Zambia</b>]<br />
+			  Bauleni Baptist Church [Lusaka, <b>Zambia</b>]</td>
+            <td class="bible">FEB 2013<br />
+			FEB 2013</td>
+          </tr>
+            <td class="bible">
+              <a href="http://wisomkenya.weebly.com/directors-profile.html"
+              target="_blank">
+			  Benny Mbai</a>
+            </td>
+            <td class="bible">
+              <a href="http://wisomkenya.weebly.com/" target="_blank">Wisdom
+              School of Ministry (WISOM)</a> [Kitengela, <b>Kenya</b>]<br />
+			  Kibwezi Training Centre [Kibwezi, <b>Kenya</b>]<br />
+			  Maasai Training Centre [Orinie (Kajiado), <b>Kenya</b>]<br />
+			  Namanga Training Centre [Namanga, <b>Kenya</b>]
+            </td>
+            <td class="bible">FEB 2013<br />
+			MAR 2013<br />
+			JULY 2013<br />
+			OCT 2013</td>
+          </tr>
+          <tr>
+            <td class="bible">
+              <a href="http://www.facebook.com/robert.kiggwe.9?fref=ts" target="_blank">
+			  Robert Kiggwe</a>
+            </td>
+            <td class="bible">
+              <a href="http://goo.gl/9InSG" target="_blank">Truth Gospel
+              Church</a> [Kampala (Seguku), <b>Uganda</b>]
+            </td>
+            <td class="bible">FEB 2013</td>
+          </tr>
+          <tr>
+            <td class="bible">
+              <a href="https://www.facebook.com/mesulink"
+              target="_blank">
+			  Mesuli Nkomo</a>
+            </td>
+            <td class="bible">
+              Colleen Bawn Assembly of God [Colleen Bawn, <b>Zimbabwe</b>]<br />
+			  Gwanda Prison Ministry [Gwanda District, <b>Zimbabwe</b>]<br />
+			  West Nicholson Church [<b>Zimbabwe</b>]
+            </td>
+			<td class="bible">FEB 2013<br />
+			FEB 2013<br />
+			JUL 2013</td>
+          </tr>
+		  <tr>
+            <td class="bible"><a href="http://www.facebook.com/bishopmaron.musonda?fref=ts" target="_blank">
+			Maron Musonda</a></td>
+            <td class="bible"> Gospel Ministries Int'l. [Lusaka, <b>Zambia</b>]</td>
+            <td class="bible">MAR 2013</td>
+          </tr>
+		  <tr>
+            <td class="bible">
+			Duncan Naranja Mukundi</td>
+            <td class="bible">Chrisco Church (Githurai) [Ruiru, <b>Kenya</b>]</td>
+            <td class="bible">MAR 2013</td>
+          </tr>
+          <tr>
+            <td class="bible">
+              <a href="http://www.facebook.com/pastoruhuru" target="_blank">
+			  Michael Uhuru Daud</a>
+            </td>
+            <td class="bible">Gospel Revival Centre [Mombasa, <b>Kenya</b>]<br \>
+			Kinango Training Centre  [Kinango, <b>Kenya</b>]<br />
+			Lunga-Lunga Training Centre [Lunga-Lunga, <b>Kenya</b>]<br />
+			Changamwe Training Centre  [Changamwe, <b>Kenya</b>]<br />
+			Mariakani Training Centre  [Mariakani, <b>Kenya</b>]<br />
+			Samburu Training Centre  [Samburu, <b>Kenya</b>]<br />
+			Taru Training Centre  [Taru, <b>Kenya</b>]
+            </td>
+            <td class="bible"> MAR 2013<br />
+			MAY 2013<br />
+			JUN 2013<br />
+			JUN 2013<br />
+			JUN 2013<br />
+			JUL 2013<br />
+			JUL 2013
+			</td>
+          </tr>		  
+          <tr>
+            <td class="bible">
+              <a href="https://www.facebook.com/michaelemilio.mondlhane?fref=ts" target="_blank">
+			 Michael Mondlhane</a>
+            </td>
+            <td class="bible"><a href="https://www.facebook.com/pages/Reconciliation-Ministries-of-New-Life-Church/431242086964290" target="_blank">
+			  Reconciliation Ministries</a> [Roodeport, Gauteng <b>South Africa</b>]
+            </td>
+            <td class="bible">MAR 2013</td>
+          </tr>
+		  <tr>
+            <td class="bible">
+			Eduardo Boniog</td>
+            <td class="bible">Scripture Baptist Church [Tabacuhan, <b>Philippines</b>]</td>
+            <td class="bible">APR 2013</td>
+          </tr>	    		  
+		  <tr>
+		  <td>Faith Nkala</td>
+            <td class="bible">Grace for All Ministries [Filabusi, <b>Zimbabwe</b>] </td>
+            <td class="bible">APR 2013</td>
+          </tr>
+          <tr>
+            <td class="bible">
+			<a href="http://www.facebook.com/pastor.e.mainza?fref=ts" target="_blank">
+              Emmanuel Mainza</a><br>
+            </td>
+            <td class="bible">
+			Chileleko Christian School [Livingstone, <b>Zambia</b>]
+            </td>
+            <td class="bible">APR 2013</td>
+          </tr>
+          <tr>
+            <td class="bible"><a href="http://www.facebook.com/kulemeka.pastor?fref=ts" target="_blank">
+              Christopher Kulemeka</a>
+            </td>
+            <td class="bible">
+              Endtime Int'l. Ministries [Mwanza, <b>Malawi</b>]
+            </td>
+            <td class="bible">APR 2013</td>
+          </tr>
+          <tr>
+            <td class="bible">
+              Mutebi Freddy
+            </td>
+            <td class="bible">
+			<a href="http://goo.gl/9InSG" target="_blank">Truth Gospel
+              Church</a> [Masaka, <b>Uganda</b>]<br />
+			  Bethel Church Ministry [Masaka, <b>Uganda</b>]<br />
+			  Kalungu Pastor Training  [Kalungu, <b>Uganda</b>]<br />
+			  Bukomansimbi Pastor Training [Bukomansimbi, <b>Uganda</b>]<br />
+			  Lwengo Pastor Training [Lwengo, <b>Uganda</b>]<br />
+			  Rakai Pastor Training [Rakai, <b>Uganda</b>]<br />
+			  Kasubi Pastor Training [Kasubi, <b>Uganda</b>]<br />
+			  Sembabule Pastor Training [Sembabule, <b>Uganda</b>]
+            </td>
+            <td class="bible">MAY 2013<br />
+			MAY 2013<br />
+			JUNE 2013 <br />
+			AUGUST 2013 <br />
+			AUGUST 2013 <br />
+			AUGUST 2013 <br />
+			AUGUST 2013 <br />
+			AUGUST 2013
+			</td>
+          </tr>		  		  		  
+		  <tr>
+		  <td>George Mamboleo</td>
+            <td class="bible">Antioch Community Fellowship [Nairobi, <b>Kenya</b>] </td>
+            <td class="bible">MAY 2013</td>
+          </tr>		    		  
+		  <tr>
+		  <td>Raymond Billy Bazie</td>
+            <td class="bible">Power of Grace Chapel [Santasi (Kumasi), <b>Ghana</b>] </td>
+            <td class="bible">MAY 2013</td>
+          </tr>
+		  <tr>
+            <td class="bible">
+			Kennedy Mwape</td>
+            <td class="bible">Church Family Mission [Mabwe (Mwalala), <b>Zambia</b>]</td>
+            <td class="bible">MAY 2013</td>
+          </tr>         
+		  <tr>
+            <td class="bible">
+			Moses Otunga</td>
+            <td class="bible">Light of Hope Mission School</a> [Nairobi, <b>Kenya</b>]
+            </td>
+            <td class="bible">OCT 2013</td>
+          </tr>
+        </table><br>
+        
+		<!--#include virtual="/footer.html" -->
+		
+      </div>
+    </div>
+  </body>
+</html>

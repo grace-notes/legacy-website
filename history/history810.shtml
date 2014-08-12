@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+   <link href="../CSS/GN_STYLE.css" rel="stylesheet" type="text/css">
+
+   <title>History 810 Twelve Caesars</title>
+</head>
+
+<body>
+<div class="container">
+<!--#include virtual="/header.html" -->
+
+<div class="content">
+
+   <h2>History 810 - The Twelve Caesars</h2>
+
+<h3>by C. Seutonius Tranquillus</h3>
+
+   <p>This course is based on the work of Seutonius, <i>The Lives of the Twelve Caesars</i>.</p>
+   <p>There is a biography of Seutonius in Wikipedia: <a href="http://en.wikipedia.org/wiki/Seutonius" target="_blank">Seutonius</a></p>
+   <p>The course has ten (10) lessons, with quizzes.<br>
+    To request the course, write to:
+   <a href="mailto:wdoud@gracenotes.info" target=_blank">wdoud@gracenotes.info</a></p>
+
+   <p>Download the complete file: <a href="/HISTORY/History810_Documents/TwelveCaesars.pdf" target="_blank"><b>The Twelve Caesars</b></a></p>
+
+<!--#include virtual="/footer.html" -->
+</div>
+</div>
+</body>
+</html>

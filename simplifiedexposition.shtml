@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>
+      Simplified Exposition
+    </title>
+    <link href="CSS/GN_STYLE.css" rel="stylesheet" type="text/css">
+  </head>
+  <body>
+    <div class="container">
+      <!--#include virtual="/header.html" -->
+      <div class="content">
+        <br>
+        <h3>
+          Simplified Exposition (Easy English)
+        </h3>
+        <p></p>
+        <p>
+         This page has links to Easy English (EE) commentaries and translations books of the Bible
+		 that are taught in Grace Notes Units I to VIII.
+        </p>
+        <p>
+          Easy English commentaries and translations have been developed by the Wycliffe
+		  Bible Translators and are free to be downloaded from their 
+		  web site: <a href="http://www.easyenglish.info" target="_blank">Easy English</a>.
+		  <br /><br />
+		  The documents on the EE web site are in Rich Text Format (RTF), so the files here
+		  have been converted to Adobe PDF files to make them more readily available to a
+		  world audience.
+		  <br /><br />
+		  These documents are created using either the 1200-word simplified or the
+		  2800-word basic English vocabulary. They are especially suited for use by people
+		  for whom English is a second or even a third language. 
+        </p>
+        <table>
+          <tr>
+            <th>
+              TRANSLATION
+            </th>
+            <th>
+              COMMENTARY
+            </th>
+          </tr>
+          <tr>
+            <td class="bible">
+              <a href="/DOCUMENTS/EASY_ENGLISH/ACTS_Translation(EE1200).pdf" 
+			  target="_blank">ACTS Translation</a>
+            </td>
+            <td class="bible">
+              <a href="/DOCUMENTS/EASY_ENGLISH/ACTS_Commentary(EE).pdf" 
+			  target="_blank">ACTS Commentary</a>
+			 </td>
+          </tr>
+		  <tr>
+            <td class="bible">
+              <a href="/DOCUMENTS/EASY_ENGLISH/EPHESIANS_Translation(EE1200).pdf" 
+			  target="_blank">EPHESIANS Translation</a>
+            </td>
+            <td class="bible">
+              <a href="/DOCUMENTS/EASY_ENGLISH/EPHESIANS_Commentary(EE).pdf" 
+			  target="_blank">EPHESIANS Commentary</a>
+			 </td>
+          </tr>
+		  <tr>
+            <td class="bible">
+              <a href="/DOCUMENTS/EASY_ENGLISH/MARK_Translation(EE1200).pdf" 
+			  target="_blank">MARK Translation</a>
+            </td>
+            <td class="bible">
+              <a href="/DOCUMENTS/EASY_ENGLISH/MARK_Commentary(EE).pdf" 
+			  target="_blank">MARK Commentary</a>
+			 </td>
+          </tr>
+		   <tr>
+            <td class="bible">
+              <a href="/DOCUMENTS/EASY_ENGLISH/RUTH_Translation(EE1200).pdf" 
+			  target="_blank">RUTH Translation</a>
+            </td>
+            <td class="bible">
+              <a href="/DOCUMENTS/EASY_ENGLISH/RUTH_Commentary(EE2800).pdf" 
+			  target="_blank">RUTH Commentary</a>
+			 </td>
+			</tr>
+			<tr>
+            <td class="bible">
+              <a href="/DOCUMENTS/EASY_ENGLISH/TITUS_Translation(EE1200).pdf" 
+			  target="_blank">TITUS Translation</a>
+            </td>
+            <td class="bible">
+              <a href="/DOCUMENTS/EASY_ENGLISH/TITUS_Commentary(EE).pdf" 
+			  target="_blank">TITUS Commentary</a>
+			 </td>
+			</tr>
+        
+          
+        </table><br>
+        <!--#include virtual="/footer.html" -->
+      </div>
+    </div>
+  </body>
+</html>

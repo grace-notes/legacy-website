@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+
+<link href="../CSS/GN_STYLE.css" rel="stylesheet" type="text/css"/>
+<meta http-equiv="Content-Type" content="text/html; ISO-8859-1">
+<title>JOSHUA</title>
+</head>
+
+<body>
+<div class="container">
+<!--#include virtual="/header.html" -->
+
+<div class="content">
+<br /><br />
+<h2>JOSHUA</h2>
+<p>This is a course in the book of JOSHUA, taken from Commentary on the Old Testament, by C. F. Keil and F. Delitzsch.</p>
+<p>Click to download the PDF of the complete study here: <b><a href="JOSHUA.pdf" target="_blank">JOSHUA</a> </b></p>
+<p>The <b>Grace Notes course in JOSHUA</b> is available now.  There are 20 lessons covering the 24 chapters of Joshua.<br />
+Write to <b><a href="mailto:wdoud@gracenotes.info">Warren Doud</a></b> to be register and receive the first lessons.</p>
+Wikipedia links: <b><a href="http://en.wikipedia.org/wiki/Johann_Friedrich_Karl_Keil" target="_blank">C. F. Keil</a></b> and
+<b><a href="http://en.wikipedia.org/wiki/Franz_Delitzsch" target="_blank">Franz Delitzsch</a></b>
+
+<br /><br /><br /><br />
+<!--#include virtual="/footer.html" -->
+</div>
+</div>
+</body>
+</html>

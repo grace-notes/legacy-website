@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+   <title>Swahili Library</title>
+   <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+   <link href="/CSS/GN_STYLE.css" rel="stylesheet" type="text/css">
+</head>
+<style>
+td { 
+padding:5px;
+}
+</style>
+
+<body>
+<script type="text/javascript">
+/* Google Analytics */
+
+   var _gaq = _gaq || [];
+   _gaq.push(['_setAccount', 'UA-36925139-1']);
+   _gaq.push(['_trackPageview']);
+
+   (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+   })();
+
+</script>
+
+   <div class="container">
+      <!--#include virtual="/header.html" -->
+
+      <div class="content">
+	  <br>
+          <h3>Swahili Library</h3>
+        
+
+         <p>Bible doctrine topical studies in SWAHILI and English.<br><br />
+         <strong>Click</strong> [<b>PDF</b>] to read a file.</p>
+
+         <table>
+		   <tr>
+               <td><b>SWAHILI/English Parallel Bible Books -
+               [<a href="/TRANSLATION/SWAHILI/BOOKS/RUTH_SWAHILI-NIV.pdf"
+               target="_blank">RUTH</a>]
+			   [<a href="/TRANSLATION/SWAHILI/BOOKS/HOSEA_SWAHILI-NIV.pdf"
+               target="_blank">HOSEA</a>]
+			   [<a href="/TRANSLATION/SWAHILI/BOOKS/MARK_SWAHILI-NIV.pdf"
+               target="_blank">MARK</a>]		   
+			   [<a href="/TRANSLATION/SWAHILI/BOOKS/EPHESIANS_SWAHILI-NIV.pdf"
+               target="_blank">EPHESIANS</a>]
+			   [<a href="/TRANSLATION/SWAHILI/BOOKS/TITUS_SWAHILI-NIV.pdf"
+               target="_blank">TITUS</a>] 
+			   </td>
+            </tr>			            
+            <tr>
+              <td><b>DOCTRINE 101</b>
+			   <blockquote>			   
+			   <b>Injili</b> (The Gospel) - [<a href= 
+              "/TRANSLATION/SWAHILI/TOPICS/GOSPEL_SwahiliEnglish.pdf"
+              target="_blank">PDF</a>]<br />
+			  <b>Kuzaliwa Upya</b> (Regeneration) - [<a href= 
+              "/TRANSLATION/SWAHILI/TOPICS/REGENERATION_SwahiliEnglish.pdf"
+              target="_blank">PDF</a>]<br />
+			  <b>Mafundisho ya Wokovu</b> (Salvation Doctrines) - [<a href= 
+              "/TRANSLATION/SWAHILI/TOPICS/SALVATION_SwahiliEnglish.pdf"
+              target="_blank">PDF</a>]<br />
+			  <b>Wuungano wa Kristo</b> (Union with Christ) - [<a href= 
+              "/TRANSLATION/SWAHILI/TOPICS/UNION_SwahiliEnglish.pdf"
+              target="_blank">PDF</a>]<br />
+			  <b>Uzima wa Milele</b> (Eternal Life) - [<a href= 
+              "/TRANSLATION/SWAHILI/TOPICS/ETERNALLIFE_SwahiliEnglish.pdf"
+              target="_blank">PDF</a>]
+			   </blockquote>
+			  </td>
+            </tr>            
+         </table><br>
+         <br>
+         <br>
+         <!--#include virtual="/Footer.html" -->
+      </div>
+   </div>
+</body>
+</html>

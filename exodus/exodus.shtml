@@ -1,0 +1,29 @@
+<!DOCTYPE html "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/htm14/loose.dtd">
+<html>
+
+<head>
+
+			 <link href="../CSS/GN_STYLE.css" rel="stylesheet" type="text/css"/>
+			 <meta http-equiv="Content-Type" content="text/html; ISO-8859-1">
+			<title>EXODUS</title>
+</head>
+
+<body>
+<div class="container">
+<!--#include virtual="/header.html" -->
+
+<div class="content">
+<br /><br />
+<h2>EXODUS</h2>
+<p>This is a course in the book of Exodus, taken from Commentary on the Old Testament, by C. F. Keil and F. Delitzsch.</p>
+<p>Click to download the PDF of the complete study here: <b><a href="Exodus.pdf" target="_blank">EXODUS</a> </b></p>
+<p>The <b>Grace Notes course in Exodus</b> has twenty (20) lessons, one for each two chapters in the book. 
+The lessons are distributed by email. To register for the certificate course, 
+write to <b><a href="mailto:wdoud@gracenotes.info">Warren Doud</a></b>.</p>
+<b>Link: <a href="../Authors.html" target="_blank">Grace Notes Authors</a>
+<br /><br /><br /><br />
+<!--#include virtual="/footer.html" -->
+</div>
+</div>
+</body>
+</html>

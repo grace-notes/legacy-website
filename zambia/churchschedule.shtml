@@ -1,0 +1,61 @@
+<!DOCTYPE html >
+
+<html>
+<head>
+   <title>CHURCH SCHEDULE</title>
+   <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+   <link href="ZAMBIA_STYLE.css" rel="stylesheet" type="text/css">
+</head>
+
+<body>
+
+<script type="text/javascript">  /* Google Analytics */
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-36925139-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+
+<div class="container">
+
+<!--#include file ="Header.html" -->
+  
+<div class="content"><br />
+<h2>Kabwe Central Baptist Church</h2>
+
+<div class="indent">
+<h3>Schedule of Activities</h3>
+
+<h4>Sunday</h4>
+<p class="schedule">9:30 to 10:30 AM - Bible Study (all ages)<br />
+10:30 AM - Worship Service<br />
+2:00 PM - Youth Fellowship<br />
+3:00 to 6:00 PM - Bible College classes</p>
+<h4>Monday</h4>
+<p class="schedule">2:00 to 6:00 PM - Bible College Classes</p>
+<h4>Wednesday</h4>
+<p class="schedule">4:30 to 6:00 PM - Bible Study (cell group meetings; various homes)</p>
+<h4>Thursday</h4>
+<p class="schedule">2:00 to 3:30 PM - Ladies Fellowship</p>
+<h4>Friday</h4>
+<p class="schedule">4:00 to 6:00 PM - Bible College Classes</p>
+<h4>Saturday</h4>
+<p class="schedule">2:00 PM - Evangelism Activities<br />
+3:00 to 6:00 PM - Bible College Classes</p>
+
+</div>
+
+        
+   
+<!--#include file="Footer.html" -->
+</div>
+</div>
+</body>
+</html>

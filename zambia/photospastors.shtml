@@ -1,0 +1,113 @@
+<!DOCTYPE html >
+
+<html>
+<head>
+<title>Church Leaders</title>
+
+<link href="ZAMBIA_STYLE.css" rel="stylesheet" type="text/css">
+</head>
+
+<body>
+
+<script type="text/javascript">  /* Google Analytics */
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-36925139-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+
+<div class="container">
+
+<!--#include file ="Header.html" -->
+	   
+<div><br />
+<h2>Grace Bible College of Kabwe</h2>
+<h3>Kabwe Pastors Attending Bible College</h3>
+
+<table class="photos">
+
+<tr>
+<td class="photos"><img src="Zambia_Images/PHOTOS_PASTORS/CHANDA_Andrew(069).JPG" width="180px" height="240px" border="2px solid black">
+<p align="center"><b>Andrew Chanda, Pastor</b><br>
+Pentecostal Holiness Church</p> 
+</td>
+<td><img src="Zambia_Images/PHOTOS_PASTORS/CHIBWE_Godfrey(003).JPG" width="180px" height="240px" border="2px solid black">
+<p align="center"><b>Godfrey Chibwe, Pastor</b><br>
+Lukanga Baptist Fellowship</p> </td>
+<td><img src="Zambia_Images/PHOTOS_PASTORS/CHILIFOLO_Matthew(202).JPG" width="180px" height="240px" border="2px solid black">
+<p align="center"><b>Matthew Chilifolo, Pastor</b><br>
+Light of Life Church</p> </td>
+<td><img src="Zambia_Images/PHOTOS_PASTORS/CHIPASHA_Silvester(060).JPG" width="180px" height="240px" border="2px solid black">
+<p align="center"><b>Silvester Chipasha, Pastor</b><br>
+Tabernacle River of Salvation Church, Nakoli Township</p> </td>
+</tr>
+
+<tr>
+<td class="photos"><img src="Zambia_Images/PHOTOS_PASTORS/CHISANGA_Godfrey(058)-001.JPG" width="180px" height="240px" border="2px solid black">
+<p align="center"><b>Godfrey Chisanga, Pastor</b><br>
+Pentecostal Holiness Church</p> 
+</td>
+<td><img src="Zambia_Images/PHOTOS_PASTORS/CHISANGA_Mary(057).JPG" width="180px" height="240px" border="2px solid black">
+<p align="center"><b>Mary Sichamba Chisanga, Pastor</b><br>
+Pentecostal Holiness Church</p> </td>
+<td><img src="Zambia_Images/PHOTOS_PASTORS/KASONGO_Monica(067).JPG" width="180px" height="240px" border="2px solid black">
+<p align="center"><b>Monica Kasongo, Pastor</b><br>
+Pentecostal Holiness Church</p>
+</td>
+<td><img src="Zambia_Images/PHOTOS_PASTORS/MWANZA_CharlesArthur(021).JPG" width="180px" height="240px" border="2px solid black">
+<p align="center"><b>Charles Arthur Mwanza, Pastor</b><br>
+Eagle Christian Church</p> 
+</td>
+</tr>
+
+<tr>
+<td class="photos"><img src="Zambia_Images/PHOTOS_PASTORS/NGOMA_Lester(101).JPG" width="180px" height="240px" border="2px solid black">
+<p align="center"><b>Lester Ng'oma, Pastor</b></p> 
+</td>
+<td><img src="Zambia_Images/PHOTOS_PASTORS/CHISANGA_Noble(9140112).JPG" width="180px" height="240px" border="2px solid black">
+<p align="center"><b>Noble Chisanga, Pastor</b><br>
+Calvary Worship Centre</p> </td>
+<td><img src="Zambia_Images/PHOTOS_PASTORS/MWANSA_Joseph(006).JPG" width="180px" height="240px" border="2px solid black">
+<p align="center"><b>Joseph Mwansa, Pastor</b></p>
+</td>
+<td><img src="Zambia_Images/PHOTOS_PASTORS/NSOFU_Felix(213).JPG" width="180px" height="240px" border="2px solid black">
+<p align="center"><b>Felix Nsofu, Pastor</b><br>
+Gospel Assembly Church</p> 
+</td>
+</tr>
+
+<tr>
+<td class="photos"><img src="Zambia_Images/PHOTOS_PASTORS/SIAME_Elias(206).JPG" width="180px" height="240px" border="2px solid black">
+<p align="center"><b>Elias Siame, Pastor</b></p> 
+</td>
+<td><img src="Zambia_Images/PHOTOS_PASTORS/SIMWINGA_Aubrey(005).JPG" width="180px" height="240px" border="2px solid black">
+<p align="center"><b>Aubrey Simwinga, Pastor</b><br>
+Christ the Hope of Glory Church</p> </td>
+<td><img src="Zambia_Images/PHOTOS_PASTORS/STANDFORD_Njobvu(064).JPG" width="180px" height="240px" border="2px solid black">
+<p align="center"><b>Njobvu Standford, Pastor</b></p>
+</td>
+<td><img src="Zambia_Images/PHOTOS_PASTORS/ZULU_Humphrey(145).JPG" width="180px" height="240px" border="2px solid black">
+<p align="center"><b>Humphrey Zulu, Pastor</b></p> 
+</td>
+</tr>
+
+<tr>
+<td class="photos"><img src="Zambia_Images/PHOTOS_PASTORS/MUTENGE_Elizabeth(056).JPG" width="180px" height="240px" border="2px solid black">
+<p align="center"><b>Elizabeth Mutenge, Pastor</b></p> 
+</td>
+</tr>
+
+</table>
+   
+<!--#include file="Footer.html" -->
+
+</div>
+</body>
+</html>

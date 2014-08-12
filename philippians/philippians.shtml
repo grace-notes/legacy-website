@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+
+			 <link href="../CSS/GN_STYLE.css" rel="stylesheet" type="text/css"/>
+			 <meta http-equiv="Content-Type" content="text/html; ISO-8859-1">
+			<title>PHILIPPIANS</title>
+</head>
+
+<body>
+<div class="container">
+<!--#include virtual="/header.html" -->
+
+<div class="content">
+<br /><br />
+<h2>Philippians</h2>
+<p>These lessons in Philippians are compiled from the writings of Dr. Grant C. Richison, and were first published on the Internet beginning in 2001 in the Campus Crusades (Canada) daily online devotional Today's Word.</p>
+<p>Click to download the complete studies (pdf files) here:</p>
+
+<div class="indent">
+<b><a href="Philippians.pdf" target="_blank">Philippians</a></b>
+</div>
+
+<p>Grace Notes has a 10-lesson course for <b>Philippians</b>.</p>
+<p>The lessons are distributed by email. For information, or to register for the certificate course, 
+write to <b><a href="mailto:wdoud@gracenotes.info">Warren Doud</a></b>.</p>
+<p>A brief biography of the author is given here: <b><a href="../Authors.html" target="_blank">Grace Notes Authors</a></p>
+<br /><br /><br /><br />
+<!--#include virtual="/footer.html" -->
+</div>
+</div>
+</body>
+</html>

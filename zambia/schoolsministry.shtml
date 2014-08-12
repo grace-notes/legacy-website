@@ -1,0 +1,352 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+   <title>Schools Ministry</title>
+   <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+   <link href="ZAMBIA_STYLE.css" rel="stylesheet" type="text/css">
+</head>
+
+<body>
+
+<script type="text/javascript">  /* Google Analytics */
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-36925139-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+
+   <div class="container">
+      <!--#include file ="Header.html" -->
+
+      <div class="content">
+         <br>
+
+         <h2>Child Evangelism in Public Schools</h2>
+
+         <div class="right">
+            <img src="Zambia_Images/PHOTOS_SCHOOL/DanfordBasicSchool(1).JPG"
+            width="400px" height="300px" border="2px solid black"><br>
+
+            <p><b>Assembly at Danford Chirwa School</b></p>
+         </div>
+
+         <div class="indent">
+            <a href="PhotosSchoolsMinistry.shtml">Schools Ministry Photo
+            Album</a>
+         </div>
+
+         <p class="cambria">Pastor Nsofwa visits more than 25 public schools every month, where he
+         is allowed up to 20 minutes in school assemblies to give a gospel
+         message. He has been doing this work for several years, and he is now
+         able to preach the Word of God to as many as 23,000 primary, high
+         school, and university students and their teachers on a regular
+         basis.</p>
+
+         <p class="cambria">This work has produced rich spiritual dividends as
+         many hundreds of young people have come to know the Lord Jesus Christ.
+         Some who have graduated have entered into their own lives of Christian
+         service.</p>
+
+         <p class="cambria">In his report for November 2012, Gabriel notes that
+         transport costs were $375 for visiting forty-four (44) schools. The
+         closest school was within walking distance from his home, so there was
+         no transportation cost. The two most distant schools are 30 kilometers
+         (18 miles) from his home, and they cost about $25 in round-trip
+         fares.</p>
+
+         <div class="right">
+            <a href="../GraceGiving.shtml" target="_blank"><img src=
+            "../images/GraceGiving.gif"></a>
+         </div>
+
+         <p class="cambria"><b>Challenge</b>: To raise $350 monthly so that
+         Gabriel can use taxis when required to go to these schools. Currently,
+         he only has funds for about 1/2 of his visits, the rest of the time he
+         walks or uses public transport to cut down the walking distance.</p>
+
+         <div class="right">
+            <img src="Zambia_Images/PHOTOS_SCHOOL/NkwashiPrimarySchool(2).JPG"
+            width="360px" height="270px" border="2px solid black"><br>
+
+            <p><b>Class at Nkwashi Primary School</b></p>
+         </div>
+
+         <table class="schools">
+            <caption>
+               <b>Kabwe, Zambia Schools Visited in 2012</b>
+            </caption>
+
+            <tr>
+               <th width="80%">School</th>
+
+               <th width="20%"># Students</th>
+            </tr>
+
+            <tr>
+               <td><b>Primary Schools [34]</b></td>
+
+               <td></td>
+            </tr>
+
+            <tr>
+               <td>Broadway Basic School</td>
+
+               <td>682</td>
+            </tr>
+
+            <tr>
+               <td>Bruneli Basic School</td>
+
+               <td>720</td>
+            </tr>
+
+            <tr>
+               <td>Buseko Basic School</td>
+
+               <td>876</td>
+            </tr>
+
+            <tr>
+               <td>Buyantashi Basic School</td>
+
+               <td>710</td>
+            </tr>
+
+            <tr>
+               <td>Danford Chirwa School</td>
+
+               <td>571</td>
+            </tr>
+
+            <tr>
+               <td>Family Missions School</td>
+
+               <td>201</td>
+            </tr>
+
+            <tr>
+               <td>Freedom Private School</td>
+
+               <td>86</td>
+            </tr>
+
+            <tr>
+               <td>Jacaranda Primary School</td>
+
+               <td>965</td>
+            </tr>
+
+            <tr>
+               <td>Jacaranda Trust School</td>
+
+               <td>154</td>
+            </tr>
+
+            <tr>
+               <td>Jessy Mine School</td>
+
+               <td>506</td>
+            </tr>
+
+            <tr>
+               <td>Kabwe Trust School</td>
+
+               <td>801</td>
+            </tr>
+
+            <tr>
+               <td>Kamanda Basic School</td>
+
+               <td>453</td>
+            </tr>
+
+            <tr>
+               <td>Kasanda Basic School</td>
+
+               <td>582</td>
+            </tr>
+
+            <tr>
+               <td>Kizito Basic School</td>
+
+               <td>809</td>
+            </tr>
+
+            <tr>
+               <td>Lukanga Basic School</td>
+
+               <td>453</td>
+            </tr>
+
+            <tr>
+               <td>Makululu Basic School</td>
+
+               <td>720</td>
+            </tr>
+
+            <tr>
+               <td>Mine Basic School</td>
+
+               <td>367</td>
+            </tr>
+
+            <tr>
+               <td>Makululu Basic School</td>
+
+               <td>720</td>
+            </tr>
+
+            <tr>
+               <td>Mpima Dairy Basic School</td>
+
+               <td>987</td>
+            </tr>
+
+            <tr>
+               <td>Mukobeko Basic School</td>
+
+               <td>675</td>
+            </tr>
+
+            <tr>
+               <td>Mwashi Basic School</td>
+
+               <td>962</td>
+            </tr>
+
+            <tr>
+               <td>Nambe Basic School</td>
+
+               <td>90</td>
+            </tr>
+
+            <tr>
+               <td>Natuseko Basic School</td>
+
+               <td>723</td>
+            </tr>
+
+            <tr>
+               <td>Neem Tree Primary School</td>
+
+               <td>723</td>
+            </tr>
+
+            <tr>
+               <td>Nkwashi Basic School</td>
+
+               <td>453</td>
+            </tr>
+
+            <tr>
+               <td>Raphael Kombe Girls HS</td>
+
+               <td>550</td>
+            </tr>
+
+            <tr>
+               <td>Shitima Basic School</td>
+
+               <td>463</td>
+            </tr>
+
+            <tr>
+               <td>St. Mary's Basic School</td>
+
+               <td>502</td>
+            </tr>
+
+            <tr>
+               <td><b>High Schools [8]</b></td>
+
+               <td></td>
+            </tr>
+
+            <tr>
+               <td>Bwacha High School</td>
+
+               <td>769</td>
+            </tr>
+
+            <tr>
+               <td>Chindwin High School</td>
+
+               <td>907</td>
+            </tr>
+
+            <tr>
+               <td>Highridge High School</td>
+
+               <td>546</td>
+            </tr>
+
+            <tr>
+               <td></td>
+            </tr>
+
+            <tr>
+               <td>Jasmine High School</td>
+
+               <td>134</td>
+            </tr>
+
+            <tr>
+               <td>Kabwe High School</td>
+
+               <td>1056</td>
+            </tr>
+
+            <tr>
+               <td>Kalonga High School</td>
+
+               <td>209</td>
+            </tr>
+
+            <tr>
+               <td>Mukobeko High School</td>
+
+               <td>564</td>
+            </tr>
+
+            <tr>
+               <td>Raphael Kombe Girls High School</td>
+
+               <td>550</td>
+            </tr>
+
+            <tr>
+               <td><b>College and University [2]</b></td>
+
+               <td></td>
+            </tr>
+
+            <tr>
+               <td>Kabwe Trades College</td>
+
+               <td>574</td>
+            </tr>
+
+            <tr>
+               <td>Nkrumah University</td>
+
+               <td>907</td>
+            </tr>
+
+            <tr>
+               <td><b>TOTAL</b></td>
+
+               <td><b>~ 23,000</b></td>
+            </tr>
+         </table>
+      </div><!--#include file="Footer.html" -->
+   </div>
+</body>
+</html>

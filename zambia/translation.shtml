@@ -1,0 +1,275 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>
+      Grace Notes Translations
+    </title>
+    <link href="CSS/GN_STYLE.css" rel="stylesheet" type="text/css">
+</head>
+<style>
+table { 
+width: 100%;
+}
+td { 
+padding-left:: 5px;
+}
+th {
+padding-left: 5px;
+}
+</style>
+  <body>
+    <div class="container">
+      <!--#include virtual="/header.html" -->
+      <div class="content">
+        <br>
+        <h3>Grace Notes Translated Materials</h3>
+        <p></p>
+        <p>
+          To support the Grace Notes classes in other countries, we are providing
+          parallel translations of those books of the Bible which are studied
+          in Grace Notes courses (e.g. Titus, Ruth, Ephesians, Mark).  These materials
+		  are derived from online sources for the Bibles in various languages.
+        </p>
+		<p>Local Bible teachers are working at translating Grace Notes doctrinal files
+		into some of these languages. Translations are being done now in Bemba, Luganda, 
+		Ndebele, and Nyanja. Click on the library links below to access the 
+		available files.
+        <p>
+          In each file, the native language translation is on one column and
+          the English version is in the second column. In all cases the New
+          International Version is used, because that is the English version
+          most used by the people in these classes.<br>
+        </p>
+        <table>
+          <tr>
+            <th width="40%">Language</th>
+            <th width="60%">Bible Books - English in Parallel</th>
+          </tr>
+          <tr>
+            <td class="bible">
+              <b>AFRIKAANS</b></td>
+            <td class="bible">
+			  <a class="bible" href= 
+              "/DOCUMENTS/LANGUAGES/RUTH_AFRIKAANS-NIV.pdf"
+              target="_blank">RUTH</a> | 			
+			  <a class="bible" href= 
+              "/DOCUMENTS/LANGUAGES/HOSEA_AFRIKAANS-NIV.pdf"
+              target="_blank">HOSEA</a> | 
+			  <a class="bible" href= 
+              "/DOCUMENTS/LANGUAGES/MARK_AFRIKAANS-NIV.pdf"
+              target="_blank">MARK</a> | 
+			  <a class="bible" href= 
+              "/DOCUMENTS/LANGUAGES/EPHESIANS_AFRIKAANS-NIV.pdf"
+              target="_blank">EPHESIANS</a> | 
+              <a class="bible" href= 
+              "/DOCUMENTS/LANGUAGES/TITUS_AFRIKAANS-NIV.pdf"
+              target="_blank">TITUS</a> |
+            </td>
+			
+          </tr>
+          <tr>
+            <td class="bible">
+              <b><a href="/ZAMBIA/BembaTopicsLibrary.shtml" 
+			  target="_blank">
+			  <b>BEMBA Library</b></a></td>
+            <td class="bible">			
+			  <a class="bible" href= 
+              "/DOCUMENTS/LANGUAGES/RUTH_BEMBA-NIV.pdf"
+              target="_blank">RUTH</a> | 
+			  <a class="bible" href= 
+              "/DOCUMENTS/LANGUAGES/ROMANS_BEMBA-NIV.pdf"
+              target="_blank">ROMANS 1-3</a> | 
+			  <a class="bible" href= 
+              "/DOCUMENTS/LANGUAGES/EPHESIANS_BEMBA-NIV.pdf"
+              target="_blank">EPHESIANS</a> | 
+              <a class="bible" href= 
+              "/DOCUMENTS/LANGUAGES/TITUS_BEMBA-NIV.pdf"
+              target="_blank">TITUS</a> |
+            </td>
+          </tr>
+          <tr>
+            <td class="bible">
+              <b><a href="/TRANSLATION/LUGANDA/LugandaLibrary.shtml" target="_blank">
+			  LUGANDA Library</a></b>
+            </td>
+            <td class="bible">			
+			  <a class="bible" href= 
+              "/DOCUMENTS/LANGUAGES/RUTH_LUGANDA-NIV.pdf"
+              target="_blank">RUTH</a> | 
+			  <a class="bible" href= 
+              "/DOCUMENTS/LANGUAGES/HOSEA_LUGANDA-NIV.pdf"
+              target="_blank">HOSEA</a> | 
+              <a class="bible" href= 
+              "/DOCUMENTS/LANGUAGES/MARK_LUGANDA-NIV.pdf"
+              target="_blank">MARK</a> |
+			  <a class="bible" href= 
+              "/DOCUMENTS/LANGUAGES/ROMANS_LUGANDA-NIV.pdf"
+              target="_blank">ROMANS</a> | 
+			  <a class="bible" href= 
+              "/DOCUMENTS/LANGUAGES/EPHESIANS_LUGANDA-NIV.pdf"
+              target="_blank">EPHESIANS</a> | 
+              <a class="bible" href= 
+              "/DOCUMENTS/LANGUAGES/TITUS_LUGANDA-NIV.pdf"
+              target="_blank">TITUS</a> |
+            </td>
+          </tr>
+          <tr>
+            <td class="bible">
+              <b>LUO</b> **</td>
+            <td class="bible">
+			<a class="bible" href= 
+              "/DOCUMENTS/LANGUAGES/MARK_LUO-NIV.pdf"
+              target="_blank">MARK</a> |
+			<a class="bible" href= 
+              "/DOCUMENTS/LANGUAGES/EPHESIANS_LUO-NIV.pdf"
+              target="_blank">EPHESIANS</a> |
+              <a class="bible" href= 
+              "/DOCUMENTS/LANGUAGES/TITUS_LUO-NIV.pdf"
+              target="_blank">TITUS</a> | 
+            </td>
+          </tr>
+          <tr>
+            <td class="bible">
+              <b>NDEBELE</b></td>
+            <td class="bible">
+             <a class="bible" href= 
+              "/DOCUMENTS/LANGUAGES/RUTH_NDEBELE-NIV.pdf"
+              target="_blank">RUTH</a> | 		  
+             <a class="bible" href= 
+              "/DOCUMENTS/LANGUAGES/HOSEA_NDEBELE-NIV.pdf"
+              target="_blank">HOSEA</a> | 	  
+			  <a class="bible" href= 
+              "/DOCUMENTS/LANGUAGES/MARK_NDEBELE-NIV.pdf"
+              target="_blank">MARK</a> | 	  
+			  <a class="bible" href= 
+              "/DOCUMENTS/LANGUAGES/EPHESIANS_NDEBELE-NIV.pdf"
+              target="_blank">EPHESIANS</a> | 
+			<a class="bible" href= 
+              "/DOCUMENTS/LANGUAGES/TITUS_NDEBELE-NIV.pdf"
+              target="_blank">TITUS</a> | 
+            </td>
+          </tr>
+          <tr>
+            <td class="bible">
+             <b>NYANJA **</b>
+			 </td>
+            <td class="bible">
+			<a class="bible" href= 
+              "/DOCUMENTS/LANGUAGES/MARK_NYANJA-NIV.pdf"
+              target="_blank">MARK</a> | 
+			<a class="bible" href= 
+              "/DOCUMENTS/LANGUAGES/EPHESIANS_NYANJA-NIV.pdf"
+              target="_blank">EPHESIANS</a> | 
+              <a class="bible" href= 
+              "/DOCUMENTS/LANGUAGES/TITUS_NYANJA-NIV.pdf"
+              target="_blank">TITUS</a> | 
+            </td>
+          </tr>
+          <tr>
+            <td class="bible">
+              <b>RUNYANKORE</b></td>
+            <td class="bible">
+			  TITUS |
+            </td>
+          </tr>
+		  <tr>
+            <td class="bible">
+              <b>SHONA</b></td>
+            <td class="bible">
+			  <a class="bible" href= 
+              "/DOCUMENTS/LANGUAGES/RUTH_SHONA-NIV.pdf"
+              target="_blank">RUTH</a> | 		  
+			  <a class="bible" href= 
+              "/DOCUMENTS/LANGUAGES/HOSEA_SHONA-NIV.pdf"
+              target="_blank">HOSEA</a> | 	  
+			  <a class="bible" href= 
+              "/DOCUMENTS/LANGUAGES/MARK_SHONA-NIV.pdf"
+              target="_blank">MARK</a> | 	  
+			  <a class="bible" href= 
+              "/DOCUMENTS/LANGUAGES/EPHESIANS_SHONA-NIV.pdf"
+              target="_blank">EPHESIANS</a> | 
+              <a class="bible" href= 
+              "/DOCUMENTS/LANGUAGES/TITUS_SHONA-NIV.pdf"
+              target="_blank">TITUS</a> |
+            </td>
+          </tr>
+          <tr>
+            <td class="bible">
+              <b>SWAHILI</b></td>
+            <td class="bible">              
+			  <a class="bible" href= 
+              "/DOCUMENTS/LANGUAGES/RUTH_SWAHILI-NIV.pdf"
+              target="_blank">RUTH</a> | 
+			  <a class="bible" href= 
+              "/DOCUMENTS/LANGUAGES/HOSEA_SWAHILI-NIV.pdf"
+              target="_blank">HOSEA</a> | 
+			  <a class="bible" href= 
+              "/DOCUMENTS/LANGUAGES/MARK_SWAHILI-NIV.pdf"
+              target="_blank">MARK</a> | 
+			  <a class="bible" href= 
+              "/DOCUMENTS/LANGUAGES/EPHESIANS_SWAHILI-NIV.pdf"
+              target="_blank">EPHESIANS</a> | 
+			  <a class="bible" href= 
+              "/DOCUMENTS/LANGUAGES/TITUS_SWAHILI-NIV.pdf"
+              target="_blank">TITUS</a> |
+            </td>
+          </tr>
+          <tr>
+            <td class="bible">
+              <b>TAGALOG</b></td>
+            <td class="bible">
+			  <a class="bible" href= 
+              "/DOCUMENTS/LANGUAGES/TITUS_TAGALOG-KJV.pdf"
+              target="_blank">TITUS</a> |
+            </td>
+          </tr>
+		  <tr>
+            <td class="bible">
+              <b>XHOSA</b></td>
+            <td class="bible">
+			  <a class="bible" href= 
+              "/DOCUMENTS/LANGUAGES/RUTH_XHOSA-NIV.pdf"
+              target="_blank">RUTH</a> | 
+			  <a class="bible" href= 
+              "/DOCUMENTS/LANGUAGES/HOSEA_XHOSA-NIV.pdf"
+              target="_blank">HOSEA</a> | 
+			  <a class="bible" href= 
+              "/DOCUMENTS/LANGUAGES/MARK_XHOSA-NIV.pdf"
+              target="_blank">MARK</a> | 	
+			  <a class="bible" href= 
+              "/DOCUMENTS/LANGUAGES/EPHESIANS_XHOSA-NIV.pdf"
+              target="_blank">EPHESIANS</a> | 			  
+              <a class="bible" href= 
+              "/DOCUMENTS/LANGUAGES/TITUS_XHOSA-NIV.pdf"
+              target="_blank">TITUS</a> |
+            </td>
+		 </tr>
+          <tr>
+            <td class="bible">
+              <b>ZULU</b></td>
+            <td class="bible">              
+			  <a class="bible" href= 
+              "/DOCUMENTS/LANGUAGES/RUTH_ZULU-NIV.pdf"
+              target="_blank">RUTH</a> |               
+			  <a class="bible" href= 
+              "/DOCUMENTS/LANGUAGES/HOSEA_ZULU-NIV.pdf"
+              target="_blank">HOSEA</a> | 
+			  <a class="bible" href= 
+              "/DOCUMENTS/LANGUAGES/MARK_ZULU-NIV.pdf"
+              target="_blank">MARK</a> |
+			  <a class="bible" href= 
+              "/DOCUMENTS/LANGUAGES/EPHESIANS_ZULU-NIV.pdf"
+              target="_blank">EPHESIANS</a> |
+			  <a class="bible" href= 
+              "/DOCUMENTS/LANGUAGES/TITUS_ZULU-NIV.pdf"
+              target="_blank">TITUS</a> |
+            </td>
+          </tr>
+        </table><br>
+		<p>* The BEMBA version must be typed in manually, so it will not appear until that is done.<br />
+		** Old Testament not available in this language.</p>
+        <!--#include virtual="/footer.html" -->
+      </div>
+    </div>
+  </body>
+</html>

@@ -1,0 +1,49 @@
+<!DOCTYPE html >
+<html>
+
+<head>
+<link href="../CSS/GN_STYLE.css" rel="stylesheet" type="text/css"/>
+<title>Romans</title>
+</head>
+
+<body>
+<div class="container">
+<!--#include virtual="/header.html" -->
+
+<div class="content">
+<br /><br />
+<h3>The Epistle to the Romans</h3>
+<p>This verse by verse exposition of Romans was written by Dr. Dan Hill when he was the 
+Pastor of Southwood Bible Church in Tulsa, Oklahoma. He taught the complete book, verse by verse, to his congregation there. He has made his notes available to Grace Notes for development into course materials.</p>
+<p><b>Click</b> to read, <b>Right-Click</b> to download the PDF of the complete study here: <b><a href="ROMANS.pdf" target="_blank">ROMANS</a> </b></p>
+<p>The <b>Grace Notes course in Romans</b> has sixteen (16) lessons, one for each chapter in Romans. 
+The lessons are distributed by email. To register for the certificate course, 
+write to <b><a href="mailto:wdoud@gracenotes.info">Warren Doud</a></b>.</p>
+<b>Link: <a href="../Authors.html" target="_blank">Grace Notes Authors</a>
+<br />
+<p>Download individual lessons below:
+		 <div class="indent">
+         <p>
+		 <b><a href="ROM001.pdf" target="_blank">Romans 1</a></b><br />
+		 <b><a href="ROM002.pdf" target="_blank">Romans 2</a></b><br />
+		 <b><a href="ROM003.pdf" target="_blank">Romans 3</a></b><br />
+		 <b><a href="ROM004.pdf" target="_blank">Romans 4</a></b><br />
+		 <b><a href="ROM005.pdf" target="_blank">Romans 5</a></b><br />
+		 <b><a href="ROM006.pdf" target="_blank">Romans 6</a></b><br />
+		 <b><a href="ROM007.pdf" target="_blank">Romans 7</a></b><br />
+		 <b><a href="ROM008.pdf" target="_blank">Romans 8</a></b><br />
+		 <b><a href="ROM009.pdf" target="_blank">Romans 9</a></b><br />
+		 <b><a href="ROM010.pdf" target="_blank">Romans 10</a></b><br />
+		 <b><a href="ROM011.pdf" target="_blank">Romans 11</a></b><br />
+		 <b><a href="ROM012.pdf" target="_blank">Romans 12</a></b><br />
+		 <b><a href="ROM013.pdf" target="_blank">Romans 13</a></b><br />
+		 <b><a href="ROM014.pdf" target="_blank">Romans 14</a></b><br />
+		 <b><a href="ROM015.pdf" target="_blank">Romans 15</a></b><br />
+		 <b><a href="ROM016.pdf" target="_blank">Romans 16</a></b>
+		 </p>
+		 </div><br /><br /><br />
+<!--#include virtual="/footer.html" -->
+</div>
+</div>
+</body>
+</html>

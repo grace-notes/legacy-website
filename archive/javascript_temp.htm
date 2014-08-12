@@ -1,0 +1,75 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<HEAD>
+
+<SCRIPT LANGUAGE="JavaScript">
+<!-- Original:  CodeLifter.com (support@codelifter.com) -->
+<!-- Web Site:  http://www.codelifter.com -->
+
+<!-- This script and many more are available free online at -->
+<!-- The JavaScript Source!! http://javascript.internet.com -->
+
+<!-- Begin
+var windowW=350 // wide
+var windowH=350 // high
+var windowX = 100 // from left
+var windowY = 100 // from top
+var urlPop = "formreply.html"
+var title =  "This Is A Frameless Popup Window"
+// set this to true if the popup should close
+// upon leaving the launching page; else, false
+var autoclose = true
+// do not edit below this line
+s = "width="+windowW+",height="+windowH;
+var beIE = document.all?true:false
+function openFrameless() {
+if (beIE) {
+NFW = window.open("","popFrameless","fullscreen,"+s);
+NFW.blur();
+window.focus();
+NFW.resizeTo(windowW,windowH);
+NFW.moveTo(windowX,windowY);
+var frameString=""+
+"<html>"+
+"<head>"+
+"<title>"+title+"</title>"+
+"</head>"+
+"<frameset rows='*,0' framespacing=0 border=0 frameborder=0>"+
+"<frame name='top' src='"+urlPop+"' scrolling=auto>"+
+"<frame name='bottom' src='about:blank' scrolling='no'>"+
+"</frameset>"+
+"</html>";
+NFW.document.open();
+NFW.document.write(frameString);
+NFW.document.close();
+}
+else {
+NFW = window.open(urlPop,"popFrameless","scrollbars,"+s);
+NFW.blur();
+window.focus();
+NFW.resizeTo(windowW,windowH);
+NFW.moveTo(windowX,windowY);
+}
+NFW.focus();
+if (autoclose) {
+window.onunload = function(){NFW.close();}
+   }
+}
+//  End -->
+</script>
+
+</HEAD>
+
+<BODY onLoad="top.window.focus()">
+
+<!-- STEP THREE: Copy this code into the BODY of your HTML document  -->
+
+<a href="javascript:openFrameless()">Click Here</a>
+
+<p><center>
+<font face="arial, helvetica" size"-2">Free JavaScripts provided<br>
+by <a href="http://javascriptsource.com">The JavaScript Source</a></font>
+</center><p>
+
+</body>
+</html>

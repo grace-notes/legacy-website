@@ -1,0 +1,35 @@
+body {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: small;
+}
+p {
+	margin-right: 10%;
+}
+a:link {
+	color: #0000CC;
+	text-decoration: none;
+}
+a:visited {
+	color: #0000CC;
+	text-decoration: none;
+}
+a:hover {
+	color: #333333;
+	text-decoration: underline;
+}
+a:active {
+	text-decoration: none;
+}
+td {
+	margin-left: 3px;
+	margin-right: 3px;
+}
+H1 {
+	font-size: 1.3em;
+}
+H2 {
+	font-size: 1.0em;
+}
+li {
+		padding-bottom: 10px
+}

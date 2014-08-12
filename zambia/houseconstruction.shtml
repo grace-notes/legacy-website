@@ -1,0 +1,205 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+   <title>House Construction</title>
+   <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+   <link href="ZAMBIA_STYLE.css" rel="stylesheet" type="text/css">
+</head>
+
+<body>
+   <div class="container">
+      <!--#include file ="Header.html" -->
+
+      <div class="content">
+         <br>
+         <br>
+
+         <h2>Building the Pastor&#39;s House!</h2>
+
+         <div class="right">
+            <img class="photo" src=
+            "Zambia_Images/HOUSE/FoundationWork(23).JPG" alt=
+            "Foundation Progress" border="2px solid black" width="300" height=
+            "225">
+
+            <p class="center">Pastor Chipasha lays final row of blocks.</p>
+			
+			<img class="photo" src=
+            "Zambia_Images/HOUSE/FoundationWork(19).JPG" alt=
+            "Foundation Progress" border="2px solid black" width="300" height=
+            "225">
+
+            <p class="center">Foundation Nears Completion<br>
+            [MORE PHOTOS BELOW]</p>
+         </div>
+		 
+		 <h3>5 December 2012</h3>
+		 <p class="cambria">Septic tank and sewer lines are being dug. Cement blocks have nearly all been laid. Weather is good, allowing work to proceed quickly.</p>
+
+          <p class="cambria">Phases of building project:</p>
+
+         <div class="indent">
+            <p>Phase 1 - Foundation Base - Cost $1500 - Complete<br>
+            Phase 2 - Complete Foundation, Concrete Slab - $2150 (Backfill, $750; Slab, $1000; Labor, $400)<br>
+            Phase 3 - Framing - estimate $4500<br>
+            Phase 4 - Roofing<br>
+            Phase 5 - Interior Finish<br>
+            Phase 6 - Furnishings</p>
+         </div>
+
+         <p class="cambria"><b>Challenge</b>: Gabriel estimates the total
+         amount required to be about US $25,000. To contribute, click on the
+         button.</p>
+		 <h3>1 November 2012</h3>
+
+         <p class="cambria">The foundation is partially complete, as you can
+         see from the photos. The work is proceeding, and Phase 1 will be
+         complete in one or two weeks.</p>
+
+        
+
+         <div class="right">
+            <a href="/GraceGiving.shtml" target=
+            "_blank"><img src=
+            "/images/GraceGiving.gif"></a>
+         </div>
+
+         <h3>1 October 2012</h3>
+
+         <p class="cambria">In September 2012 Pastor Gabriel told Grace Notes
+         sponsors that he would lose the plot he had purchased as a homestead,
+         unless he were able to make some kind of improvement on the property.
+         To satisfy the legal requirements, he needed $1500 to pay for the
+         first phase of building, laying a foundation for a house.</p>
+
+         <p class="cambria">At the time there were no funds for this, but on
+         October 1, a Christian believer gave a grace gift of $1500, designated
+         for getting the foundation built! We transmitted this immediately to
+         Gabriel; it didn&#39;t take him long to spend it! :-)</p>
+
+         <p class="cambria">Gabriel began work immediately. He was in a hurry
+         because he wanted to have the foundation laid before the November
+         rains in Zambia. He engaged a brother minister, Pastor Silvester
+         Chipasha, to design and build the foundation. He also recruited
+         several young men to help, students from the Bwacha High School, who
+         wanted to earn money to pay their school fees.</p>
+
+         <p class="cambria">It will be much less expensive for the Nsofwa&#39;s
+         to own their own home than to pay rent.<br>
+         [<b><a href="/ZAMBIA/PhotosFamily.shtml"
+         target="_blank">Family Photos</a></b>]<br>
+         Also, they will no longer be dependent on the whims of a landlord
+         (laws for renters are very relaxed). The house Gabriel and Ruth have
+         now is in the Mine district of Kabwe, which is very polluted. The new
+         location is several miles north, in an area with much fewer health
+         hazards. There will be more room for the family of seven; and Gabriel
+         will have a small office space for church and Bible College work.</p>
+
+         <p class="cambria">Silvester Chipasha is pastor of the Tabernacle
+         River of Salvation Church, in the Nakoli Township of Kabwe. He is a
+         student at Grace Bible College of Kabwe. The young workers are
+         Christian teenage students at Bwacha High School. They are orphans,
+         and they need this work to help pay their school fees. Pastor Nsofwa
+         visits this school every month to preach the gospel at assemblies.
+         <b>Contributions to this project are a direct benefit to all who are
+         working here.</b></p>
+
+         <h3>Project Photos (will be updated as work progresses)</h3>
+
+         <table class="photos">
+            
+			<tr>
+               <td>
+                  <img src="Zambia_Images/House/FoundationWork(22).jpg" width=
+                  "360px" height="270px" border="1px solid black">
+
+                  <p class="center c1">Sylvester Chipasha sets blocks...</p>
+               </td>
+
+               <td>
+                  <img src="Zambia_Images/House/FoundationWork(24).JPG" width=
+                  "360px" height="270px" border="1px solid black">
+
+                  <p class="center c1">...one block at a time</p>
+               </td>
+            </tr>
+			
+			<tr>
+               <td>
+                  <img src="Zambia_Images/House/SepticTank(50026).jpg" width=
+                  "360px" height="270px" border="1px solid black">
+
+                  <p class="center c1">Septic Tank and Sewer Lines Started</p>
+               </td>
+
+               <td>
+                  <img src="Zambia_Images/House/FoundationWork(313).JPG" width=
+                  "360px" height="270px" border="1px solid black">
+
+                  <p class="center c1">Foundation Progress</p>
+               </td>
+            </tr>
+
+            <tr>
+               <td>
+                  <img src="Zambia_Images/House/Foundation_Chipasha(253).jpg"
+                  width="360px" height="270px" border="1px solid black">
+
+                  <p class="center c1">Pastor Chipasha Designs Foundation</p>
+               </td>
+
+               <td>
+                  <img src=
+                  "Zambia_Images/House/FoundationWork_Chipasha-Nsofwa(294).JPG"
+                  width="360px" height="270px" border="1px solid black">
+
+                  <p class="center c1">Gabriel and Silvester Prepare
+                  Materials</p>
+               </td>
+            </tr>
+
+            <tr>
+               <td>
+                  <img src=
+                  "Zambia_Images/House/FoundationWork_Gabriel(295).JPG" width=
+                  "360px" height="270px" border="1px solid black">
+
+                  <p class="center c1">Gabriel prepares concrete ...</p>
+               </td>
+
+               <td>
+                  <img src=
+                  "Zambia_Images/House/FoundationWork_Gabriel(272).JPG" width=
+                  "360px" height="270px" border="1px solid black">
+
+                  <p class="center c1">... heads back for another load.</p>
+               </td>
+            </tr>
+
+            <tr>
+               <td>
+                  <img src="Zambia_Images/House/FoundationWork(282).JPG" width=
+                  "360px" height="270px" border="1px solid black">
+
+                  <p class="center c1">Bwacha High students mix concrete
+                  ...</p>
+               </td>
+
+               <td>
+                  <img src="Zambia_Images/House/FoundationWork(264).JPG" width=
+                  "360px" height="270px" border="1px solid black">
+
+                  <p class="center c1">... then make a pour.</p>
+               </td>
+            </tr>
+         </table><br>
+         <br>
+         <br>
+         <br>
+         <br>
+         <br>
+      </div><!--#include file="Footer.html" -->
+   </div>
+</body>
+</html>

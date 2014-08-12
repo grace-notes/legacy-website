@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+   <link href="../CSS/GN_STYLE.css" rel="stylesheet" type="text/css">
+
+   <title>History 500</title>
+</head>
+
+<body>
+<div class="container">
+<!--#include virtual="/header.html" -->
+
+<div class="content">
+<br /><br />
+   <h2>History 500 - Old Testament History</h2>
+
+<h3>by Alfred Edersheim</h3>
+
+   <p>This course is based on the book by Alfred Edersheim, <b>Old Testament History</b>.</p>
+   <p>The Grace Notes course has 20 lessons, with quizzes.<br>
+    To request the course, write to:
+   <a href="mailto:wdoud@gracenotes.info" target=_blank">wdoud@gracenotes.info</a></p>
+
+   
+
+<p>Download the complete file, with Table of Contents: <a href="History500_Documents/OldTestamentHistory.pdf" target="_blank">Old Testament History</a></p>
+
+<!--#include virtual="/footer.html" -->
+</div>
+</div>
+</body>
+</html>

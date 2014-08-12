@@ -1,0 +1,54 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN">
+
+<html>
+<head>
+   <link href="../CSS/GN_STYLE.css" rel="stylesheet" type="text/css">
+   <meta http-equiv="Content-Type" content="text/html; ISO-8859-1">
+
+   <title>ESTHER</title>
+</head>
+
+<body>
+   <div class="container">
+      <!--#include virtual="/header.html" -->
+
+      <div class="content">
+         <br>
+         <br>
+
+         <h2>ESTHER</h2>
+
+         <p>This expositional Bible study of the book of Esther was written by
+         Dr. Daniel Hill when he was the Pastor of Southwood Bible Church in
+         Tulsa, Oklahoma. He taught the complete book, verse by verse, to his
+         congregation there. He has made his notes available to Grace Notes for
+         development into course materials.</p>
+
+         <p>God's sovereign power is magnificently displayed in the story of
+         Esther. The Jews in Jerusalem could read this and be greatly
+         encouraged knowing that if God is in control in Babylon, how much more
+         so with those in Jerusalem, in his geographical will, who are calling
+         daily upon the name of the most high God.</p>
+
+         <p>Today we can take great comfort and encouragement from
+         this story. There are believers, Christians today out of the will
+         of God; but God is still in control just as He was in Esther's day. For
+         those who know that they are in God's will, how much more is God in
+         control of every facet of their lives.</p>
+
+         <p>Click to download the PDF of the complete study here: <b><a href= 
+         "Esther.pdf" target="_blank">ESTHER</a></b></p>
+
+         <p>The <b>Grace Notes course in ESTHER</b> has ten (10) lessons.<br>
+         The lessons are distributed by email.<br>
+         To register for the certificate course, write to <b><a href= 
+         "mailto:wdoud@gracenotes.info">Warren Doud</a></b>.</p><b>Link:
+         <a href="../Authors.html" target="_blank">Grace Notes Authors</a><br>
+         <br>
+         <br>
+         <br>
+         <!--#include virtual="/footer.html" --></b>
+      </div>
+   </div>
+</body>
+</html>

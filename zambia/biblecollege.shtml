@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+   <title>Grace Bible College</title>
+   <meta name="description" content=
+   "Grace Notes provides verse-by-verse Bible studies and a library of related categorical and historical studies.">
+   <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+   <link href="ZAMBIA_STYLE.css" rel="stylesheet" type="text/css">
+</head>
+
+<body>
+
+<script type="text/javascript">  /* Google Analytics */
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-36925139-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+
+   <div class="container">
+      <!--#include file ="Header.html" -->
+      <img class="right" src="Zambia_Images/Gabriel_Nsofwa-002.jpg">
+
+      <div class="content">
+         <br>
+
+         <p style="font-size:1.3em"><b>Grace Bible College of Kabwe</b></p>
+
+         <p style="font-size:1.2em"><b>Director: Rev. Gabriel Nsofwa</b></p>
+
+         <p style="font-size:1.1em"><b>Pastor, Kabwe Central Baptist Church<br>
+         Kabwe, Zambia</b></p>
+
+         <p>Grace Bible College of Kabwe, Zambia, provides a comprehensive
+         higher education to Christian pastors, teachers, educators, and lay
+         people.</p>
+
+         <p>The curriculum provides courses in Bible exposition and preaching,
+         doctrinal studies, Bible interpretation and teaching methods, history
+         studies, and other supporting studies.</p>
+<!--#include file ="RightMenu.html" -->
+
+         <div class="right">
+            <a href="/GraceGiving.shtml" target=
+            "_blank"><img src=
+            "/images/GraceGiving.gif"></a>
+         </div>
+
+         <p>The core lesson materials for the College are derived from the
+         Grace Notes Bible training library, which provides twelve (12) course
+         Units of academic work, leading to three levels of diplomas.<br>
+         A description of curriculum materials is found at: <a href=
+         "http://www.gracenotes.info" target="_blank">Grace Notes Web
+         Site</a></p>
+
+         <p>Courses include:</p>
+
+         <ul>
+            <li>Exposition of 50 books of the Bible (verse by verse
+            studies)</li>
+
+            <li>Systematic theological studies of hundreds of Bible
+            categories</li>
+
+            <li>History: Rome, Greece, Persia, Babylon, Old Testament, Early
+            Church Age</li>
+         </ul>
+
+         <p>Diplomas offered are:</p>
+
+         <ul>
+            <li><b>Associate in Bible Teaching</b> - [UNITS I to IV]</li>
+
+            <li><b>Senior Bible Teacher</b> - [UNITS V to VIII]</li>
+
+            <li><b>Master Bible Teacher</b> - [UNITS IX to XII]</li>
+         </ul>
+
+         <p></p>
+      </div><!--#include file="Footer.html" -->
+   </div>
+</body>
+</html>

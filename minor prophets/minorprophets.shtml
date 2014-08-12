@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+
+<link href="../CSS/GN_STYLE.css" rel="stylesheet" type="text/css"/>
+<meta http-equiv="Content-Type" content="text/html; ISO-8859-1">
+<title>MINOR PROPHETS</title>
+</head>
+
+<body>
+<div class="container">
+<!-- #include virtual="/header.html" -->
+
+<div class="content">
+<br /><br />
+<h2>MINOR PROPHETS</h2>
+<p>This is a course in the Old Testament books of the Minor Prophets, based on the teachings of Pastor Bob Bolender of Austin Bible Church, Austin, Texas.</p>
+<p>Click to download the PDF of the complete study here: <b><a href="MinorProphetNotebook.pdf" target="_blank">MINOR PROPHETS</a> </b></p>
+<p>The <b>Grace Notes course in the Minor Prophets</b> is available by email distribution.<br />
+Write to <b><a href="mailto:wdoud@gracenotes.info">Warren Doud</a></b> to request the lessons.</p>
+
+
+<br /><br /><br /><br />
+<!-- #include virtual="/footer.html" -->
+</div>
+</div>
+</body>
+</html> 

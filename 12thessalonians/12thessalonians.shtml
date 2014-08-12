@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+   <link href="../CSS/GN_STYLE.css" rel="stylesheet" type="text/css">
+   <meta http-equiv="Content-Type" content="text/html; ISO-8859-1">
+
+   <title>1 & 2 THESSALONIANS</title>
+</head>
+
+<body>
+   <div class="container">
+      <!--#include virtual="/header.html" -->
+
+      <div class="content">
+         <br>
+         <br>
+
+         <h2>1 and 2 Thessalonians</h2>
+
+         <p>These lessons in 1st and 2nd Thessalonians are compiled from the
+         writings of Dr. Grant C. Richison, and were first published on the
+         Internet beginning in 2001 in the Campus Crusades (Canada) daily
+         online devotional Today's Word.</p>
+
+         <p>Click to download the complete studies (pdf files) here:</p>
+
+         <div class="indent">
+            <b><a href="1Thessalonians.pdf" target="_blank">First Thessalonians</a></b><br>
+            <b><a href="2Thessalonians.pdf" target="_blank">Second Thessalonians</a></b>
+         </div>
+
+         <p>Grace Notes has a 10-lesson course covering both <b>1 and 2 Thessalonians</b>.</p>
+
+         <p>The lessons are distributed by email. For information, or to
+         register for the certificate course, write to <b><a href= 
+         "mailto:wdoud@gracenotes.info">Warren Doud</a></b>.</p>
+
+         <p>A brief biography of the author is given here: <b><a href= 
+         "../Authors.html" target="_blank">Grace Notes
+         Authors</a></b></p><b><br>
+         <br>
+         <br>
+         <br>
+         <!--#include virtual="/footer.html" --></b>
+      </div>
+   </div>
+</body>
+</html>
