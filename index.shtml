@@ -31,7 +31,7 @@
       <!--#include virtual="/header.html" -->
 
       <div class="content">
-<!--#include file ="HomePageLinks.html" -->         
+<!--#include file="homepagelinks.html" -->         
          <h3>Ministry Training with Grace Notes</h3>
 
          <div class="center">
