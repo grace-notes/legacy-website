@@ -9,11 +9,11 @@
 <body>
 <div class="container">
 <!--#include virtual="/header.html" -->
-<br /><br />
+
 <h3>Grace Notes Authors</h3>
 <div class="indent">
 <p></p>
-Here are brief biographies of the authors of Grace Notes materials.&nbsp;<br /><br />
+Here are brief biographies of the authors of Grace Notes materials.&nbsp;<br />
 <div class="indent">
 <p><b>Bob Bolender</b> <br>
         Pastor, Austin Bible Church, Austin, Texas<br>
@@ -30,6 +30,9 @@ Here are brief biographies of the authors of Grace Notes materials.&nbsp;<br /><
         <p><b>Dr. Grant C. Richison</b><br>
   			Lecturer, Campus Crusade for Christ (Canada)<br>
   			Pastor Emeritus, Grant Memorial Baptist Church, Winnipeg, Manitoba</p>
+  	<p><b>William E. Wenstrom, Jr</b><br>
+  	     Pastor,  Wenstrom Bible Ministries in Marion, Iowa<br>
+  	     <a href="mailto:pastor@wenstrom.org">pastor@wenstrom.org</a></p>
         <p><b>Warren Doud</b><br>
   Director, Grace Notes<br></p>
 	</div>
@@ -83,12 +86,26 @@ Here are brief biographies of the authors of Grace Notes materials.&nbsp;<br /><
   Campus Crusade for Christ (Canada). He currently has a world-wide lecture
   ministry with Campus Crusade.</p>
         <p>Dr. Richison is an experienced writer, and he provides materials for three
-  areas on the Internet: Sermon on the Net; Today's   Word</a>, and Pastors' Power Points. He has considerable ability to
+  areas on the Internet: Sermon on the Net; Today's   Word, and Pastors' Power Points. He has considerable ability to
   communicate God's Word verse by verse in a relevant, clear, applicable and
   insightful manner and to communicate vision and establish a philosophy of
   ministry in the local assembly.</p>
 </div>
 
+<h3>Pastor William Wenstrom</h3>
+<div class="indent">
+    <p>Pastor William E. Wenstrom, Jr. is the pastor of Wenstrom Bible Ministries in Marion, Iowa. In 1998, 
+    he was ordained by Pastor Robert McLaughlin of Grace Bible Church in Somerset, Massachusetts. He moved 
+    from the Massachusetts area in August of 2001 and began a church in the Eastern Iowa area which he 
+    pastored until 2010. In August of 2010, he began another church in Marion, IA which he is presently pastoring.</p>
+    <p>Pastor Wenstrom has recorded more than 2,500 hours of lectures. He has written over fourteen 
+    hundred articles pertaining to various theological subjects, Biblical figures, and Greek word studies. 
+    He also has expositions on Genesis, First John, First Timothy, Ephesians, Exodus, Jonah, Philemon, 
+    Philippians, Romans, Titus and Daniel. Pastor Wenstrom’s teaching is based on the original languages 
+    of Scripture in the light of their historical context in which the Bible was written. In addition, 
+    he is an accomplished musician, singing and playing guitar and composing his own original Christian music.</p>
+</div>
+    
       <h3>Warren Doud</h3>
  <div class="indent">
        <p>My theological orientation, briefly, is evangelical Christian. I believe
