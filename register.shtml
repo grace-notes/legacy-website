@@ -39,6 +39,13 @@ input[type=submit] {
   text-align: center;
 }
 
+fieldset {
+  border: none;
+  border-top: 1px solid #999;
+  padding: 10px 0;
+  margin: 10px 0;
+}
+
 </style>
 </head>
 
@@ -71,35 +78,41 @@ _gaq.push(['_trackPageview']);
 
       <p><label for="name" class="required">Name</label>
       <input name="name" type="text" required></p>
-      
-      <p><label for="address">Mail Address (street address or P. O. Box)</label>
-      <input name="address" type="text" ></p>
-      
-      <p><label for="city">City, Township, Country, Mail Code</label>
-      <input name="city" type="text" ></p>
-      
+
       <p><label for="email" class="required">E-mail Address</label>
       <input name="email" type="email" required></p>
-      
-      <p><label for="hs">Have you completed high school or equivalency?</label>
-      <label for="hsyes"><input type="radio" name="hs" value="YES" id="hsyes"> YES</label>
-      <label for="hsno"><input type="radio" name="hs" value="NO" id="hsno"> NO</label></p>
-      
-      <p><label for="college">College or University Education </label>
-      <input name="college" type="text"></p>
-      
-      <p><label for="work">Work Experience (types of jobs, trades) </label>
-      <input name="work" type="text"></p>
-      
-      <p><label for="testimony">PERSONAL TESTIMONY- Please explain how you came to accept Jesus Christ as Savior. Describe how your Christian life has progressed since then, in terms of spiritual growth (edification).</label>
-      <textarea name="testimony" rows="7" cols="50"></textarea></p>
 
-      <p><label for="ministry_prepare">MINISTRY PREPARATION - For what types of personal ministry would you like to prepare (e.g. teaching, evangelism, pastor)?</label>
-      <input name="ministry_prepare" type="text" ></p>
+      <input type="submit" value="Submit">
       
-      <p><label for="bible_teaching">BIBLE TEACHING – If you do regular Bible teaching, state what kind of classes you teach.</label>
-      <input name="bible_teaching" type="text" ></p>
-      
+     <fieldset>
+
+        <h2>First time registrants</h2>
+
+        <p><label for="address">Mail Address (street address or P. O. Box)</label>
+        <input name="address" type="text" ></p>
+        
+        <p><label for="city">City, Township, Country, Mail Code</label>
+        <input name="city" type="text" ></p>
+        
+        <p><label for="hs">Have you completed high school or equivalency?</label>
+        <label for="hsyes"><input type="radio" name="hs" value="YES" id="hsyes"> YES</label>
+        <label for="hsno"><input type="radio" name="hs" value="NO" id="hsno"> NO</label></p>
+        
+        <p><label for="college">College or University Education </label>
+        <input name="college" type="text"></p>
+        
+        <p><label for="work">Work Experience (types of jobs, trades) </label>
+        <input name="work" type="text"></p>
+        
+        <p><label for="testimony">PERSONAL TESTIMONY- Please explain how you came to accept Jesus Christ as Savior. Describe how your Christian life has progressed since then, in terms of spiritual growth (edification).</label>
+        <textarea name="testimony" rows="7" cols="50"></textarea></p>
+
+        <p><label for="ministry_prepare">MINISTRY PREPARATION - For what types of personal ministry would you like to prepare (e.g. teaching, evangelism, pastor)?</label>
+        <input name="ministry_prepare" type="text" ></p>
+        
+        <p><label for="bible_teaching">BIBLE TEACHING – If you do regular Bible teaching, state what kind of classes you teach.</label>
+        <input name="bible_teaching" type="text" ></p>
+      </fieldset>
       <fieldset name="pastors">
         <h2>PASTORS <small>– please answer the following</small></h2>
         
