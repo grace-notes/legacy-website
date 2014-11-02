@@ -68,7 +68,10 @@ _gaq.push(['_trackPageview']);
 
   <div class="content">
     <h1>Grace Notes Student Registration</h1>
-    <p>Please complete this registration form for Grace Notes studies.</p>
+    <p>Please complete this registration form for Grace Notes studies. If this is 
+    the first time you have registered, please complete the optional fields below 
+    which help us to understand the impact and effectiveness of the Grace Notes
+    ministry.</p>
 
     <form id="register" action="/forms/registration.php">
       <p><label for="course" class="required">Choose a course to begin.</label>
@@ -99,19 +102,28 @@ _gaq.push(['_trackPageview']);
         <label for="hsno"><input type="radio" name="hs" value="NO" id="hsno"> NO</label></p>
         
         <p><label for="college">College or University Education </label>
-        <input name="college" type="text"></p>
+        <select name="college">
+          <option value="">Select</option>
+          <option value="none">None</option>
+          <option value="partial">Unfinished</option>
+          <option value="bachelor">Bachelor's degree</option>
+          <option value="post-grad">Post-graduate degree</option>
+        </select></p>
         
         <p><label for="work">Work Experience (types of jobs, trades) </label>
-        <input name="work" type="text"></p>
+        <textarea name="work" rows="4"></textarea></p>
         
-        <p><label for="testimony">PERSONAL TESTIMONY- Please explain how you came to accept Jesus Christ as Savior. Describe how your Christian life has progressed since then, in terms of spiritual growth (edification).</label>
-        <textarea name="testimony" rows="7" cols="50"></textarea></p>
+        <label for="testimony">PERSONAL TESTIMONY</label> 
+        <p>Please explain how you came to accept Jesus Christ as Savior. Describe how your Christian life has progressed since then, in terms of spiritual growth (edification).</p>
+        <textarea name="testimony" rows="7" cols="50"></textarea>
 
-        <p><label for="ministry_prepare">MINISTRY PREPARATION - For what types of personal ministry would you like to prepare (e.g. teaching, evangelism, pastor)?</label>
-        <input name="ministry_prepare" type="text" ></p>
+        <label for="ministry_prepare">MINISTRY PREPARATION</label>
+        <p>For what types of personal ministry would you like to prepare (e.g. teaching, evangelism, pastor)?</p>
+        <textarea rows=2 name="ministry_prepare"></textarea>
         
-        <p><label for="bible_teaching">BIBLE TEACHING – If you do regular Bible teaching, state what kind of classes you teach.</label>
-        <input name="bible_teaching" type="text" ></p>
+        <label for="bible_teaching">BIBLE TEACHING</label>
+        <p>If you do regular Bible teaching, state what kind of classes you teach.</p>
+        <textarea name="bible_teaching" type="text" ></textarea>
       </fieldset>
       <fieldset name="pastors">
         <h2>PASTORS <small>– please answer the following</small></h2>
