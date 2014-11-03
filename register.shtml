@@ -7,6 +7,21 @@
 "Grace Notes provides verse-by-verse Bible studies and a library of related categorical and historical studies.">
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <link href="CSS/GN_STYLE.css" rel="stylesheet" type="text/css">
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+
+<script>
+(function($) {
+  $(document).ready(function() {
+    $("input[name=first]").change(function() {
+      if ($("input[name=first]:checked").val() == "yes") {
+        $('.first-time').show(200);
+      } else {
+        $('.first-time').hide(200);
+      }
+    });
+  });
+})(jQuery);
+</script>
 
 <style>
 label {
@@ -37,6 +52,7 @@ input[type=submit] {
   padding: 8px;
   text-transform: uppercase;
   text-align: center;
+  margin: 10px 0;
 }
 
 fieldset {
@@ -44,6 +60,10 @@ fieldset {
   border-top: 1px solid #999;
   padding: 10px 0;
   margin: 10px 0;
+}
+
+.first-time {
+  display: none;
 }
 
 </style>
@@ -74,7 +94,8 @@ _gaq.push(['_trackPageview']);
     ministry.</p>
 
     <form id="register" action="/forms/registration.php">
-      <p><label for="course" class="required">Choose a course to begin.</label>
+      <label for="course" class="required">Choose a course to begin.</label>
+      <p>If this is your first time to sign-up, it is recommended to begin with the introductory series.</p>
       <select name="course" required>
         <!--#include virtual="/course-options.html" -->
       </select>
@@ -85,9 +106,12 @@ _gaq.push(['_trackPageview']);
       <p><label for="email" class="required">E-mail Address</label>
       <input name="email" type="email" required></p>
 
-      <input type="submit" value="Submit">
+      <p>Is this the first time you have registered for a Grace Notes course?</p>
+      <label for="firstyes"><input type="radio" name="first" value="yes" id="firstyes" required>Yes, this is my first course.</label>
+      <label for="firstno"><input type="radio" name="first" value="no" id="firstno" required> No, I have registered before.</label>
+
       
-     <fieldset>
+     <fieldset class="first-time">
 
         <h2>First time registrants</h2>
 
@@ -125,7 +149,7 @@ _gaq.push(['_trackPageview']);
         <p>If you do regular Bible teaching, state what kind of classes you teach.</p>
         <textarea name="bible_teaching" type="text" ></textarea>
       </fieldset>
-      <fieldset name="pastors">
+      <fieldset name="pastors" class="first-time">
         <h2>PASTORS <small>– please answer the following</small></h2>
         
         <p><label for="pastor_background">How did you become a pastor?  How long have you been a pastor?</label>
@@ -140,8 +164,12 @@ _gaq.push(['_trackPageview']);
         <p><label for="teaching">What type of teaching do you do at your church (e.g. sermons, expository; verse by verse)?</label>
         <input name="teaching" type="text" ></p>
 
-        <input type="submit" value="Submit">
       </fieldset>
+
+      <label>Other Comments</label>
+      <textarea name="comments"></textarea>
+      
+      <input type="submit" value="Submit Registration">
     </form>
 
   </div>
