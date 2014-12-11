@@ -8,6 +8,7 @@
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <link href="CSS/GN_STYLE.css" rel="stylesheet" type="text/css">
 <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+<script src='https://www.google.com/recaptcha/api.js'></script>
 
 <script>
 (function($) {
@@ -168,7 +169,7 @@ _gaq.push(['_trackPageview']);
 
       <label>Other Comments</label>
       <textarea name="comments"></textarea>
-      
+      <div class="g-recaptcha" data-sitekey="6LdjK_8SAAAAABeZQiY8iTtjtz4gKRkdlvgZ1AEU"></div>
       <input type="submit" value="Submit Registration">
     </form>
 
