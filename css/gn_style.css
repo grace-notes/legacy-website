@@ -13,7 +13,6 @@ div.center {
 div.footer { 
   background-color:#faedb7;
   padding: 20px;
-  margin-top: 20px;
 }
 
 div.indent { 
@@ -70,4 +69,10 @@ list-style-type:none;
 li.horiz { 
 display:inline;
 font-family:Calibri, Arial, Helvetica, Verdana, san-serif;
+}
+
+.constant-contact {
+  margin: 20px 0 0;
+  background: rgba(0,0,0,0.1);
+  padding: 20px;
 }
