@@ -21,7 +21,7 @@
     var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
   })();
 </script>
-
+<div class="container">
   <!--#include virtual="/header.html" -->
 
   <div class="content">
@@ -307,5 +307,6 @@
       <p></p><!--#include virtual="/footer.html" -->
     </div>
   </div>
+</div>
 </body>
 </html>

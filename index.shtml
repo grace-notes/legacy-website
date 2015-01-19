@@ -29,46 +29,42 @@
       <!--#include virtual="/header.html" -->
 
       <div class="content">
-      <!--#include file="homepagelinks.html" -->         
+         <div class="row">
+         <div class="col-sm-4 col-sm-push-8"><!--#include file="homepagelinks.html" --></div>
+         <div class="col-sm-8 col-sm-pull-4">
          <h3>Ministry Training with Grace Notes</h3>
 
-         <div class="center">
-            <b>&quot; Grace notes helped me not to focus on my strength like fasting and prayer for security and deliverance 
+         <p>
+           <b>&quot; Grace notes helped me not to focus on my strength like fasting and prayer for security and deliverance 
             but I was refocused on Jesus, it became easy to live a christian life even after a such a hostile back ground. 
             <br>My leadership team was afraid to serve God, prior to that the were busy breaking deviles. Which kept in for years 
             in every service. I started teaching our congregation systematically thru Grace Notes.  &quot;</b> Martin Wandira, 
             Team Leader at Truth Gospel Church, Seguku Uganda (<a title="See full video of Pastor Martin's testimony" 
-            href="https://www.youtube.com/watch?v=mn1oAOEqn14" target="_blank">See full video of Pastor Martin's testimony</a>)
-         </div><br>
-         <div class="center">
-         <b>&quot; Grace Notes has done a great work in Zimbabwe and Africa at large. It has empowered ministers and churches. 
+            href="https://www.youtube.com/watch?v=mn1oAOEqn14" target="_blank">See full video of Pastor Martin's testimony</a>)</p>
+                
+         <p><b>&quot; Grace Notes has done a great work in Zimbabwe and Africa at large. It has empowered ministers and churches. 
          This program has made me full of the Word and be able to teach what they know. Also GN has provided Bibles to 
          many of which some are poor that they could not afford it. We are happy that we met GN
           &quot;</b> Pastor Mesuli Nkomo, Harare Zimbabwe
-         </div><br>
-         <div class="center">
+         </p>
+         <p>
             <b>&quot;The Christian who does not understand what God has done in
             the past, and who does not have faith in what God will do in the
             future, will be overwhelmed by today&#39;s crisis.&quot;</b>
             Chester McCalley
-         </div><br>
+         </p><br>
 		 
-         <p class="cambria">Grace Notes supports Ministry Training in many countries of the world. 
+         <p>Grace Notes supports Ministry Training in many countries of the world. 
 		 Pastor-Teachers and church education leaders use Grace Notes for their basic 
 		 training curriculum for educating pastors, evangelists, teachers of adults and children, 
 		 and church administrators. </p>
 
-         <div class="indent">
-            <a href="/documents/BolenderJournal_Final.pdf" target="_blank">
-			<b>Grace Notes Africa Trip 2014 - Bob Bolender Journal</b></a><br /><br />
-            <a href="MinistryTrainingStatus.shtml">
-			<b>Ministry Training - Program Status</b></a><br /><br />
-			<a href="TRANSLATION.shtml">
-			<b>Grace Notes Translations</b></a><br /><br />
-			<a href="SimplifiedExposition.shtml">
-			<b>Simplified Exposition (Easy English)</b></a><br />
-            <p>
-         </div>
+         <ul>
+         <li><a href="/documents/BolenderJournal_Final.pdf" target="_blank"><b>Grace Notes Africa Trip 2014 - Bob Bolender Journal</b></a></li>
+         <li><a href="MinistryTrainingStatus.shtml"><b>Ministry Training - Program Status</b></a></li>
+         <li><a href="TRANSLATION.shtml"><b>Grace Notes Translations</b></a></li>
+         <li><a href="SimplifiedExposition.shtml"><b>Simplified Exposition (Easy English)</b></a></li>
+         </ul>
 
          <p class="cambria">Many pastors and teachers use Grace Notes courses
          both for help in preparation for teaching and for use in classes held
@@ -91,7 +87,7 @@
          Unit certificates, and Diplomas for completing various portions of the
          curriculum. See the course descriptions here: <a href=
          "DiplomaCourses.shtml">Diplomas in Bible Teaching</a></p>
-		 
+         </div>
       </div>
      
    </div><!--#include virtual="/footer.html" -->
