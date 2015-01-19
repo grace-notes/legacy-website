@@ -2,7 +2,7 @@
 <html>
 
 <head>
-<link href="../CSS/GN_STYLE.css" rel="stylesheet" type="text/css"/>
+<!--#include file="/head.html" -->
 <title>Romans</title>
 </head>
 
