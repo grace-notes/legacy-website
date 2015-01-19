@@ -40,7 +40,7 @@ padding-left: 5px;
           International Version is used, because that is the English version
           most used by the people in these classes.<br>
         </p>
-        <table>
+        <table class="table">
           <tr>
             <th width="40%">Language</th>
             <th width="60%">Bible Books - English in Parallel</th>

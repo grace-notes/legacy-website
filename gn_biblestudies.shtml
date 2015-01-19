@@ -46,7 +46,7 @@ width:100%;
           Click on a link below to see a course description and to download the
           study.<br>
         </p>
-        <table>
+        <table class="table">
           <tr>
             <th>
               New Testament

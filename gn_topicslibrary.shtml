@@ -31,7 +31,7 @@
         </p>
         <div>
           <div>
-            <table id="topics">
+            <table id="topics" class="table">
               <tr>
                 <td>
                   <strong>INDEX TO TOPICS</strong> - [<a href= 

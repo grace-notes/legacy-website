@@ -56,7 +56,7 @@
     <div>
       <h3>Associate in Bible Teaching - [Units I to IV]</h3>
 
-      <table>
+      <table class="table">
         <tr>
           <th>UNIT I</th>
 
@@ -149,7 +149,7 @@
 
       <h3>Senior Bible Teacher - [Units V to VIII]</h3>
 
-      <table>
+      <table class="table">
         <tr>
           <th>UNIT V</th>
 
@@ -230,7 +230,7 @@
 
       <h3>Master Bible Teacher - [Units IX to XII]</h3>
 
-      <table>
+      <table class="table">
         <tr>
           <th>UNIT IX</th>
 
