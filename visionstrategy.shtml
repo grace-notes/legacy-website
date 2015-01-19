@@ -3,7 +3,7 @@
 <head>
    
     	<title>Vision and Strategy</title>
-		 <!--#include file="/head.html" -->
+		 <!--#include virtual="/head.html" -->
 			<meta http-equiv="Content-Type" content="text/html; ISO-8859-1">
      <meta name="Microsoft Theme" content="none, default">
 		 <meta name="Microsoft Border" content="none, default">

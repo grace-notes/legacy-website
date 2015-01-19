@@ -2,7 +2,7 @@
 
 <html>
 <head>
-   <!--#include file="/head.html" -->
+   <!--#include virtual="/head.html" -->
 
    <title>History 810 Twelve Caesars</title>
 </head>

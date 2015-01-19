@@ -4,7 +4,7 @@
     <title>
       Grace Notes Topics Library
     </title>
-    <!--#include file="/head.html" -->
+    <!--#include virtual="/head.html" -->
   </head>
   <body>
     <script type="text/javascript">

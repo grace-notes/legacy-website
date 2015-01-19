@@ -2,7 +2,7 @@
 
 <html>
 <head>
-   <!--#include file="/head.html" -->
+   <!--#include virtual="/head.html" -->
 
    <title>History 808 (The Sassanians)</title>
 </head>

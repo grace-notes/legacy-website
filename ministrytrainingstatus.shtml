@@ -2,7 +2,7 @@
 <html>
 <head>
 <title>Ministry Training Status</title>  
-<!--#include file="/head.html" -->
+<!--#include virtual="/head.html" -->
 
 <style type="text/css">
 table {width:95%;}

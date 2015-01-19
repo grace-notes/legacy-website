@@ -3,7 +3,7 @@
 
 <head>
 
-			 <!--#include file="/head.html" -->
+			 <!--#include virtual="/head.html" -->
 			 <meta http-equiv="Content-Type" content="text/html; ISO-8859-1">
 			<title>123 JOHN</title>
 </head>

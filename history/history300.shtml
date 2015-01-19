@@ -3,7 +3,7 @@
 
 <head>
 
-			 <!--#include file="/head.html" -->
+			 <!--#include virtual="/head.html" -->
 			 <title>History 300</title>
 </head>
 

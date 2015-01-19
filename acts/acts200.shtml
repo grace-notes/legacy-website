@@ -9,7 +9,7 @@
    "text/html; charset=utf-8" />
 
    <title>Acts - Chapters 8 to 14</title>
-   <!--#include file="/head.html" -->
+   <!--#include virtual="/head.html" -->
 </head>
 
 <body>

@@ -6,7 +6,7 @@
 <meta name="description" content=
 "Grace Notes provides verse-by-verse Bible studies and a library of related categorical and historical studies.">
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-<!--#include file="/head.html" -->
+<!--#include virtual="/head.html" -->
 <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
 <script src='https://www.google.com/recaptcha/api.js'></script>
 

@@ -4,7 +4,7 @@
     <title>
       Grace Notes Translations
     </title>
-    <!--#include file="/head.html" -->
+    <!--#include virtual="/head.html" -->
 </head>
 <style>
 table { 

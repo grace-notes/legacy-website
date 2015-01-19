@@ -2,7 +2,7 @@
 <HEAD>
 <TITLE>Through the Bible</TITLE>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-<!--#include file="/head.html" -->
+<!--#include virtual="/head.html" -->
 </HEAD>
 
 <BODY>
