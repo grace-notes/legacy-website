@@ -1,0 +1,14 @@
+{
+    "name": "gracenotes/forms",
+    "description": "Form processing for Grace Notes website",
+    "authors": [
+        {
+            "name": "Jacob Williams",
+            "email": "jacob@iakob.com"
+        }
+    ],
+    "require": {
+        "mailgun/mailgun-php": "~1.7",
+        "vlucas/phpdotenv": "~1.0"
+    }
+}
