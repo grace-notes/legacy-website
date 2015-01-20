@@ -24,7 +24,7 @@
 </script>
 
 <div class="container">
-<!--#include file ="Header.html" -->
+<!--#include file ="header.html" -->
 <br />
 
 <h2>Building Program - Kabwe Church</h2>
@@ -48,7 +48,7 @@ For example:</p>
 </div>
 </div>
 
-<!--#include file="Footer.html" -->
+<!--#include file="footer.html" -->
 
 </body>
 </html>

@@ -24,7 +24,7 @@
 </script>
 
    <div class="container">
-      <!--#include file ="Header.html" -->
+      <!--#include file ="header.html" -->
 
       <div class="content">
          <br>
@@ -91,6 +91,6 @@
          </table>
       </div>
 	  </div>
-	  <!--#include file="Footer.html" -->
+	  <!--#include file="footer.html" -->
 </body>
 </html>

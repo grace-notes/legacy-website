@@ -85,7 +85,7 @@
          </ul>
 
          <p></p>
-      </div><!--#include file="Footer.html" -->
+      </div><!--#include file="footer.html" -->
    </div>
 </body>
 </html>

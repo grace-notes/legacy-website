@@ -27,7 +27,7 @@ p.c2 {text-align: center}
 </script>
 
    <div class="container">
-      <!--#include file ="Header.html" -->
+      <!--#include file ="header.html" -->
 
       <div>
          <br>
@@ -172,7 +172,7 @@ p.c2 {text-align: center}
                   <p class="c1">Luta Kasongo Nsofwa</p>
                </td>
             </tr>
-         </table><!--#include file="Footer.html" -->
+         </table><!--#include file="footer.html" -->
       </div>
    </div>
 </body>

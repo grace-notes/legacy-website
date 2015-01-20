@@ -92,7 +92,7 @@ padding:5px;
          </table><br>
          <br>
          <br>
-         <!--#include file="../Footer.html" -->
+         <!--#include file="../footer.html" -->
       </div>
    </div>
 </body>

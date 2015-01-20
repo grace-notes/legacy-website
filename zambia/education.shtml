@@ -11,7 +11,7 @@
 <body>
 <div class="container">
 
-<!--#include file ="Header.html" -->
+<!--#include file ="header.html" -->
 
 <img class="right" src="Zambia_Images/Gabriel_Nsofwa-002.jpg">     
 	   
@@ -23,7 +23,7 @@
 
 </div>
    
-<!--#include file="Footer.html" -->
+<!--#include file="footer.html" -->
 </div>
 </body>
 </html>
