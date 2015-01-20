@@ -24,7 +24,6 @@ div.menuright {
   width:300px;
   border:solid 2px;
   border-color:grey;
-  font-family:Calibri, Arial, Helvetica, Verdana, san-serif;
   font-size:1.0em;
   padding-right:5px;
   padding-left:5px;
@@ -38,7 +37,6 @@ div.right {
 
 div.topics { 
   padding-left:50px;
-  font-family:Cambria, "Times New Roman", serif;
   font-size:1.05em;
 }
 
@@ -49,7 +47,6 @@ img.right {
 }
 
 #topics {
-font-family:Calibri, Arial, Helvetica, Verdana, san-serif;
 font-size:0.9em;
 border: 1px solid black;
 vertical-align:top;
@@ -68,11 +65,27 @@ list-style-type:none;
 
 li.horiz { 
 display:inline;
-font-family:Calibri, Arial, Helvetica, Verdana, san-serif;
 }
 
 .constant-contact {
   margin: 20px 0 0;
   background: rgba(0,0,0,0.1);
   padding: 20px;
+}
+
+.nav a {
+  text-transform: uppercase;
+  font-weight: 600;
+}
+
+blockquote {
+  font-size: 100%;
+  border-left: none;
+  font-weight: 600;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 0 2em;
+}
+blockquote footer {
+  font-size: 100%;
 }
