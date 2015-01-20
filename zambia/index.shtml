@@ -24,7 +24,7 @@
 </script>
 
    <div class="container">
-      <!--#include file ="Header.html" -->
+      <!--#include file ="header.html" -->
       <img class="right" src="Zambia_Images/Gabriel_Nsofwa-002.jpg">
 
       <div class="content">
@@ -54,7 +54,7 @@
             <p></p>
          </div>
 
-<!--#include file ="RightMenu.html" -->
+<!--#include file ="rightmenu.html" -->
 
          <p style="font-size:1.0em"><b>Church Outreach Activities</b></p>
 
