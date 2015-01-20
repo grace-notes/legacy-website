@@ -78,6 +78,10 @@ display:inline;
   font-weight: 600;
 }
 
+p {
+  max-width: 60em;
+}
+
 blockquote {
   font-size: 100%;
   border-left: none;
