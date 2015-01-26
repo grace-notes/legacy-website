@@ -129,7 +129,7 @@ function formvalue($name) {
       </select>
 
       <p><label for="name" class="required">Full Name</label>
-      <input name="name" type="text" value="<?php echo formvalue('name'); ?>" placeholder="Dr. John Smith, Sr"></p>
+      <input name="name" type="text" required value="<?php echo formvalue('name'); ?>" placeholder="Dr. John Smith, Sr"></p>
 
       <p><label for="email" class="required">E-mail Address</label>
       <input name="email" type="email" value="<?php echo formvalue('email'); ?>" required></p>
