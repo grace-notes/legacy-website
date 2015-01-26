@@ -73,7 +73,7 @@ fieldset {
 </style>
 </head>
 
-<body>
+<body class="registration-form">
 <script type="text/javascript"> /* Google Analytics Script */
 var _gaq = _gaq || [];
 _gaq.push(['_setAccount', 'UA-3622200-1']);
