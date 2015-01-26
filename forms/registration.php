@@ -38,7 +38,7 @@ if(empty($_REQUEST['email']) || !filter_var($_REQUEST['email'], FILTER_VALIDATE_
 if(!empty($errors)) {
   
   foreach ($errors as $error) {
-    print '<div class="alert alert-warning">' . $error . '</div>';
+    print '<div class="alert alert-danger">' . $error . '</div>';
   }
 
 } else {
@@ -46,6 +46,9 @@ if(!empty($errors)) {
   foreach ($_REQUEST as $key => $value) {
     if ($key === "_redirect") {
       $redirect = $value;
+      continue;
+    }
+    if ($key === "g-recaptcha-response") {
       continue;
     }
     if($key === "email") {
@@ -56,8 +59,6 @@ if(!empty($errors)) {
     }
     $message .= $key . ": " . $value . "\n\r";
   }
-
-  print_r($_REQUEST);
 
   // if($isNew) {
   // 	$result = $mg->sendMessage($domain, array(
@@ -89,11 +90,11 @@ if(!empty($errors)) {
   // 	  )
   // 	);
   // }
-  //
-  // $mg->sendMessage($domain, array('from'    => getenv('ORIGIN_EMAIL'),
-  //                                 'to'      => getenv('DESTINATION_EMAIL'),
-  //                                 'subject' => getenv('SUBJECT'),
-  //                                 'text'    => $message ));
-  //
-  // header('Location: ' . $redirect);
+
+  $mg->sendMessage($domain, array('from'    => getenv('ORIGIN_EMAIL'),
+                                  'to'      => getenv('DESTINATION_EMAIL'),
+                                  'subject' => getenv('SUBJECT'),
+                                  'text'    => $message ));
+  
+  header('Location: ' . $redirect);
 }

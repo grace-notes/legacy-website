@@ -25,6 +25,17 @@
   $(document).ready(function() {
     $("input[name=first]").change(toggleExtra);
     toggleExtra();
+
+    $('#register').submit(function(e) {
+      var captcha = $("#g-recaptcha-response"), capchamsg;
+      
+      if (captcha.length == 0 || captcha.val() == "") {
+        if (captchamsg = $('#captchamsg'), captchamsg.length == 0) {
+          captchamsg = $("<div/>").attr('id', 'captchamsg').html("You must complete the captcha.").addClass("alert alert-danger").appendTo($(".g-recaptcha"));
+        }
+        e.preventDefault();
+      }
+    });
   });
 })(jQuery);
 </script>
@@ -118,7 +129,7 @@ function formvalue($name) {
       </select>
 
       <p><label for="name" class="required">Full Name</label>
-      <input name="name" type="text" required value="<?php echo formvalue('name'); ?>" placeholder="Dr. John Smith, Sr"></p>
+      <input name="name" type="text" value="<?php echo formvalue('name'); ?>" placeholder="Dr. John Smith, Sr"></p>
 
       <p><label for="email" class="required">E-mail Address</label>
       <input name="email" type="email" value="<?php echo formvalue('email'); ?>" required></p>
