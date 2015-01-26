@@ -6,7 +6,7 @@
 <meta name="description" content=
 "Grace Notes provides verse-by-verse Bible studies and a library of related categorical and historical studies.">
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-<!--#include virtual="/head.html" -->
+<?php require "head.html"; ?>
 <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
 <script src='https://www.google.com/recaptcha/api.js'></script>
 <!-- this is for the form validation -->
@@ -106,7 +106,7 @@ function formvalue($name) {
 ?>
 
 <div class="container">
-  <!--#include virtual="/header.html" -->
+<?php include "header.html"; ?>
 
   <div class="content">
     <h1>Grace Notes Student Registration</h1>
@@ -203,6 +203,6 @@ function formvalue($name) {
 
   </div>
 </div>
-<!--#include virtual="/footer.html" -->
+<<?php include "footer.html"; ?>
 </body>
 </html>
