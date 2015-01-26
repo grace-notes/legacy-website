@@ -27,10 +27,10 @@
           local churches.
         </p>
         
-        <p class="cambria">
+        <h2>
           To contribute:
-        </p>
-        <blockquote>
+        </h2>
+        <div class="well">
           <p>
             Send check (USD) payable to Grace Notes to: <b>Grace Notes, %Austin Bible Church, PO BOX 142648, Austin, Texas 78714-2648 USA</b>. These gifts are tax
             deductible and are handled by the Austin Bible Church treasurer, or
@@ -40,7 +40,7 @@
             PayPal account if you have one, but you do not need a PayPal
             account to do this. Use the link below.
           </p>
-        </blockquote>
+        </div>
         <div class="indent">
           <div class="indent">
             <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">

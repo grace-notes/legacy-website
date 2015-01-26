@@ -24,7 +24,7 @@
 </script>
 
 <div class="container">
-<!--#include file ="Header.html" -->
+<!--#include file ="header.html" -->
 <br />
 
 <h2>The Constitution of the Kabwe Central Baptist Church</h2>
@@ -564,7 +564,7 @@ in all meetings for transactions of business.</li>
 
 </div>
 
-<!--#include file="Footer.html" -->
+<!--#include file="footer.html" -->
 </div>
 </body>
 </html>

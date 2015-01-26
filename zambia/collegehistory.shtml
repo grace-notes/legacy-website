@@ -26,9 +26,9 @@
 </script>
 
    <div class="container">
-      <!--#include file ="Header.html" -->
+      <!--#include file ="header.html" -->
       <br>
-      <img style="float:right; padding:10px;" src="eagle.gif">
+      <img style="float:right; padding:10px;" src="/images/logo.png" width="200">
 
       <h2>History of Grace Bible College of Kabwe</h2>
 
@@ -50,7 +50,7 @@
 
             <p class="description">Grace Notes offers a broad selection of
             Bible courses for Pastors, Evangelists, and Bible teachers at all
-            levels. Courses include:</p><!--#include file="RightMenu.html" -->
+            levels. Courses include:</p><!--#include file="rightmenu.html" -->
 
             <ul>
                <li>Exposition of 50 books of the Bible (verse by verse
@@ -309,7 +309,7 @@
                whether you want a part in this support.</p>
             </div>
          </div>
-      </div><!--#include file="Footer.html" -->
+      </div><!--#include file="footer.html" -->
    </div>
 </body>
 </html>

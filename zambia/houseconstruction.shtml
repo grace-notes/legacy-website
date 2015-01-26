@@ -9,7 +9,7 @@
 
 <body>
    <div class="container">
-      <!--#include file ="Header.html" -->
+      <!--#include file ="header.html" -->
 
       <div class="content">
          <br>
@@ -199,7 +199,7 @@
          <br>
          <br>
          <br>
-      </div><!--#include file="Footer.html" -->
+      </div><!--#include file="footer.html" -->
    </div>
 </body>
 </html>

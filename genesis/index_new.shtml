@@ -31,7 +31,7 @@
       <!--#include virtual="/header.html" -->
 
       <div class="content">
-         <img class="right" src="eagle.gif"><br>
+         <img class="right" src="/images/logo.png"><br>
 
          <h2>Grace Notes Bible Training</h2>
 
@@ -68,7 +68,7 @@
             <p>
          </div>
 		 
-<!--#include file ="RightMenu.html" -->
+<!--#include file ="rightmenu.html" -->
 
          <p class="cambria">Many pastors and teachers use Grace Notes courses
          both for help in preparation for teaching and for use in classes held

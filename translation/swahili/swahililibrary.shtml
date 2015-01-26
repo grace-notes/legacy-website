@@ -78,7 +78,7 @@ padding:5px;
          </table><br>
          <br>
          <br>
-         <!--#include virtual="/Footer.html" -->
+         <!--#include virtual="/footer.html" -->
       </div>
    </div>
 </body>

@@ -25,7 +25,7 @@
 
 <div class="container">
 
-<!--#include file ="Header.html" -->
+<!--#include file ="header.html" -->
 	   
 <div><br />
 <h2>Grace Bible College of Kabwe</h2>
@@ -76,7 +76,7 @@ Kabwe Central Baptist Church</p>
 
 </table>
    
-<!--#include file="Footer.html" -->
+<!--#include file="footer.html" -->
 
 </div>
 </body>

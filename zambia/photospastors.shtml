@@ -25,7 +25,7 @@
 
 <div class="container">
 
-<!--#include file ="Header.html" -->
+<!--#include file ="header.html" -->
 	   
 <div><br />
 <h2>Grace Bible College of Kabwe</h2>
@@ -106,7 +106,7 @@ Christ the Hope of Glory Church</p> </td>
 
 </table>
    
-<!--#include file="Footer.html" -->
+<!--#include file="footer.html" -->
 
 </div>
 </body>
