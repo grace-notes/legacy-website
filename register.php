@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+<?php ob_start(); ?><!DOCTYPE html>
 
 <html>
 <head>
