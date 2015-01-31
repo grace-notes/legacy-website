@@ -59,6 +59,25 @@ if(!empty($errors)) {
     }
     $message .= $key . ": " . $value . "\n\r";
   }
+	
+  if($isNew) {
+  	$result = $mg->sendMessage($domain, array(
+  			'from'    		=> getenv('ORIGIN_EMAIL'),
+  	    'to'      		=> $email,
+  	    'subject' 		=> getenv('SUBJECT'),
+  	    'text'    		=> file_get_contents(__DIR__.'/../ruth/RUTH001.email.txt'),
+  			'html'    		=> file_get_contents(__DIR__.'/../ruth/RUTH001.email.html'),
+  		),
+  	  array(
+  			'attachment' => array(
+  				array(
+  					'filePath' => __DIR__.'/../ruth/ruth01.pdf',
+  					'remoteName' => 'Ruth01.pdf'
+  				),
+  			)
+  	  )
+  	);
+  }
 
   // if($isNew) {
   // 	$result = $mg->sendMessage($domain, array(
