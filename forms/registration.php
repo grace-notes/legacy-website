@@ -36,7 +36,7 @@ if(empty($_REQUEST['email']) || !filter_var($_REQUEST['email'], FILTER_VALIDATE_
 }
 
 if(!empty($errors)) {
-  
+
   foreach ($errors as $error) {
     print '<div class="alert alert-danger">' . $error . '</div>';
   }
@@ -59,7 +59,7 @@ if(!empty($errors)) {
     }
     $message .= $key . ": " . $value . "\n\r";
   }
-	
+
   if($isNew) {
 		// Doctine 101
   	$result = $mg->sendMessage($domain, array(
@@ -82,25 +82,17 @@ if(!empty($errors)) {
   			)
   	  )
   	);
-		
-		// Ruth 1
-  	$result = $mg->sendMessage($domain, array(
-  			'from'    		=> getenv('ORIGIN_EMAIL'),
-  	    'to'      		=> $email,
-  	    'subject' 		=> getenv('SUBJECT').' Ruth 1',
-  	    'text'    		=> file_get_contents(__DIR__.'/../ruth/RUTH001.email.txt'),
-  			'html'    		=> file_get_contents(__DIR__.'/../ruth/RUTH001.email.html'),
-  		),
-  	  array(
-  			'attachment' => array(
-  				array(
-  					'filePath' => __DIR__.'/../ruth/ruth01.pdf',
-  					'remoteName' => 'Ruth01.pdf'
-  				),
-  			)
-  	  )
-  	);
-		
+
+		// Course Instructions
+		$result = $mg->sendMessage($domain, array(
+				'from'    		=> getenv('ORIGIN_EMAIL'),
+				'to'      		=> $email,
+				'subject' 		=> getenv('SUBJECT').' Course Instructions',
+				'text'    		=> file_get_contents(__DIR__.'/../course_instructions/course_instructions.email.txt'),
+				'html'    		=> file_get_contents(__DIR__.'/../course_instructions/course_instructions.email.html'),
+			)
+		);
+
 		// Titus 1
   	$result = $mg->sendMessage($domain, array(
   			'from'    		=> getenv('ORIGIN_EMAIL'),
@@ -124,7 +116,7 @@ if(!empty($errors)) {
                                   'to'      => getenv('DESTINATION_EMAIL'),
                                   'subject' => getenv('SUBJECT'),
                                   'text'    => $message ));
-																	
+
 	ob_clean();
   header('Location: ' . $redirect);
 	exit;
