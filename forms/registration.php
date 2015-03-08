@@ -12,6 +12,7 @@ $message = "";
 $redirect = "/thank-you.shtml";
 $isNew = false;
 $email = '';
+$course = '';
 
 $errors = array();
 if(!empty($_REQUEST['g-recaptcha-response'])) {
@@ -57,65 +58,30 @@ if(!empty($errors)) {
     if($key === "first" and $value === "yes") {
       $isNew = true;
     }
+		if($key === "course") {
+			$course = $value;
+		}
     $message .= $key . ": " . $value . "\n\r";
   }
 
   if($isNew) {
-		// Doctine 101
-  	$result = $mg->sendMessage($domain, array(
-  			'from'    		=> getenv('ORIGIN_EMAIL'),
-  	    'to'      		=> $email,
-  	    'subject' 		=> getenv('SUBJECT').' Doctrine 101',
-  	    'text'    		=> file_get_contents(__DIR__.'/../doctrine/DOC101.email.txt'),
-  			'html'    		=> file_get_contents(__DIR__.'/../doctrine/DOC101.email.html'),
-  		),
-  	  array(
-  			'attachment' => array(
-					array(
-						'filePath' => __DIR__.'/../doctrine/doctrine_documents/doctrine101.pdf',
-						'remoteName' => 'Doctrine101.pdf'
-					),
-					array(
-						'filePath' => __DIR__.'/../doctrine/doctrine_documents/doctrine101_quiz.pdf',
-						'remoteName' => 'Doctrine101_quiz.pdf'
-					),
-  			)
-  	  )
-  	);
+		// since the person is new, email titus doc100 and course instuctions
+		include 'emailNewRegistration.php';
+  } else {
+		// register for specific course
+		if($course === "doc100-titus") {
+			include 'emailIntro.php';
+		}
+		if($course === "Ruth") {
+			include 'emailRuth.php';
+		}
+	}
 
-		// Course Instructions
-		$result = $mg->sendMessage($domain, array(
-				'from'    		=> getenv('ORIGIN_EMAIL'),
-				'to'      		=> $email,
-				'subject' 		=> getenv('SUBJECT').' Course Instructions',
-				'text'    		=> file_get_contents(__DIR__.'/../course_instructions/course_instructions.email.txt'),
-				'html'    		=> file_get_contents(__DIR__.'/../course_instructions/course_instructions.email.html'),
-			)
-		);
-
-		// Titus 1
-  	$result = $mg->sendMessage($domain, array(
-  			'from'    		=> getenv('ORIGIN_EMAIL'),
-  	    'to'      		=> $email,
-  	    'subject' 		=> getenv('SUBJECT').' Titus 1',
-  	    'text'    		=> file_get_contents(__DIR__.'/../titus/TITUS001.email.txt'),
-  			'html'    		=> file_get_contents(__DIR__.'/../titus/TITUS001.email.html'),
-  		),
-  	  array(
-  			'attachment' => array(
-  				array(
-  					'filePath' => __DIR__.'/../titus/titus001.pdf',
-  					'remoteName' => 'Titus01.pdf'
-  				),
-  			)
-  	  )
-  	);
-  }
-
-  $mg->sendMessage($domain, array('from'    => getenv('ORIGIN_EMAIL'),
-                                  'to'      => getenv('DESTINATION_EMAIL'),
-                                  'subject' => getenv('SUBJECT'),
-                                  'text'    => $message ));
+	// emails the form to warren notifying a user's form submission
+	$mg->sendMessage($domain, array('from'    => getenv('ORIGIN_EMAIL'),
+																	'to'      => getenv('DESTINATION_EMAIL'),
+																	'subject' => getenv('SUBJECT'),
+																	'text'    => $message ));
 
 	ob_clean();
   header('Location: ' . $redirect);
