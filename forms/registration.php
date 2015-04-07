@@ -65,16 +65,16 @@ if(!empty($errors)) {
   }
 
   if($isNew) {
-		// since the person is new, email titus doc100 and course instuctions
+		// since the person is new, email course instuctions
 		include 'emailNewRegistration.php';
-  } else {
-		// register for specific course
-		if($course === "doc100-titus") {
-			include 'emailIntro.php';
-		}
-		if($course === "Ruth") {
-			include 'emailRuth.php';
-		}
+  }
+
+	// register for a specific course... TODO add all the other ones here too
+	if($course === "doc100-titus") {
+		include 'emailIntro.php';
+	}
+	if($course === "Ruth") {
+		include 'emailRuth.php';
 	}
 
 	// emails the form to warren notifying a user's form submission
