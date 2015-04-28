@@ -32,16 +32,7 @@
 
          <p>Grace Notes has a 10-lesson course covering both <b>1 and 2 Thessalonians</b>.</p>
 
-         <p>The lessons are distributed by email. For information, or to
-         register for the certificate course, write to <b><a href= 
-         "mailto:wdoud@gracenotes.info">Warren Doud</a></b>.</p>
-
-         <p>A brief biography of the author is given here: <b><a href= 
-         "../Authors.shtml" target="_blank">Grace Notes
-         Authors</a></b></p><b><br>
-         <br>
-         <br>
-         <br>
+         <!--#include virtual="/footer2.html" -->
          <!--#include virtual="/footer.html" --></b>
       </div>
    </div>
