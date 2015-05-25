@@ -2,6 +2,7 @@
 
 require 'vendor/autoload.php';
 use Mailgun\Mailgun;
+use Guzzle\Http\Client;
 
 Dotenv::load(__DIR__);
 
@@ -67,15 +68,112 @@ if(!empty($errors)) {
   if($isNew) {
 		// since the person is new, email course instuctions
 		include 'emailNewRegistration.php';
-  }
+
+		try {
+            $client = new Client();
+
+            $body = [
+              "bibleTeaching" => $_REQUEST["bible_teaching"],
+              "comments" => $_REQUEST["comments"],
+              "collegeDegree" => $_REQUEST["college"],
+              "churchName" => $_REQUEST["church_name"],
+              "teachingType" => $_REQUEST["teaching"],
+              "pastorBackground" => $_REQUEST["pastor_background"],
+              "work" => $_REQUEST["work"],
+              "averageAttendance" => $_REQUEST["attendance"],
+              "address" => $_REQUEST["address"],
+              "city" => $_REQUEST["city"],
+              "hasHighSchool" => ($_REQUEST["hs"] == "YES" ? true : false),
+              "ministryPrepare" => $_REQUEST["ministry_prepare"],
+              "testimony" => $_REQUEST["testimony"],
+              "email" => $_REQUEST["email"],
+              "name" => $_REQUEST["name"]
+            ];
+            $request = $client->createRequest('POST', 'http://localhost:8080/registrations', null, json_encode($body));
+
+            $request->addHeaders([
+                'Content-Type' => 'application/json',
+                'Authorization'=> getenv('API_KEY')
+            ]);
+
+            $response = $client->send($request);
+            echo "Response HTTP : " . $response->getStatusCode();
+
+        } catch (Exception $e) {
+    	    echo 'Post failed';
+		}
+    }
 
 	// register for a specific course... TODO add all the other ones here too
 	if($course === "doc100-titus") {
 		include 'emailIntro.php';
-	}
+        try {
+            $client = new Client();
+
+            $body = [
+                "name" => $_REQUEST["name"],
+                "email" => $_REQUEST["email"],
+                "course" => "Doctrine 100"
+            ];
+
+            $request = $client->createRequest('POST', 'http://localhost:8080/courserequests', null, json_encode($body));
+
+            $request->addHeaders([
+                'Content-Type' => 'application/json',
+                'Authorization'=> getenv('API_KEY')
+            ]);
+
+            $response = $client->send($request);
+
+            $client = new Client();
+
+            $body = [
+                "name" => $_REQUEST["name"],
+                "email" => $_REQUEST["email"],
+                "course" => "Titus"
+            ];
+
+            $request = $client->createRequest('POST', 'http://localhost:8080/courserequests', null, json_encode($body));
+
+            $request->addHeaders([
+                'Content-Type' => 'application/json',
+                'Authorization'=> getenv('API_KEY')
+            ]);
+
+            $response = $client->send($request);
+
+        } catch (Exception $e) {
+            echo 'Post failed';
+        }
+	} else {
+        try {
+            $client = new Client();
+
+            $body = [
+                "name" => $_REQUEST["name"],
+                "email" => $_REQUEST["email"],
+                "course" => $_REQUEST["course"]
+            ];
+
+            $request = $client->createRequest('POST', 'http://localhost:8080/courserequests', null, json_encode($body));
+
+            $request->addHeaders([
+                'Content-Type' => 'application/json',
+                'Authorization'=> getenv('API_KEY')
+            ]);
+
+            $response = $client->send($request);
+            echo "Response HTTP : " . $response->getStatusCode();
+
+        } catch (Exception $e) {
+            echo 'Post failed';
+        }
+    }
+
 	if($course === "Ruth") {
 		include 'emailRuth.php';
 	}
+
 
 	// emails the form to warren notifying a user's form submission
 	$mg->sendMessage($domain, array('from'    => getenv('ORIGIN_EMAIL'),
@@ -84,6 +182,6 @@ if(!empty($errors)) {
 																	'text'    => $message ));
 
 	ob_clean();
-  header('Location: ' . $redirect);
+    header('Location: ' . $redirect);
 	exit;
 }
