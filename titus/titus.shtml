@@ -32,7 +32,7 @@
 
          <p></p>
 
-         <table>
+         <table class="table">
             <tr>
                <th width="20%"><b>LESSON</b></th>
                <th width="80%"><b>TOPICS</b></th>

@@ -22,7 +22,7 @@
 </div>
 
 <p>Grace Notes has a 10-lesson course for <b>Galatians</b>.</p>
-<p>The lessons are distributed by email. For information, or to register for the certificate course, 
+<p>The lessons are distributed by email. For information, or to register for the certificate course,
 write to <b><a href="mailto:wdoud@gracenotes.info">Warren Doud</a>.</b></p>
 <p>Doctrine Test: <a href="/DOCTRINE/DoctrineTest.shtml" target = "_blank">Doctrine Test</a></p>
 
@@ -45,7 +45,7 @@ write to <b><a href="mailto:wdoud@gracenotes.info">Warren Doud</a>.</b></p>
 <h3>Memorizing Galatians</h3>
 <p><b>MEMORY WORK STATUS - July 1, 2014</b></p>
 <p>One verse per day from April 9: <b>Gal. 2:16.</b> </p>
-<table>
+<table class="table">
 	<tr>
 	<td><b>NAME</b></td>
 	<td><b>STATUS</b></td>
@@ -111,7 +111,7 @@ write to <b><a href="mailto:wdoud@gracenotes.info">Warren Doud</a>.</b></p>
 	<td>Col. 2:4</td>
 	<td></td>
 	<td></td>
-	</tr>	
+	</tr>
 	<tr>
 	<td>Kindal</td>
 	<td>Gal. 1:7</td>

@@ -32,7 +32,7 @@
          Link: <a href="../Authors.shtml" target="_blank">Grace Notes
          Authors</a></b></p><b><br></b>
 
-         <table>
+         <table class="table">
             <tr>
                <th width="25%">Foundations 100</th>
 
@@ -40,10 +40,10 @@
             </tr>
 
             <tr>
-               <td><b><a href= 
+               <td><b><a href=
                "/FOUNDATIONS/Foundations_Documents/FDN101.pdf"
                target="_blank">Lesson 101</a></b><br>
-			   <b><a href= 
+			   <b><a href=
                "/FOUNDATIONS/Foundations_Documents/FDN101_Quiz.pdf"
                target="_blank">Lesson 101 Quiz</a></b>
 			   </td>
@@ -52,10 +52,10 @@
             </tr>
 
             <tr>
-               <td><b><a href= 
+               <td><b><a href=
                "/FOUNDATIONS/Foundations_Documents/FDN102.pdf"
                target="_blank">Lesson 102</a></b><br>
-			   <b><a href= 
+			   <b><a href=
                "/FOUNDATIONS/Foundations_Documents/FDN102_Quiz.pdf"
                target="_blank">Lesson 102 Quiz</a></b></td>
 
@@ -63,10 +63,10 @@
             </tr>
 
             <tr>
-               <td><b><a href= 
+               <td><b><a href=
                "/FOUNDATIONS/Foundations_Documents/FDN103.pdf"
                target="_blank">Lesson 103</a></b><br>
-			   <b><a href= 
+			   <b><a href=
                "/FOUNDATIONS/Foundations_Documents/FDN103_Quiz.pdf"
                target="_blank">Lesson 103 Quiz</a></b></td>
 
@@ -75,10 +75,10 @@
             </tr>
 
             <tr>
-               <td><b><a href= 
+               <td><b><a href=
                "/FOUNDATIONS/Foundations_Documents/FDN104.pdf"
                target="_blank">Lesson 104</a></b><br>
-			   <b><a href= 
+			   <b><a href=
                "/FOUNDATIONS/Foundations_Documents/FDN104_Quiz.pdf"
                target="_blank">Lesson 104 Quiz</a></b></td>
 
@@ -87,10 +87,10 @@
             </tr>
 
             <tr>
-               <td><b><a href= 
+               <td><b><a href=
                "/FOUNDATIONS/Foundations_Documents/FDN105.pdf"
                target="_blank">Lesson 105</a></b><br>
-			   <b><a href= 
+			   <b><a href=
                "/FOUNDATIONS/Foundations_Documents/FDN105_Quiz.pdf"
                target="_blank">Lesson 105 Quiz</a></b></td>
 
@@ -99,10 +99,10 @@
             </tr>
 
             <tr>
-               <td><b><a href= 
+               <td><b><a href=
                "/FOUNDATIONS/Foundations_Documents/FDN106.pdf"
                target="_blank">Lesson 106</a></b><br>
-			   <b><a href= 
+			   <b><a href=
                "/FOUNDATIONS/Foundations_Documents/FDN106_Quiz.pdf"
                target="_blank">Lesson 106 Quiz</a></b></td>
 
@@ -111,10 +111,10 @@
             </tr>
 
             <tr>
-               <td><b><a href= 
+               <td><b><a href=
                "/FOUNDATIONS/Foundations_Documents/FDN107.pdf"
                target="_blank">Lesson 107</a></b><br>
-			   <b><a href= 
+			   <b><a href=
                "/FOUNDATIONS/Foundations_Documents/FDN107_Quiz.pdf"
                target="_blank">Lesson 107 Quiz</a></b></td>
 
@@ -123,10 +123,10 @@
             </tr>
 
             <tr>
-               <td><b><a href= 
+               <td><b><a href=
                "/FOUNDATIONS/Foundations_Documents/FDN108.pdf"
                target="_blank">Lesson 108</a></b><br>
-			   <b><a href= 
+			   <b><a href=
                "/FOUNDATIONS/Foundations_Documents/FDN108_Quiz.pdf"
                target="_blank">Lesson 108 Quiz</a></b></td>
 
@@ -135,10 +135,10 @@
             </tr>
 
             <tr>
-               <td><b><a href= 
+               <td><b><a href=
                "/FOUNDATIONS/Foundations_Documents/FDN109.pdf"
                target="_blank">Lesson 109</a></b><br>
-			   <b><a href= 
+			   <b><a href=
                "/FOUNDATIONS/Foundations_Documents/FDN109_Quiz.pdf"
                target="_blank">Lesson 109 Quiz</a></b></td>
 
@@ -147,10 +147,10 @@
             </tr>
 
             <tr>
-               <td><b><a href= 
+               <td><b><a href=
                "/FOUNDATIONS/Foundations_Documents/FDN110.pdf"
                target="_blank">Lesson 110</a></b><br>
-			   <b><a href= 
+			   <b><a href=
                "/FOUNDATIONS/Foundations_Documents/FDN110_Quiz.pdf"
                target="_blank">Lesson 110 Quiz</a></b></td>
 
@@ -158,7 +158,7 @@
             </tr>
          </table><br>
 
-         <table>
+         <table class="table">
             <tr>
                <th width="25%">Foundations 200</th>
 
@@ -166,7 +166,7 @@
             </tr>
 
             <tr>
-               <td><b><a href= 
+               <td><b><a href=
                "/FOUNDATIONS/Foundations_Documents/FDN201.pdf"
                target="_blank">Lesson 201</a></b><br></td>
 
@@ -174,7 +174,7 @@
             </tr>
 
             <tr>
-               <td><b><a href= 
+               <td><b><a href=
                "/FOUNDATIONS/Foundations_Documents/FDN202.pdf"
                target="_blank">Lesson 202</a></b><br></td>
 
@@ -182,7 +182,7 @@
             </tr>
 
             <tr>
-               <td><b><a href= 
+               <td><b><a href=
                "/FOUNDATIONS/Foundations_Documents/FDN203.pdf"
                target="_blank">Lesson 203</a></b><br></td>
 
@@ -190,7 +190,7 @@
             </tr>
 
             <tr>
-               <td><b><a href= 
+               <td><b><a href=
                "/FOUNDATIONS/Foundations_Documents/FDN204.pdf"
                target="_blank">Lesson 204</a></b><br></td>
 
@@ -198,7 +198,7 @@
             </tr>
 
             <tr>
-               <td><b><a href= 
+               <td><b><a href=
                "/FOUNDATIONS/Foundations_Documents/FDN205.pdf"
                target="_blank">Lesson 205</a></b><br></td>
 
@@ -206,7 +206,7 @@
             </tr>
 
             <tr>
-               <td><b><a href= 
+               <td><b><a href=
                "/FOUNDATIONS/Foundations_Documents/FDN206.pdf"
                target="_blank">Lesson 206</a></b><br></td>
 
@@ -214,7 +214,7 @@
             </tr>
 
             <tr>
-               <td><b><a href= 
+               <td><b><a href=
                "/FOUNDATIONS/Foundations_Documents/FDN207.pdf"
                target="_blank">Lesson 207</a></b><br></td>
 
@@ -222,7 +222,7 @@
             </tr>
 
             <tr>
-               <td><b><a href= 
+               <td><b><a href=
                "/FOUNDATIONS/Foundations_Documents/FDN208.pdf"
                target="_blank">Lesson 208</a></b><br></td>
 
@@ -230,7 +230,7 @@
             </tr>
 
             <tr>
-               <td><b><a href= 
+               <td><b><a href=
                "/FOUNDATIONS/Foundations_Documents/FDN209.pdf"
                target="_blank">Lesson 209</a></b><br></td>
 
@@ -238,7 +238,7 @@
             </tr>
 
             <tr>
-               <td><b><a href= 
+               <td><b><a href=
                "/FOUNDATIONS/Foundations_Documents/FDN210.pdf"
                target="_blank">Lesson 210</a></b><br></td>
 
