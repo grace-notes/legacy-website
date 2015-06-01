@@ -97,54 +97,53 @@ if(!empty($errors)) {
             ]);
 
             $response = $client->send($request);
-            echo "Response HTTP : " . $response->getStatusCode();
+            //echo "Response HTTP : " . $response->getStatusCode();
 
         } catch (Exception $e) {
-    	    echo 'Post failed';
-		}
+    	    //echo 'Post failed';
+				}
     }
 
-	// register for a specific course... TODO add all the other ones here too
 	if($course === "doc100-titus") {
 		include 'emailIntro.php';
-        try {
-            $client = new Client();
+    try {
+        $client = new Client();
 
-            $body = [
-                "name" => $_REQUEST["name"],
-                "email" => $_REQUEST["email"],
-                "course" => "Doctrine 100"
-            ];
+        $body = [
+            "name" => $_REQUEST["name"],
+            "email" => $_REQUEST["email"],
+            "course" => "Doctrine 100"
+        ];
 
-            $request = $client->createRequest('POST', 'http://localhost:8080/courserequests', null, json_encode($body));
+        $request = $client->createRequest('POST', 'http://localhost:8080/courserequests', null, json_encode($body));
 
-            $request->addHeaders([
-                'Content-Type' => 'application/json',
-                'Authorization'=> getenv('API_KEY')
-            ]);
+        $request->addHeaders([
+            'Content-Type' => 'application/json',
+            'Authorization'=> getenv('API_KEY')
+        ]);
 
-            $response = $client->send($request);
+        $response = $client->send($request);
 
-            $client = new Client();
+        $client = new Client();
 
-            $body = [
-                "name" => $_REQUEST["name"],
-                "email" => $_REQUEST["email"],
-                "course" => "Titus"
-            ];
+        $body = [
+            "name" => $_REQUEST["name"],
+            "email" => $_REQUEST["email"],
+            "course" => "Titus"
+        ];
 
-            $request = $client->createRequest('POST', 'http://localhost:8080/courserequests', null, json_encode($body));
+        $request = $client->createRequest('POST', 'http://localhost:8080/courserequests', null, json_encode($body));
 
-            $request->addHeaders([
-                'Content-Type' => 'application/json',
-                'Authorization'=> getenv('API_KEY')
-            ]);
+        $request->addHeaders([
+            'Content-Type' => 'application/json',
+            'Authorization'=> getenv('API_KEY')
+        ]);
 
-            $response = $client->send($request);
+        $response = $client->send($request);
 
-        } catch (Exception $e) {
-            echo 'Post failed';
-        }
+    } catch (Exception $e) {
+        //echo 'Post failed';
+    }
 	} else {
         try {
             $client = new Client();
@@ -163,17 +162,68 @@ if(!empty($errors)) {
             ]);
 
             $response = $client->send($request);
-            echo "Response HTTP : " . $response->getStatusCode();
+            //echo "Response HTTP : " . $response->getStatusCode();
 
         } catch (Exception $e) {
-            echo 'Post failed';
+            //echo 'Post failed';
         }
     }
 
-	if($course === "Ruth") {
-		include 'emailRuth.php';
-	}
+	// register for a specific course...
+	//TODO add all the other ones here too that are commented out
+	if($course === "Doctrine 100") { include 'emailDoc100.php'; }
+	if($course === "Foundations 100") { include 'emailFoundations100.php'; }
+	//if($course === "History 100") { include 'emailHistory100.php'; }
+	if($course === "Ruth") { include 'emailRuth.php'; }
+	if($course === "Titus") { include 'emailTitus.php'; }
 
+	// if($course === "Doctrine 200") { include ''; }
+	// if($course === "Ephesians") { include ''; }
+	// if($course === "Foundations 200") { include ''; }
+	// if($course === "Hosea") { include ''; }
+	// if($course === "Mark") { include ''; }
+
+	// if($course === "123John_Philemon_Jude") { include ''; }
+	// if($course === "Doctrine 300") { include ''; }
+	// if($course === "History 200") { include ''; }
+	// if($course === "Luke") { include ''; }
+	// if($course === "Romans") { include ''; }
+
+	// if($course === "ACTS100") { include ''; }
+	// if($course === "Doctrine 400") { include ''; }
+	// if($course === "History 300") { include ''; }
+	// if($course === "Joel_Jonah_Malachi") { include ''; }
+	// if($course === "Life of Christ 100") { include ''; }
+
+	// if($course === "1 Peter") { include ''; }
+	// if($course === "Ecclesiastes") { include ''; }
+	// if($course === "History 400") { include ''; }
+	// if($course === "Life of Christ 200") { include ''; }
+	// if($course === "Paul 100") { include ''; }
+	// if($course === "Philippians") { include ''; }
+
+	// if($course === "1 Peter") { include ''; }
+	// if($course === "ACTS 200") { include ''; }
+	// if($course === "Daniel") { include ''; }
+	// if($course === "Esther") { include ''; }
+	// if($course === "History 500") { include ''; }
+	// if($course === "Paul 200") { include ''; }
+
+	// if($course === "ACTS 300") { include ''; }
+	// if($course === "Colossians") { include ''; }
+	// if($course === "Genesis 100") { include ''; }
+	// if($course === "History 600") { include ''; }
+	// if($course === "John") { include ''; }
+	// if($course === "Paul 300") { include ''; }
+
+	// if($course === "1-2 Thessalonians") { include ''; }
+	// if($course === "Exodus") { include ''; }
+	// if($course === "Galations") { include ''; }
+	// if($course === "Genesis 200") { include ''; }
+	// if($course === "History 700") { include ''; }
+	// if($course === "James") { include ''; }
+
+	// if($course === "Leviticus") { include ''; }
 
 	// emails the form to warren notifying a user's form submission
 	$mg->sendMessage($domain, array('from'    => getenv('ORIGIN_EMAIL'),
