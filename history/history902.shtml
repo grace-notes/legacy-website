@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+   <!--#include virtual="/head.html" -->
+
+   <title>History 902 Josephus: Wars of the Jews</title>
+</head>
+
+<body>
+<div class="container">
+<!--#include virtual="/header.html" -->
+
+<div class="content">
+
+   <h2>History 902 - Josephus: Wars of the Jews</h2>
+
+<h3>by Flavius Josephus</h3>
+
+   <p>This course is based on the work of Josephus, <i>The Wars of the Jews</i>.</p>
+   <p>There is a biography of Josephus in Wikipedia: <a href="https://en.wikipedia.org/wiki/Josephus" target="_blank">Josephus</a></p>
+   <p>The course has seven (7) lessons, with quizzes.<br>
+    To request the course, write to:
+   <a href="mailto:wdoud@gracenotes.info" target=_blank">wdoud@gracenotes.info</a></p>
+
+   <p>Download the complete file: <a href="/history/history902_Documents/josephus_wars.pdf" target="_blank"><b>The Wars of the Jews</b></a></p>
+
+<!--#include virtual="/footer.html" -->
+</div>
+</div>
+</body>
+</html>
