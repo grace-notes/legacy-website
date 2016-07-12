@@ -1,0 +1,10 @@
+Options Indexes FollowSymLinks Includes
+
+AddType text/html .shtml
+AddOutputFilter INCLUDES .shtml
+
+DirectoryIndex index.php index.shtml index.html
+
+RewriteEngine on
+RewriteRule ^/(.*)$ /${lc:$1}
+RewriteRule ^/index_new.shtml / [R=301]
