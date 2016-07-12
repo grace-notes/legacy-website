@@ -1,0 +1,4 @@
+RewriteEngine on
+RewriteMap lc int:tolower
+RewriteRule ^/(.*)$ /${lc:$1}
+RewriteRule ^/index_new.shtml / [R=301]
