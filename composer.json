@@ -1,0 +1,10 @@
+{
+    "name": "gracenotes/legacy-website",
+    "authors": [
+        {
+            "name": "Jacob Williams",
+            "email": "jacob@iakob.com"
+        }
+    ],
+    "require": {}
+}
