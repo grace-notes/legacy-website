@@ -1,0 +1,14 @@
+server {
+  listen ${PORT};
+  server_name  _;
+  
+  root /usr/share/nginx/html;
+  index index.shtml index.html;
+  
+  ssi on;
+
+  location / {
+    set_by_lua $uri_low 'return string.lower(ngx.var.uri)';
+    try_files $uri $uri/ $uri_low $uri_low/;
+  }
+}
