@@ -196,7 +196,7 @@ function formvalue($name) {
 
       <label>Other Comments</label>
       <textarea name="comments"><?php echo formvalue('comments'); ?></textarea>
-      <div class="g-recaptcha" data-sitekey="6Ldj_wATAAAAAIfs9jC-sdglZ7Y127NnxiBSHwAH"></div>
+      <div class="g-recaptcha" data-sitekey="6LfmQiAUAAAAACwdZEGH8oikTTipyN0mXvqMjE10"></div>
       <input type="hidden" name="action" value="register">
       <input type="submit" value="Submit Registration">
     </form>
