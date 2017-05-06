@@ -4,7 +4,10 @@ require '../vendor/autoload.php';
 use Mailgun\Mailgun;
 use Guzzle\Http\Client;
 
-Dotenv::load(__DIR__);
+if (getenv("ENVIRONMENT") !== "production") {
+  $dotenv = new Dotenv\Dotenv(__DIR__ . '/../..');
+  $dotenv->load();
+}
 
 $mg = new Mailgun(getenv('MAILGUN_KEY'));
 $domain = getenv('MAILGUN_DOMAIN');
