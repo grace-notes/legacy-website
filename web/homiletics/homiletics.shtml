@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+
+<link href="../CSS/GN_STYLE.css" rel="stylesheet" type="text/css"/>
+<meta http-equiv="Content-Type" content="text/html; ISO-8859-1">
+<title>1 and 2 PETER</title>
+</head>
+
+<body>
+<div class="container">
+<!--#include virtual="/header.html" -->
+
+<div class="content">
+<br /><br />
+<h2>Homiletics</h2>
+<p>Under Construction</p>
+
+<!--<p>Click to download the PDF of the complete studies here:<br /> -->
+<!--<div class="indent">-->
+<!--<b><a href="1Peter.pdf" target="_blank">FIRST PETER</a> </b><br />-->
+<!--<b><a href="2Peter.pdf" target="_blank">SECOND PETER</a> </b>-->
+<!--</div>-->
+<!--</p>-->
+<!--<p>The <b>Grace Notes courses in First and Second Peter</b> have 10 lessons each. -->
+<!--The lessons are distributed by email. To register for the certificate course, -->
+<!--write to <b><a href="mailto:wdoud@gracenotes.info">Warren Doud</a></b>.</p>-->
+<!--<b>Link: <a href="../Authors.shtml" target="_blank">Grace Notes Authors</a>-->
+<!--<br /><br /><br /><br />-->
+<!--#include virtual="/footer.html" -->
+<!--</div>-->
+</div>
+</body>
+</html>

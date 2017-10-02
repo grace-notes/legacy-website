@@ -37,7 +37,7 @@
     graduate school.</p>
 
     <p>To register, or for information, write to: <a href=
-    "mailto:bizopp06@gmail.com" target="_blank">Louis Roth</a></p>
+    "mailto:wdoud@gracenotes.info target="_blank">Warren Doud</a></p>
 
     <p>You will receive a certificate for each Unit that you complete. Diplomas
     are given, as follows:</p>
@@ -116,7 +116,7 @@
           <td><a href="/LOC/LifeOfChrist.shtml">Life of Christ 100</a></td>
         </tr>
 
-        <tr>
+         <tr>
           <td><a href=
           "/TITUS/TITUS.shtml">Titus</a>
 		  </td>
@@ -134,6 +134,20 @@
 		  <a href="/MALACHI/MALACHI.shtml">Malachi</a>
 		  </td>
         </tr>
+	<tr>
+          <td><a href=
+          "/SALVATION/SALVATION.shtml">Salvation</a>
+		  </td>
+
+          <td><a href=
+          "/TRUE_EVANGELISM/TRUE_EVANGELISM.shtml">True Evangelism</a></td>
+
+          <td><a href=
+          "/INRO_TO_THEOLOGY/INTRO_TO_THEOLOGY.shtml">Introduction to Theology</a></td>
+
+          <td><a href="/CHRISTIAN_LIFE/CHRISTIAN_LIFE.shtml">Christian Life</a><br />  </td>
+        </tr>
+
       </table>
 
       <h3>Senior Bible Teacher - [Units V to VIII]</h3>
@@ -205,16 +219,22 @@
         <tr>
           <td><a href="/12PETER/12PETER.shtml">1 Peter</a></td>
 
-          <td><a href="/12PETER/12PETER.shtml">2 Peter</a></td>
+           <td><a href="/12PETER/12PETER.shtml">2 Peter</a></td>
 
-          <td><a class="bible" href=
-          "/GENESIS/GENESIS.shtml">Genesis 100
-          (1-25)</a></td>
+           <td><a class="bible" href="/GENESIS/GENESIS.shtml">Genesis 100 (1-25)</a></td>
 
-          <td><a class="bible" href=
-          "/GENESIS/GENESIS.shtml">Genesis 200
-          (26-50)</a></td>
-        </tr>
+           <td><a class="bible" href="/GENESIS/GENESIS.shtml">Genesis 200 (26-50)</a></td>
+	  
+         </tr>
+	 <tr>
+          <td><a href="/BIBLE_STUDY_METHODS/BIBLE_STUDY_METHODS.shtml">Bible Study Methods</a></td>
+          <td><a href="/LOC/LifeOfChrist.shtml">Life of Christ 300</a></td>
+
+          <td><a class="bible" href="/HOMILETICS/HOMILETICS.shtml">Homiletics</a></td>
+
+          <td><a class="bible" href="/PRINCIPLES_OF_TEACHING/PRINCIPLES_OF_TEACHING.shtml">Principles of Teaching</a></td>
+
+         </tr>
       </table>
 
       <h3>Master Bible Teacher - [Units IX to XII]</h3>
@@ -239,7 +259,7 @@
 
           <td>1 Kings</td>
 
-          <td>2 Kings</td>
+          <td><a href="/ACTS/ACTS400.shtml">Acts 400 (chap 22 to 28)</a></td>
         </tr>
 
         <tr>
@@ -247,7 +267,7 @@
 
           <td><a href="/2SAMUEL/2SAMUEL.shtml">2 Samuel</a></td>
 
-          <td>Deuteronomy</td>
+          <td><a href="/Deuteronomy/Deuteronomy.shtml</a></td>
 
           <td><a href="/TTB/TTB.shtml">One Year Through the Bible</a></td>
         </tr>
@@ -257,9 +277,10 @@
 
           <td><a href="/JUDGES/JUDGES.shtml">Judges</a></td>
 
-          <td>Matthew</td>
+          <td><a href="/PREACHING_EXPOSITORY/PREACHING_EXPOSITORY.shtml">Preaching, Expository</a></td>
+	  <td>2 Kings</td>
 
-          <td>Revelation</td>
+  <!--        <td>Revelation</td> -->
         </tr>
 
         <tr>
@@ -267,9 +288,9 @@
 
           <td>Micah; Nahum</td>
 
-          <td><a href="/LOC/LifeOfChrist.shtml">Life of Christ 300</a></td>
+          <td>Isaiah (Gill)</td>
 
-          <td>Zechariah</td>
+          <td>Jeremiah</td>
         </tr>
 
         <tr>
@@ -279,7 +300,7 @@
 
           <td>Nehemiah</td>
 
-          <td>Job</td>
+          <td>History 800</td>
         </tr>
 
         <tr>
@@ -289,10 +310,40 @@
 
           <td>Habakkuk; Zephaniah; Haggai</td>
 
-          <td><a href="/history/history902.shtml">History 902 Wars of the Jews</a></td
+          <td><a href="/history/history902.shtml">History 902 Wars of the Jews</a></td>
         </tr>
+	<tr>
+	<td>Matthew (Gill)</td>
+	<td>Antiquities of the Jews (Josephus)</td>
+	<td>History - Greek Orthodox Church</td>
+	<td>Ezekiel</td>
+	</tr>
       </table>
+      
+ <h3>Electives</h3>
+      <table>
+	<tr>
+	<td>Schaff: Church History</td>
+	<td>Bede – Life and Writings</td>
+	<td>History of Utah</td>
+	<td>Bede – History - English Church</td>
+	</tr>
+	
+	<tr>
+	<td>Herodotus – Histories</td>
+	<td>The Kingdom (Chafer)</td>
+	<td>1 Corinthians (Bolender)</td>
+	<td>History 907 – Chaucer</td>
+	</tr>
+	
+        <tr>
+	<td>Basic Christianity</td>
+	<td> </td>
+	<td> </td>
+	<td> </td>
+	</tr>
 
+      </table>
       <p></p><!--#include virtual="/footer.html" -->
     </div>
   </div>

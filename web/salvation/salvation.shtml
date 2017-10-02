@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+
+<link href="../CSS/GN_STYLE.css" rel="stylesheet" type="text/css"/>
+<meta http-equiv="Content-Type" content="text/html; ISO-8859-1">
+<title>1 and 2 PETER</title>
+</head>
+
+<body>
+<div class="container">
+<!--#include virtual="/header.html" -->
+
+<div class="content">
+<br /><br />
+<h2>Salvation</h2>
+<p>This is a course in salvation, taken from <i>Salvation</i>, by Louis Sperry Chafer</p>
+<p><i>
+This book is presented as a simple Gospel message and is in no way intended to be a contribution to theological discussion. It is evangelistic in purpose. The writer has hoped that this statement of God’s saving grace may be adapted to the spiritual understanding of the unsaved that they may grasp the way of salvation from these pages and so be led to believe on the Lord Jesus Christ and be saved.
+</i></p>
+
+<!--<p>Click to download the PDF of the complete studies here:<br /> -->
+<!--<div class="indent">-->
+<!--<b><a href="1Peter.pdf" target="_blank">FIRST PETER</a> </b><br />-->
+<!--<b><a href="2Peter.pdf" target="_blank">SECOND PETER</a> </b>-->
+<!--</div>-->
+<!--</p>-->
+<p>The <b>Grace Notes courses in <b>Salvation</b> has 10 lessons.
+The lessons are distributed by email. To register for the certificate course,
+write to <b><a href="mailto:wdoud@gracenotes.info">Warren Doud</a></b>.</p>
+Wikipedia Link: <a href="https://en.wikipedia.org/wiki/Lewis_Sperry_Chafer" target="_blank">Louis Sperry Chafer</a>
+<table>
+   <tr>
+       <th>Lessons</th>
+
+       <th>Chapters</th>
+
+       <th>Links</th>
+   </tr>
+   </tr>
+      <tr>
+       <td>SALV001</td>
+       <td>Chapters 1 and 2</td>
+       <td><strong><a href="salv001.pdf" target="_blank">PDF</a></strong> </td>
+   </tr>   
+   <tr>
+       <td>SALV002</td>
+       <td>Chapter 3</td>
+       <td><strong><a href="salv002.pdf" target="_blank">PDF</a></strong> </td>
+   </tr>   
+   <tr>
+       <td>SALV003</td>
+       <td>Chapter 4</td>
+       <td><strong><a href="salv003.pdf" target="_blank">PDF</a></strong> </td>
+   </tr>   
+   <tr>
+       <td>SALV004</td>
+       <td>Chapter 5</td>
+       <td><strong><a href="salv004.pdf" target="_blank">PDF</a></strong> </td>
+   </tr>   
+   <tr>
+       <td>SALV005</td>
+       <td>Chapter 6</td>
+       <td><strong><a href="salv005.pdf" target="_blank">PDF</a></strong> </td>
+   </tr>   
+   <tr>
+       <td>SALV006</td>
+       <td>Chapter 7</td>
+       <td><strong><a href="salv006.pdf" target="_blank">PDF</a></strong> </td>
+   </tr>   
+   <tr>
+       <td>SALV007</td>
+       <td>Chapter 8</td>
+       <td><strong><a href="salv007.pdf" target="_blank">PDF</a></strong> </td>
+   </tr>   
+   <tr>
+       <td>SALV008</td>
+       <td>Chapter 9</td>
+       <td><strong><a href="salv008.pdf" target="_blank">PDF</a></strong> </td>
+   </tr>
+   <tr>
+       <td>SALV009</td>
+       <td>Chapter 10</td>
+       <td><strong><a href="salv009.pdf" target="_blank">PDF</a></strong> </td>
+   </tr>  
+   <tr>
+       <td>SALV010</td>
+       <td>Chapters 11 and 12</td>
+       <td><strong><a href="salv010.pdf" target="_blank">PDF</a></strong> </td>
+   </tr>
+</table>
+<!--<br /><br /><br /><br />-->
+<!--#include virtual="/footer.html" -->
+<!--</div>-->
+</div>
+</body>
+</html>
