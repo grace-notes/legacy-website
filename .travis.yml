@@ -1,5 +1,3 @@
-language: php
-
 addons:
   ssh_known_hosts:
   - doulos.iakob.com
@@ -13,7 +11,7 @@ before_deploy:
 - eval "$(ssh-agent -s)"
 - chmod 600 .travis/deploy.pem
 - ssh-add .travis/deploy.pem
-- git remote add deploy doulos.iakob.com
+- git remote add deploy dokku@doulos.iakob.com:gracenotes-legacy
 - git config --global push.default simple
 
 deploy:
