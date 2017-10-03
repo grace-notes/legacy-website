@@ -6,4 +6,4 @@ To contribute, submit a pull request to this repository.
 
 ## Continuous Deployment
 
-[![Deploy Status](https://travis-ci.org/grace-notes/legacy-website.svg?branch=master)](https://travis-ci.org/grace-notes/legacy-website)
+[![Deploy Status](https://travis-ci.org/grace-notes/legacy-website.svg?branch=master)](https://travis-ci.org/grace-notes/legacy-website) [Build History](https://travis-ci.org/grace-notes/legacy-website/builds)
