@@ -1,14 +1,28 @@
-branches:
-  only:
-    - master
-after_success:
+language: php
+
+addons:
+  ssh_known_hosts:
+  - doulos.iakob.com
+
+before_script:
+  - echo -e "Host doulos.iakob.com\n\tStrictHostKeyChecking no\n" >> ~/.ssh/config
+
+script:
+  -
+
+before_deploy:
+- openssl aes-256-cbc -K $encrypted_4a3da0747bd3_key -iv $encrypted_4a3da0747bd3_iv
+  -in deploy.pem.enc -out deploy.pem -d
 - eval "$(ssh-agent -s)"
 - chmod 600 .travis/deploy.pem
 - ssh-add .travis/deploy.pem
-- ssh-keyscan doulos.iakob.com >> ~/.ssh/known_hosts
 - git remote add deploy doulos.iakob.com
 - git config --global push.default simple
-- git push deploy master
-before_install:
-- openssl aes-256-cbc -K $encrypted_4a3da0747bd3_key -iv $encrypted_4a3da0747bd3_iv
-  -in deploy.pem.enc -out deploy.pem -d
+
+deploy:
+  - provider: script
+    skip_cleanup: true
+    script: git push deploy master
+    on:
+      branch: master
+
