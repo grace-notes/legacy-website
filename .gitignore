@@ -1,3 +1,8 @@
 vti_*
 
 /vendor/
+
+# Travis Credentials
+*.pem
+*.pem.pub
+
