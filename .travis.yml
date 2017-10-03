@@ -4,15 +4,12 @@ addons:
   ssh_known_hosts:
   - doulos.iakob.com
 
-before_script:
-  - echo -e "Host doulos.iakob.com\n\tStrictHostKeyChecking no\n" >> ~/.ssh/config
-
 script:
   -
 
 before_deploy:
 - openssl aes-256-cbc -K $encrypted_4a3da0747bd3_key -iv $encrypted_4a3da0747bd3_iv
-  -in deploy.pem.enc -out deploy.pem -d
+  -in .travis/deploy.pem.enc -out deploy.pem -d
 - eval "$(ssh-agent -s)"
 - chmod 600 .travis/deploy.pem
 - ssh-add .travis/deploy.pem
