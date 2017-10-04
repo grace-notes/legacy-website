@@ -109,8 +109,13 @@ if(!empty($errors)) {
 
 	if($course === "doc100-titus") {
 		include 'emailIntro.php';
+    $client = new Client([
+      'base_uri' => 'http://lessonmanager.doulos.iakob.com/',
+      'headers'  => [
+        'Authorization' => getenv('API_KEY')
+      ],
+    ]);
     try {
-        $client = new Client();
 
         $body = [
             "name" => $_REQUEST["name"],
@@ -118,16 +123,7 @@ if(!empty($errors)) {
             "course" => "Doctrine 100"
         ];
 
-        $request = $client->createRequest('POST', 'http://localhost:8080/courserequests', ['body'=>json_encode($body)]);
-
-        $request->addHeaders([
-            'Content-Type' => 'application/json',
-            'Authorization'=> getenv('API_KEY')
-        ]);
-
-        $response = $client->send($request);
-
-        $client = new Client();
+        $client->post('courserequests', [ 'json' => $body ] );
 
         $body = [
             "name" => $_REQUEST["name"],
@@ -135,21 +131,14 @@ if(!empty($errors)) {
             "course" => "Titus"
         ];
 
-        $request = $client->createRequest('POST', 'http://localhost:8080/courserequests', ['body'=>json_encode($body)]);
+        $client->post('courserequests', [ 'json' => $body ] );
 
-        $request->addHeaders([
-            'Content-Type' => 'application/json',
-            'Authorization'=> getenv('API_KEY')
-        ]);
-
-        $response = $client->send($request);
 
     } catch (Exception $e) {
         //echo 'Post failed';
     }
 	} else {
         try {
-            $client = new Client();
 
             $body = [
                 "name" => $_REQUEST["name"],
@@ -157,18 +146,11 @@ if(!empty($errors)) {
                 "course" => $_REQUEST["course"]
             ];
 
-            $request = $client->createRequest('POST', 'http://localhost:8080/courserequests', ['body'=>json_encode($body)]);
+            $client->post('courserequests', [ 'json' => $body ] );
 
-            $request->addHeaders([
-                'Content-Type' => 'application/json',
-                'Authorization'=> getenv('API_KEY')
-            ]);
-
-            $response = $client->send($request);
-            //echo "Response HTTP : " . $response->getStatusCode();
 
         } catch (Exception $e) {
-            //echo 'Post failed';
+          echo $e->getMessage();
         }
     }
 
