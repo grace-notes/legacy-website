@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-<link href="CSS/GN_STYLE.css" rel="stylesheet" type="text/css"/>
+<link href="css/gn_style.css" rel="stylesheet" type="text/css"/>
 <title>Grace Notes Authors</title>
 <!--#include virtual="/head.html" -->
 </head>
