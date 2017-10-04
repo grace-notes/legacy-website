@@ -118,7 +118,7 @@ if(!empty($errors)) {
             "course" => "Doctrine 100"
         ];
 
-        $request = $client->createRequest('POST', 'http://localhost:8080/courserequests', null, $body);
+        $request = $client->createRequest('POST', 'http://localhost:8080/courserequests', ['body'=>json_encode($body)]);
 
         $request->addHeaders([
             'Content-Type' => 'application/json',
@@ -135,7 +135,7 @@ if(!empty($errors)) {
             "course" => "Titus"
         ];
 
-        $request = $client->createRequest('POST', 'http://localhost:8080/courserequests', null, $body);
+        $request = $client->createRequest('POST', 'http://localhost:8080/courserequests', ['body'=>json_encode($body)]);
 
         $request->addHeaders([
             'Content-Type' => 'application/json',
@@ -157,7 +157,7 @@ if(!empty($errors)) {
                 "course" => $_REQUEST["course"]
             ];
 
-            $request = $client->createRequest('POST', 'http://localhost:8080/courserequests', null, $body);
+            $request = $client->createRequest('POST', 'http://localhost:8080/courserequests', ['body'=>json_encode($body)]);
 
             $request->addHeaders([
                 'Content-Type' => 'application/json',
