@@ -2,7 +2,7 @@
 
 require '../vendor/autoload.php';
 use Mailgun\Mailgun;
-use Guzzle\Http\Client;
+use GuzzleHttp\Client;
 
 if (getenv("ENVIRONMENT") !== "production") {
   $dotenv = new Dotenv\Dotenv(__DIR__ . '/../..');
