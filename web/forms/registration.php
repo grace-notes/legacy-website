@@ -68,12 +68,18 @@ if(!empty($errors)) {
     $message .= $key . ": " . $value . "\n\r";
   }
 
+  $client = new Client([
+    'base_uri' => 'http://lessonmanager.doulos.iakob.com/',
+    'headers'  => [
+      'Authorization' => getenv('API_KEY')
+    ],
+  ]);
+
   if($isNew) {
 		// since the person is new, email course instuctions
 		include 'emailNewRegistration.php';
 
 		try {
-            $client = new Client();
 
             $body = [
               "bibleTeaching" => $_REQUEST["bible_teaching"],
@@ -92,29 +98,16 @@ if(!empty($errors)) {
               "email" => $_REQUEST["email"],
               "name" => $_REQUEST["name"]
             ];
-            $request = $client->createRequest('POST', 'http://lessonmanager.doulos.iakob.com/registrations', null, json_encode($body));
 
-            $request->addHeaders([
-                'Content-Type' => 'application/json',
-                'Authorization'=> getenv('API_KEY')
-            ]);
+            $client->post('registrations', [ 'json' => $body ] );
 
-            $response = $client->send($request);
-            //echo "Response HTTP : " . $response->getStatusCode();
-
-        } catch (Exception $e) {
-    	    //echo 'Post failed';
-				}
+    } catch (Exception $e) {
+      echo $e->getMessage();
     }
+  }
 
 	if($course === "doc100-titus") {
 		include 'emailIntro.php';
-    $client = new Client([
-      'base_uri' => 'http://lessonmanager.doulos.iakob.com/',
-      'headers'  => [
-        'Authorization' => getenv('API_KEY')
-      ],
-    ]);
     try {
 
         $body = [
@@ -135,7 +128,7 @@ if(!empty($errors)) {
 
 
     } catch (Exception $e) {
-        //echo 'Post failed';
+          echo $e->getMessage();
     }
 	} else {
         try {
