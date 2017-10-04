@@ -92,7 +92,7 @@ if(!empty($errors)) {
               "email" => $_REQUEST["email"],
               "name" => $_REQUEST["name"]
             ];
-            $request = $client->createRequest('POST', 'http://localhost:8080/registrations', null, json_encode($body));
+            $request = $client->createRequest('POST', 'http://lessonmanager.doulos.iakob.com/registrations', null, json_encode($body));
 
             $request->addHeaders([
                 'Content-Type' => 'application/json',
