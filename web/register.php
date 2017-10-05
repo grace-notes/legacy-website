@@ -1,4 +1,9 @@
-<?php ob_start(); ?><!DOCTYPE html>
+<?php
+  require '../vendor/autoload.php';
+  $dotenv = new Dotenv\Dotenv(dirname(__DIR__));
+  $dotenv->load();
+  ob_start();
+?><!DOCTYPE html>
 
 <html>
 <head>
@@ -6,7 +11,9 @@
 <meta name="description" content=
 "Grace Notes provides verse-by-verse Bible studies and a library of related categorical and historical studies.">
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+
 <?php require "head.html"; ?>
+
 <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
 <script src='https://www.google.com/recaptcha/api.js'></script>
 <!-- this is for the form validation -->
@@ -185,7 +192,7 @@ function formvalue($name) {
 
       <label>Other Comments</label>
       <textarea name="comments"><?php echo formvalue('comments'); ?></textarea>
-      <div class="g-recaptcha" data-sitekey="6LfmQiAUAAAAACwdZEGH8oikTTipyN0mXvqMjE10"></div>
+      <div class="g-recaptcha" data-sitekey="<?php echo getenv('RECAPTCHA_SITE_KEY'); ?>"></div>
       <input type="hidden" name="action" value="register">
       <input type="submit" value="Submit Registration">
     </form>

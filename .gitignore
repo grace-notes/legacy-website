@@ -6,3 +6,4 @@ vti_*
 *.pem
 *.pem.pub
 
+.env
