@@ -1,11 +1,5 @@
 <?php
 
-
-if (getenv("ENVIRONMENT") !== "production") {
-  $dotenv = new Dotenv\Dotenv(__DIR__ . '/../..');
-  $dotenv->load();
-}
-
 $mg = new Mailgun\Mailgun(getenv('MAILGUN_KEY'));
 $domain = getenv('MAILGUN_DOMAIN');
 
