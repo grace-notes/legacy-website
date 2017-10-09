@@ -11,6 +11,15 @@
 
 <link href="../css/gn_style.css" rel="stylesheet" type="text/css"/>
 <meta http-equiv="Content-Type" content="text/html; ISO-8859-1">
+<script>
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-3622200-1', 'auto');
+ga('send', 'pageview');
+</script>
+
 <title>Salvation</title>
 </head>
 
@@ -21,7 +30,7 @@
 <div class="content">
 <br /><br />
 <h2>Salvation</h2>
-<p>This is a course in salvation, taken from <i>Salvation</i>, by Louis Sperry Chafer</p>
+<p>This is a course in salvation, taken from <i>Salvation</i>, by Lewis Sperry Chafer</p>
 <p><i>
 This book is presented as a simple Gospel message and is in no way intended to be a contribution to theological discussion. It is evangelistic in purpose. The writer has hoped that this statement of God’s saving grace may be adapted to the spiritual understanding of the unsaved that they may grasp the way of salvation from these pages and so be led to believe on the Lord Jesus Christ and be saved.
 </i></p>
@@ -35,7 +44,7 @@ This book is presented as a simple Gospel message and is in no way intended to b
 <p>The <b>Grace Notes courses in <b>Salvation</b> has 10 lessons.
 The lessons are distributed by email. To register for the certificate course,
 write to <b><a href="mailto:wdoud@gracenotes.info">Warren Doud</a></b>.</p>
-Wikipedia Link: <a href="https://en.wikipedia.org/wiki/Lewis_Sperry_Chafer" target="_blank">Louis Sperry Chafer</a>
+Wikipedia Link: <a href="https://en.wikipedia.org/wiki/Lewis_Sperry_Chafer" target="_blank">Lewis Sperry Chafer</a>
 <table>
    <tr>
        <th>Lessons</th>
