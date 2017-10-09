@@ -25,14 +25,19 @@ ga('send', 'pageview');
 
 <body>
 <div class="container">
+
 <!--#include virtual="/header.html" -->
 
 <div class="content">
-<br /><br />
+
 <h2>Salvation</h2>
 <p>This is a course in salvation, taken from <i>Salvation</i>, by Lewis Sperry Chafer</p>
 <p><i>
-This book is presented as a simple Gospel message and is in no way intended to be a contribution to theological discussion. It is evangelistic in purpose. The writer has hoped that this statement of God’s saving grace may be adapted to the spiritual understanding of the unsaved that they may grasp the way of salvation from these pages and so be led to believe on the Lord Jesus Christ and be saved.
+This book is presented as a simple Gospel message and is in no way intended to
+be a contribution to theological discussion. It is evangelistic in purpose. The
+writer has hoped that this statement of God’s saving grace may be adapted to the
+spiritual understanding of the unsaved that they may grasp the way of salvation
+from these pages and so be led to believe on the Lord Jesus Christ and be saved.
 </i></p>
 
 <!--<p>Click to download the PDF of the complete studies here:<br /> -->
@@ -41,11 +46,14 @@ This book is presented as a simple Gospel message and is in no way intended to b
 <!--<b><a href="2Peter.pdf" target="_blank">SECOND PETER</a> </b>-->
 <!--</div>-->
 <!--</p>-->
-<p>The <b>Grace Notes courses in <b>Salvation</b> has 10 lessons.
-The lessons are distributed by email. To register for the certificate course,
-write to <b><a href="mailto:wdoud@gracenotes.info">Warren Doud</a></b>.</p>
-Wikipedia Link: <a href="https://en.wikipedia.org/wiki/Lewis_Sperry_Chafer" target="_blank">Lewis Sperry Chafer</a>
-<table>
+<p>The <b>Grace Notes courses in <b>Salvation</b> has 10 lessons.  The lessons
+  are distributed by email. To register for the certificate course, write to
+  <b><a href="mailto:wdoud@gracenotes.info">Warren Doud</a></b>.</p>
+
+Wikipedia Link:
+<a href="https://en.wikipedia.org/wiki/Lewis_Sperry_Chafer">Lewis Sperry Chafer</a>
+
+<table class="table">
    <tr>
        <th>Lessons</th>
 
@@ -105,9 +113,9 @@ Wikipedia Link: <a href="https://en.wikipedia.org/wiki/Lewis_Sperry_Chafer" targ
        <td><strong><a href="salv010.pdf" target="_blank">PDF</a></strong> </td>
    </tr>
 </table>
-<!--<br /><br /><br /><br />-->
+
 <!--#include virtual="/footer.html" -->
-<!--</div>-->
 </div>
+
 </body>
 </html>
