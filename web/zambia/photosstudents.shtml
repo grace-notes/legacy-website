@@ -3,7 +3,7 @@
 <html>
 <head>
    <title>Teacher Training Students</title>
-   <link href="ZAMBIA_STYLE.css" rel="stylesheet" type="text/css">
+   <link href="zambia_style.css" rel="stylesheet" type="text/css">
    <style type="text/css">
 p.c2 {text-align: center}
    p.c1 {font-weight: bold; text-align: center}
