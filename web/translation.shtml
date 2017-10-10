@@ -58,7 +58,7 @@ padding-left: 5px;
 			  <a class="bible" href= 
               "/TRANSLATION/AFRIKAANS/BOOKS/MARK_AFRIKAANS-NIV.pdf"
               target="_blank">MARK</a> | 
-			  <a class="bible" href="/TRANSLATION/AFRIKAANS/BOOKS/EPHESIANS_AFRIKAANS-NIV.pdf"
+			  <a class="bible" href="/translation/afrikaans/books/ephesians_afrikaans-niv.pdf"
               target="_blank">EPHESIANS</a> | 
               <a class="bible" href= 
               "/TRANSLATION/AFRIKAANS/BOOKS/TITUS_AFRIKAANS-NIV.pdf"
@@ -68,7 +68,7 @@ padding-left: 5px;
           <tr>
             <td class="bible">
               <b>BEMBA</b> (Zambia)
-			  <a href="/ZAMBIA/BembaTopicsLibrary.shtml">
+			  <a href="/zambia/bembatopicslibrary.shtml">
 			  <b>Library</b></a></td>
             <td class="bible">			
 			  <a class="bible" href= 
@@ -106,7 +106,7 @@ padding-left: 5px;
 		 </tr>	
           <tr>
             <td class="bible"><b>LUGANDA</b> (Uganda)
-              <b><a href="/TRANSLATION/LUGANDA/LugandaLibrary.shtml">Library</a></b>
+              <b><a href="/translation/luganda/lugandalibrary.shtml">Library</a></b>
 			 </td>
             <td class="bible">			
 			  <a class="bible" href= 
@@ -183,7 +183,7 @@ padding-left: 5px;
           </tr>
           <tr>
             <td class="bible"><b>ROMANIAN</b> (Romania)
-              <b><a href="/TRANSLATION/ROMANIAN/RomanianLibrary.shtml">Library</a></b>
+              <b><a href="/translation/romanian/romanianlibrary.shtml">Library</a></b>
 			 </td>
 			<td><a class="bible" href= 
               "/TRANSLATION/ROMANIAN/BOOKS/RUTH_RomanianEnglish.pdf"
@@ -194,7 +194,7 @@ padding-left: 5px;
 		 </tr>
           <tr>
             <td class="bible"><b>RUNYANKORE</b> (Uganda)
-			<b><a href="/TRANSLATION/RUNYANKORE/RunyankoreLibrary.shtml">
+			<b><a href="/translation/runyankore/runyankorelibrary.shtml">
 			  Library</a></b></td>
             <td class="bible">
 			<a class="bible" href= 
@@ -232,7 +232,7 @@ padding-left: 5px;
 		 
           <tr>
 		  	  <td class="bible"><b>SWAHILI</b> (Kenya)
-			  <b><a href="/TRANSLATION/SWAHILI/SwahiliLibrary.shtml">
+			  <b><a href="/translation/swahili/swahililibrary.shtml">
 			  Library</a></b></td>		  
               <td class="bible">              
 			  <a class="bible" href= 

@@ -38,7 +38,7 @@ td.bible {font-size:medium;padding-left: 5px;}
             <tr>
               <td class="right"><font color="red">1,832</font></td>
               <td><font color="green">Bibles Distributed</font> - 
-			  Click: <a href="/DOCUMENTS/BIBLES_STATUS.pdf" target="blank">
+			  Click: <a href="/documents/bibles_status.pdf" target="blank">
 			  Distribution Status</a></td>
             </tr>
           </table>
@@ -48,7 +48,7 @@ td.bible {font-size:medium;padding-left: 5px;}
           conducted by local church pastors in several countries. The table
           shows the pastors and churches with whom we are working, along with
           the current status of each effort.  [Training Director links are to Facebook pages.]
-		  <b><a href="/GraceGiving.shtml">Grace Giving</a></b>
+		  <b><a href="/gracegiving.shtml">Grace Giving</a></b>
         </p>
         <table class="table">
           <tr>
@@ -63,7 +63,7 @@ td.bible {font-size:medium;padding-left: 5px;}
 			  Gabriel Nsofwa</a>
             </td>
             <td class="bible">
-              <a href="/ZAMBIA/BibleCollege.shtml"
+              <a href="/zambia/biblecollege.shtml"
               target="_blank">Grace Bible College of Kabwe</a> [Kabwe, <b>Zambia</b>]<br />
 			  Nakoli Township Class [Kabwe, <b>Zambia</b>]
             </td>
