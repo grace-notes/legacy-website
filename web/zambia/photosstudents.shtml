@@ -39,7 +39,7 @@ p.c2 {text-align: center}
          <table class="photos">
             <tr>
                <td class="photos">
-                  <img src="Zambia_Images/PHOTOS_STUDENTS/BANDA_Jacob(062).JPG"
+                  <img src="zambia_images/photos_students/banda_jacob(062).jpg"
                   width="180px" height="240px" border="2px solid black">
 
                   <p class="c1">Jacob Banda</p>
@@ -116,7 +116,7 @@ p.c2 {text-align: center}
                </td>
 
                <td>
-                  <img src="Zambia_Images/PHOTOS_STUDENTS/MWANSA_Amos(040).JPG"
+                  <img src="zambia_images/photos_students/mwansa_amos(040).jpg"
                   width="180px" height="240px" border="2px solid black">
 
                   <p class="c1">Amos Mwansa Katongo</p>
