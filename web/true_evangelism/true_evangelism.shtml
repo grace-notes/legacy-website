@@ -3,7 +3,7 @@
 
 <head>
 
-<!--#include virtual="/head.html" -->
+<link href="../css/gn_style.css" rel="stylesheet" type="text/css"/>
 <meta http-equiv="Content-Type" content="text/html; ISO-8859-1">
 
 <title>True Evangelism</title>
@@ -87,7 +87,10 @@ Wikipedia Link: <a href="https://en.wikipedia.org/wiki/Lewis_Sperry_Chafer" targ
        <td><strong><a href="evan010-pp113-136.pdf" target="_blank">PDF</a></strong> </td>
    </tr>
 </table>
+>>>>>>> Fixed up true evangelism shtml file:true_evangelism/true_evangelism.shtml
+<!--<br /><br /><br /><br />-->
 <!--#include virtual="/footer.html" -->
+<!--</div>-->
 </div>
 </body>
 </html>
