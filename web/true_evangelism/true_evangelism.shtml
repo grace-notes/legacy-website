@@ -3,7 +3,7 @@
 
 <head>
 
-<link href="../css/gn_style.css" rel="stylesheet" type="text/css"/>
+<!--#include virtual="/head.html" -->
 <meta http-equiv="Content-Type" content="text/html; ISO-8859-1">
 
 <title>True Evangelism</title>
