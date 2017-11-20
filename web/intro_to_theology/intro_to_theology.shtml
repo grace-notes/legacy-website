@@ -3,33 +3,77 @@
 
 <head>
 
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="/css/bootstrap.min.css">
+<script src="https://code.jquery.com/jquery-1.11.2.min.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.1/js/bootstrap.min.js"></script>
+<script src="/js/script.js"></script>
+
 <link href="../css/gn_style.css" rel="stylesheet" type="text/css"/>
 <meta http-equiv="Content-Type" content="text/html; ISO-8859-1">
-<title>1 and 2 PETER</title>
+<script>
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-3622200-1', 'auto');
+ga('send', 'pageview');
+</script>
+
+<title>Salvation</title>
 </head>
 
 <body>
 <div class="container">
+
 <!--#include virtual="/header.html" -->
 
 <div class="content">
-<br /><br />
-<h2>Introduction to Theology</h2>
-<p>Under Construction</p>
 
-<!--<p>Click to download the PDF of the complete studies here:<br /> -->
-<!--<div class="indent">-->
-<!--<b><a href="1peter.pdf" target="_blank">FIRST PETER</a> </b><br />-->
-<!--<b><a href="2peter.pdf" target="_blank">SECOND PETER</a> </b>-->
-<!--</div>-->
-<!--</p>-->
-<!--<p>The <b>Grace Notes courses in First and Second Peter</b> have 10 lessons each. -->
-<!--The lessons are distributed by email. To register for the certificate course, -->
-<!--write to <b><a href="mailto:wdoud@gracenotes.info">Warren Doud</a></b>.</p>-->
-<!--<b>Link: <a href="../authors.shtml" target="_blank">Grace Notes Authors</a>-->
-<!--<br /><br /><br /><br />-->
+<h2>Intro to Theology</h2>
+<p>Text: <b>Basic Doctrinal Studies</b>, by Bob Bolender II, Pastor, Austin Bible Church, Austin, TX </p>
+<p></P>
+<p>There are five (5) lessons in this course, covering the 58 pages of Pastor Bob’s <i>Basic Doctrinal Studies</i>.  When you have completed all of the lessons, we will send you a certificate of completion, and update your records in the Grace Notes training database.  
+Each lesson has a Quiz, to be completed and returned to Grace Notes after studying the lesson.</p>
+
+<table class="table">
+   <tr>
+       <th>Lessons</th>
+
+       <th>Chapters</th>
+
+       <th>Links</th>
+   </tr>
+   </tr>
+      <tr>
+       <td>THEO001</td>
+       <td>Pages 1-14</td>
+       <td><strong><a href="theo001-pp1-14.pdf" target="_blank">PDF</a></strong> </td>
+   </tr>   
+   <tr>
+       <td>THEO002</td>
+       <td>Pages 15-26</td>
+       <td><strong><a href="theo002-pp15-26.pdf" target="_blank">PDF</a></strong> </td>
+   </tr>   
+   <tr>
+       <td>THEO003</td>
+       <td>Pages 27-38</td>
+       <td><strong><a href="theo003-pp27-38.pdf" target="_blank">PDF</a></strong> </td>
+   </tr>   
+   <tr>
+       <td>THEO004</td>
+       <td>Pages 39-50</td>
+       <td><strong><a href="theo004-pp39-50.pdf" target="_blank">PDF</a></strong> </td>
+   </tr>   
+   <tr>
+       <td>THEO005</td>
+       <td>Pages 51-58</td>
+       <td><strong><a href="theo005-pp51-58.pdf" target="_blank">PDF</a></strong> </td>
+   </tr>   
+</table>
+
 <!--#include virtual="/footer.html" -->
-<!--</div>-->
 </div>
+
 </body>
 </html>
