@@ -3,9 +3,10 @@
 
 <head>
 
-<link href="../css/gn_style.css" rel="stylesheet" type="text/css"/>
+<!--#include virtual="/head.html" -->
 <meta http-equiv="Content-Type" content="text/html; ISO-8859-1">
-<title>1 and 2 PETER</title>
+
+<title>Christian Life</title>
 </head>
 
 <body>
@@ -14,22 +15,89 @@
 
 <div class="content">
 <br /><br />
-<h2>Chrisitan Life</h2>
-<p>Under Construction</p>
+<h2>Christian Life</h2>
+<p>Text: <b>The Christian Life and How to Live It</b>, by W. H. Griffith Thomas.   </p>
+<p></P>
+<p>William Henry Griffith Thomas (2 January 1861 – 2 June 1924) was an Anglican cleric and scholar from the English-Welsh 
+border country.  Griffith Thomas, with Lewis Sperry Chafer, was co-founder of Dallas Theological Seminary.  
+See Wikipedia for biography: https://en.wikipedia.org/wiki/William_Griffith_Thomas </p>
+<p></p>
+<p>From the preface:</p>
+<p class="tab"><i>The one theme running through the book is the Christian life, with its twofold attitude toward God and 
+toward man, involving both the Lordship of Christ and the loyalty of Christians. "To this end Christ both died and lived 
+again that He might be Lord" (Rom. 14:9); "Ye call Me Master and Lord: and ye say well; for so I am" (John 13:13) ; "Why 
+call ye Me, Lord, Lord, and do not the things which I say?" (Luke 6:46).</i></p>
+<p></p>
+<p>Course Outline</p>
+<p>TThere are ten (10) lessons in this course, covering the 130 pages of Griffith Thomas’s The Christian Life and How 
+to Live It.  When you have completed all of the lessons, we will send you a certificate of completion, and update your 
+records in the Grace Notes training database.  Each lesson has a Quiz, to be completed and returned to Grace Notes after 
+studying the lesson.</p>
+<p></p>
 
-<!--<p>Click to download the PDF of the complete studies here:<br /> -->
-<!--<div class="indent">-->
-<!--<b><a href="1peter.pdf" target="_blank">FIRST PETER</a> </b><br />-->
-<!--<b><a href="2peter.pdf" target="_blank">SECOND PETER</a> </b>-->
-<!--</div>-->
-<!--</p>-->
-<!--<p>The <b>Grace Notes courses in First and Second Peter</b> have 10 lessons each. -->
-<!--The lessons are distributed by email. To register for the certificate course, -->
-<!--write to <b><a href="mailto:wdoud@gracenotes.info">Warren Doud</a></b>.</p>-->
-<!--<b>Link: <a href="../authors.shtml" target="_blank">Grace Notes Authors</a>-->
-<!--<br /><br /><br /><br />-->
+<table class="table">
+   <tr>
+       <th>Lessons</th>
+
+       <th>Chapters</th>
+
+       <th>Links</th>
+   </tr>
+   </tr>
+      <tr>
+       <td>LIFE001</td>
+       <td>Chapter I – What Is Christianity?</td>
+       <td><strong><a href="life001.pdf" target="_blank">PDF</a></strong> </td>
+   </tr>
+   <tr>
+       <td>LIFE002</td>
+       <td>Chapter II – What We Believe</td>
+       <td><strong><a href="life002.pdf" target="_blank">PDF</a></strong> </td>
+   </tr>
+   <tr>
+       <td>LIFE003</td>
+       <td>Chapter III – What Is a Christian?</td>
+       <td><strong><a href="life003.pdf" target="_blank">PDF</a></strong> </td>
+   </tr>
+   <tr>
+       <td>LIFE004</td>
+       <td>Chapter IV – “Here Am I!”</td>
+       <td><strong><a href="life004.pdf" target="_blank">PDF</a></strong> </td>
+   </tr>
+   <tr>
+       <td>LIFE005</td>
+       <td>Chapter V – “I Serve”</td>
+       <td><strong><a href="life005.pdf" target="_blank">PDF</a></strong> </td>
+   </tr>
+   <tr>
+       <td>LIFE006</td>
+       <td>Chapter VI – Walking With God</td>
+       <td><strong><a href="life006.pdf" target="_blank">PDF</a></strong> </td>
+   </tr>
+   <tr>
+       <td>LIFE007</td>
+       <td>Chapter VII – The Fulness of God</td>
+       <td><strong><a href="life007.pdf" target="_blank">PDF</a></strong> </td>
+   </tr>
+   <tr>
+       <td>LIFE008</td>
+       <td>Chapter VIII – Peace, Perfect Peace</td>
+       <td><strong><a href="life008.pdf" target="_blank">PDF</a></strong> </td>
+   </tr>
+   <tr>
+       <td>LIFE009</td>
+       <td>Chapter IX – Joy and Praise</td>
+       <td><strong><a href="life009.pdf" target="_blank">PDF</a></strong> </td>
+   </tr>
+   <tr>
+       <td>LIFE010</td>
+       <td>Chapter X – God’s Surprises</td>
+       <td><strong><a href="life010.pdf" target="_blank">PDF</a></strong> </td>
+   </tr>
+</table>
+
 <!--#include virtual="/footer.html" -->
-<!--</div>-->
+
 </div>
 </body>
 </html>
