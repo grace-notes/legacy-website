@@ -3,33 +3,119 @@
 
 <head>
 
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="/css/bootstrap.min.css">
+<script src="https://code.jquery.com/jquery-1.11.2.min.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.1/js/bootstrap.min.js"></script>
+<script src="/js/script.js"></script>
+
 <link href="../css/gn_style.css" rel="stylesheet" type="text/css"/>
 <meta http-equiv="Content-Type" content="text/html; ISO-8859-1">
-<title>1 and 2 PETER</title>
+<script>
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-3622200-1', 'auto');
+ga('send', 'pageview');
+</script>
+
+<title>Methods of Bible Study</title>
 </head>
 
 <body>
 <div class="container">
+
 <!--#include virtual="/header.html" -->
 
 <div class="content">
-<br /><br />
-<h2>Bible Study Methods</h2>
-<p>Under Construction</p>
 
-<!--<p>Click to download the PDF of the complete studies here:<br /> -->
-<!--<div class="indent">-->
-<!--<b><a href="1peter.pdf" target="_blank">FIRST PETER</a> </b><br />-->
-<!--<b><a href="2peter.pdf" target="_blank">SECOND PETER</a> </b>-->
-<!--</div>-->
-<!--</p>-->
-<!--<p>The <b>Grace Notes courses in First and Second Peter</b> have 10 lessons each. -->
-<!--The lessons are distributed by email. To register for the certificate course, -->
-<!--write to <b><a href="mailto:wdoud@gracenotes.info">Warren Doud</a></b>.</p>-->
-<!--<b>Link: <a href="../authors.shtml" target="_blank">Grace Notes Authors</a>-->
-<!--<br /><br /><br /><br />-->
+<h2>Methods of Bible Study</h2>
+<p>William Henry Griffith Thomas &lpar;2 January 1861 &ndash; 2 June 1924&rpar; was an Anglican cleric and scholar from 
+the English&ndash;Welsh border country.  Griffith Thomas, with Lewis Sperry Chafer, was co&ndash;founder of Dallas Theological Seminary. 
+See Wikipedia for biography: <a href="https://en.wikipedia.org/wiki/William_Griffith_Thomas">William Henry Griffith Thoma</a></p>
+<p></p>
+<p>From the book’s preface&colon;</P>
+<p></p>
+<q><i>It is hoped that Christian workers of our Churches may find herein some suggestions for a fuller knowledge of their
+handbook of service and for a more efficient use of their weapon or warfare, the English Bible.  If anything is found helpful 
+to theological students, and those whose ministry has just commenced, the purpose of these papers will be more than realized.
+
+There can be no doubt that the most powerful and fruitful ministry will ever be the ministry of those who are, 
+like Apollos, &ldquo;might in the Scriptures&rdquo;.  
+</i></q>
+<p></p>
+<p>Course Outline&colon;</p?
+<p></p>
+ <p>There are ten &lpar;10&rpar; lessons in this course, covering the 120 pages of Griffith Thomas&rsquo;s Methods of Bible Study.  
+ When you have completed all of the lessons, we will send you a certificate of completion, and update your records in the 
+ Grace Notes training database.  Each lesson has a Quiz, to be completed and returned to Grace Notes after studying the lesson.
+<p></p>
+<p>To register for the certificate course, write to  <b><a href="mailto:wdoud@gracenotes.info">Warren Doud</a></b>.</p>
+
+<table class="table">
+   <tr>
+       <th>Lessons</th>
+
+       <th>Chapters</th>
+
+       <th>Links</th>
+   </tr>
+   </tr>
+      <tr>
+       <td>STUDY001</td>
+       <td>Preface, Chapter I &ndash; The Bible as a Whole</td>
+       <td><strong><a href="salv001.pdf" target="_blank">PDF</a></strong> </td>
+   </tr>   
+   <tr>
+       <td>STUDY002</td>
+       <td>hapter II &ndash The Old Testament, Chapter III &ndash The New Testamen</td>
+       <td><strong><a href="salv002.pdf" target="_blank">PDF</a></strong> </td>
+   </tr>   
+   <tr>
+       <td>STUDY003</td>
+       <td>Chapter 4</td>
+       <td><strong><a href="salv003.pdf" target="_blank">PDF</a></strong> </td>
+   </tr>   
+   <tr>
+       <td>STUDY004</td>
+       <td>Chapter 5</td>
+       <td><strong><a href="salv004.pdf" target="_blank">PDF</a></strong> </td>
+   </tr>   
+   <tr>
+       <td>STUDY005</td>
+       <td>Chapter 6</td>
+       <td><strong><a href="salv005.pdf" target="_blank">PDF</a></strong> </td>
+   </tr>   
+   <tr>
+       <td>STUDY006</td>
+       <td>Chapter 7</td>
+       <td><strong><a href="salv006.pdf" target="_blank">PDF</a></strong> </td>
+   </tr>   
+   <tr>
+       <td>STUDY007</td>
+       <td>Chapter 8</td>
+       <td><strong><a href="salv007.pdf" target="_blank">PDF</a></strong> </td>
+   </tr>   
+   <tr>
+       <td>STUDY008</td>
+       <td>Chapter 9</td>
+       <td><strong><a href="salv008.pdf" target="_blank">PDF</a></strong> </td>
+   </tr>
+   <tr>
+       <td>STUDY009</td>
+       <td>Chapter 10</td>
+       <td><strong><a href="salv009.pdf" target="_blank">PDF</a></strong> </td>
+   </tr>  
+   <tr>
+       <td>STUDY010</td>
+       <td>Chapters 11 and 12</td>
+       <td><strong><a href="salv010.pdf" target="_blank">PDF</a></strong> </td>
+   </tr>
+</table>
+
 <!--#include virtual="/footer.html" -->
-<!--</div>-->
 </div>
+
 </body>
 </html>
