@@ -1,0 +1,158 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="/css/bootstrap.min.css">
+<script src="https://code.jquery.com/jquery-1.11.2.min.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.1/js/bootstrap.min.js"></script>
+<script src="/js/script.js"></script>
+
+<link href="../css/gn_style.css" rel="stylesheet" type="text/css"/>
+<meta http-equiv="Content-Type" content="text/html; ISO-8859-1">
+<script>
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-3622200-1', 'auto');
+ga('send', 'pageview');
+</script>
+
+<title>Principles of Expository Preaching</title>
+</head>
+
+<body>
+<div class="container">
+
+<!--#include virtual="/header.html" -->
+
+<div class="content">
+
+<h2>Principles of Expository Preaching</h2>
+<p>This course is based on the widely used textbook written by Dr. Merrill F. Unger, ThM, ThD, PhD, entitled 
+<b>Principles of Expository Preaching</b>.  Dr. Unger was on the faculty of the Gordon Divinity School in Boston, 
+MA, and he was Chairman of the Old Testament Department at Dallas Theological Seminary. Dr. Unger has great 
+communicative skill, and in this small volume he provides an excellent and thorough treatment of the principles 
+of expository preaching, as you can see by reading the lesson contents below.</p>
+<p></p>
+<p>You will have to buy the book for this course. This book is out of print, but there are a number of places where 
+you can purchase this book online:</p>
+<p></p>
+<table class="table">  
+  <thead>
+    <th>Vender</th>
+    <th>Link</th>
+  </thead>
+  <tbody>
+    <tr>
+       <td>Bibliopolis</td>
+       <td><a ref="http://www.bibliopolis.com/main/books/results.html?id=HE7qr3Xf"></a></td>
+    </tr>
+    <tr>
+       <td>Amazon.com</td>
+       <td><a ref="http://www.amazon.com/Principles-expository-preaching-Merrill-Frederick/dp/B0007H1YKQ/ref=sr_1_1?ie=UTF8&s=books&qid=1200109690&sr=8-1"></a></td>
+    </tr>
+    <tr>
+       <td>Alibris.com</td>
+       <td><a ref="http://www.alibris.com/"></a></td>
+    </tr>
+    <tr>
+       <td>AllBookstores</td>
+       <td><a ref="http://www.allbookstores.com/book/compare/031033411X"></a></td>
+    </tr>
+    <tr>
+       <td>Half.com</td>
+       <td><a ref="http://www.allbookstores.com/book/buy/Half/031033411X"></a></td>
+    </tr>
+  </tbody>
+</table>
+<p>The <b>Grace Notes courses in the Preaching course has 10 lessons.  The lessons
+  are distributed by email. To register for the certificate course, write to
+  <b><a href="mailto:wdoud@gracenotes.info">Warren Doud</a></b>.</p>
+
+
+<table class="table">
+   <tr>
+       <th>Lessons</th>
+       <th>Chapters</th>
+   </tr>
+   </tr>
+      <tr>
+       <td>PRE001</td>
+       <td>
+         <p>Chapter I.  The Need of Expository Preaching</p>
+         <p>Chapter II. The Causes of the Dearth of Expository Preaching</p>
+       </td>
+   </tr>   
+   <tr>
+       <td>PRE002</td>
+       <td>
+         <p>Chapter III. The Benefits of Expository Preaching</p>
+         <p>Chapter IV. Definition of the Expository Method</p>
+       </td>
+   </tr>   
+   <tr>
+       <td>PRE003</td>
+       <td>
+          <p>Chapter V.  Illustrations of the Expository Method</p>
+          <p>Chapter VI.  Variations of the Expository Method</p>
+       </td>
+   </tr>   
+   <tr>
+       <td>PRE004</td>
+       <td>
+         <p>Chapter VII.  The Spiritual Qualifications of an Expositor</p>
+         <p>Chapter VIII.  The Technical Equipment of an Expositor</p>
+       </td>
+   </tr>   
+   <tr>
+       <td>PRE005</td>
+       <td>
+         <p>Chapter IX.  The Basic Doctrinal Prerequisites of an Expositor</p>
+         <p>Chapter X.  The Expositor and the Laws of Logic</p>
+       </td>
+   </tr>   
+   <tr>
+       <td>PRE006</td>
+       <td>
+         <p>Chapter XI.  The Expositor and Inductive Reasoning</p>
+         <p>Chapter XII.  The Expositor and Deductive Reasoning</p>
+       </td>
+   </tr>   
+   <tr>
+       <td>PRE007</td>
+       <td>
+         <p>Chapter XIII.  The Expositor and Grammatical Interpretation</p>
+         <p>Chapter XIV.  The Expositor and Historical Interpretation</p>
+       </td>
+   </tr>   
+   <tr>
+       <td>PRE008</td>
+       <td>
+         <p>Chapter XV.  The Expositor and Doctrinal Interpretation</p>
+         <p>Chapter XVI.  The Expositor and Figurative Language</p>
+       </td>
+   </tr>
+   <tr>
+       <td>PRE009</td>
+       <td>
+          <p>Chapter XVII.  The Expositor and the Interpretation of Parables</p>
+          <p>Chapter XVIII.  The Expositor and Scriptural Typology</p>
+       </td>
+   </tr>  
+   <tr>
+       <td>PRE010</td>
+       <td>
+         <p>Chapter XIX.  The Expositor and Biblical Prophecy</p>
+         <p>Chapter XX.  How to Expound Any Passage in the Bible</p>
+       </td>
+   </tr>
+</table>
+
+<!--#include virtual="/footer.html" -->
+</div>
+
+</body>
+</html>
