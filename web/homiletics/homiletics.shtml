@@ -3,33 +3,123 @@
 
 <head>
 
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="/css/bootstrap.min.css">
+<script src="https://code.jquery.com/jquery-1.11.2.min.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.1/js/bootstrap.min.js"></script>
+<script src="/js/script.js"></script>
+
 <link href="../css/gn_style.css" rel="stylesheet" type="text/css"/>
 <meta http-equiv="Content-Type" content="text/html; ISO-8859-1">
-<title>1 and 2 PETER</title>
+<script>
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-3622200-1', 'auto');
+ga('send', 'pageview');
+</script>
+
+<title>Homiletics</title>
 </head>
 
 <body>
 <div class="container">
+
 <!--#include virtual="/header.html" -->
 
 <div class="content">
-<br /><br />
-<h2>Homiletics</h2>
-<p>Under Construction</p>
 
-<!--<p>Click to download the PDF of the complete studies here:<br /> -->
-<!--<div class="indent">-->
-<!--<b><a href="1peter.pdf" target="_blank">FIRST PETER</a> </b><br />-->
-<!--<b><a href="2peter.pdf" target="_blank">SECOND PETER</a> </b>-->
-<!--</div>-->
-<!--</p>-->
-<!--<p>The <b>Grace Notes courses in First and Second Peter</b> have 10 lessons each. -->
-<!--The lessons are distributed by email. To register for the certificate course, -->
-<!--write to <b><a href="mailto:wdoud@gracenotes.info">Warren Doud</a></b>.</p>-->
-<!--<b>Link: <a href="../authors.shtml" target="_blank">Grace Notes Authors</a>-->
-<!--<br /><br /><br /><br />-->
+<h2>Homiletics</h2>
+<p>Text: <b>Elementary Homiletics</b>, by Rev. Jacob Fry, D.D.  Dr. Fry was Professor of Homiletics and Sacred Oratory in the 
+Lutheran Theological Seminary, Mount Airy, Philadelphia, PA.  His book was published in 1897 by The Christian Literature 
+Company, New York, NY</p>
+<p></p>
+<p>FProfessor Fry writes, in his Preface&colon;</P>
+<p></p>
+<blockquote><i>The book does not claim nor pretend to be a treatise on Homiletics, nor a set of lectures on the subject in 
+full form. That field is abundantly covered; but there seemed to be a need of a text-book giving only rules and 
+explanatory notes, which would form the basis of free lectures, which are always preferable in the department of 
+Practical Theology, and give the instructor every opportunity to make his own additions, comments, and illustrations.
+<p></p>
+It may also be of helpful service to young ministers, whether they have studied larger works on the subject or not, in 
+presenting in succinct form those elements and first principles and rules in the preparation of sermons which should ever
+be kept in view, but are too often overlooked or forgotten. The examples given under many of the rules will aid in 
+understanding their force and meaning 
+</i></blockquote>
+<p></p>
+<p>Course Outline&colon;</p?
+<p></p>
+ <p>There are ten &lpar;10&rpar; lessons in this course, covering the 150 pages of Fry&rsquo;s Elementary Homiletics.  
+ When you have completed all of the lessons, we will send you a certificate of completion, and update your records in 
+ the Grace Notes training database.  Each lesson has a Quiz, to be completed and returned to Grace Notes after studying 
+ the lesson.</p>
+<p></p>
+<p>To register for the certificate course, write to  <b><a href="mailto:wdoud@gracenotes.info">Warren Doud</a></b>.</p>
+
+<table class="table">
+   <tr>
+       <th>Lessons</th>
+
+       <th>Chapters</th>
+
+       <th>Links</th>
+   </tr>
+   </tr>
+      <tr>
+       <td>HOM001</td>
+       <td>Preface, Chapter I</td>
+       <td><strong><a href="study001.pdf" target="_blank">PDF</a></strong> </td>
+   </tr>   
+   <tr>
+       <td>HOM002</td>
+       <td>Chapter II</td>
+       <td><strong><a href="study002.pdf" target="_blank">PDF</a></strong> </td>
+   </tr>   
+   <tr>
+       <td>HOM003</td>
+       <td>Chapter III</td>
+       <td><strong><a href="study003.pdf" target="_blank">PDF</a></strong> </td>
+   </tr>   
+   <tr>
+       <td>HOM004</td>
+       <td>Chapter IV</td>
+       <td><strong><a href="study004.pdf" target="_blank">PDF</a></strong> </td>
+   </tr>   
+   <tr>
+       <td>HOM005</td>
+       <td>Chapter V</td>
+       <td><strong><a href="study005.pdf" target="_blank">PDF</a></strong> </td>
+   </tr>   
+   <tr>
+       <td>HOM006</td>
+       <td>Chapter VI</td>
+       <td><strong><a href="study006.pdf" target="_blank">PDF</a></strong> </td>
+   </tr>   
+   <tr>
+       <td>HOM007</td>
+       <td>Chapter VII</td>
+       <td><strong><a href="study007.pdf" target="_blank">PDF</a></strong> </td>
+   </tr>   
+   <tr>
+       <td>HOM008</td>
+       <td>Chapter VIII</td>
+       <td><strong><a href="study008.pdf" target="_blank">PDF</a></strong> </td>
+   </tr>
+   <tr>
+       <td>HOM009</td>
+       <td>Chapter IX</td>
+       <td><strong><a href="salv009.pdf" target="_blank">PDF</a></strong> </td>
+   </tr>  
+   <tr>
+       <td>HOM010</td>
+       <td>Chapter X and XI</td>
+       <td><strong><a href="study010.pdf" target="_blank">PDF</a></strong> </td>
+   </tr>
+</table>
+
 <!--#include virtual="/footer.html" -->
-<!--</div>-->
 </div>
+
 </body>
 </html>
