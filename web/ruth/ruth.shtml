@@ -42,33 +42,50 @@
             <th width="80%">
               <b>TOPICS</b>
             </th>
+	    <th>
+	    <b>Lnks</b>
+	    </th>
           </tr>
           <tr>
+	    <td><b>Ruth01</b></td>
             <td>
-              <b><a href="ruth01.pdf" target="_blank">Ruth 1:1-10</a></b><br />
-			  <a href="ruth01_quiz.pdf" target="_blank">Ruth01 Quiz</a>
+	      <p>Ruth 1:1&ndash;10</p>
+              <p>Bethlehem</p>
+	      <p>The Moabites</p>
+	      <p>Faith-Rest</p>
+	      <p>Rahab</p>
             </td>
             <td>
-              Bethlehem | The Moabites | Faith-Rest | Rahab
-            </td>
-          </tr>
-          <tr>
-            <td>
-              <b><a href="ruth02.pdf" target="_blank">Ruth 1:11-22</a></b><br />
-			  <a href="ruth02_quiz.pdf" target="_blank">Ruth02 Quiz</a>
-            </td>
-            <td>
-              Old Age | Depression | Worry | Peace | Balaam
+              <p><a href="ruth01.pdf" target="_blank">Ruth 1:1-10</a></p>
+	      <p><a href="ruth01_quiz.pdf" target="_blank">Ruth01 Quiz</a></p>
             </td>
           </tr>
           <tr>
+	    <td><b>Ruth02</b></td>
             <td>
-              <b><a href="ruth03.pdf" target="_blank">Ruth 2:1-7</a></b><br />
-			  <a href="ruth03_quiz.pdf" target="_blank">Ruth03 Quiz</a>
+	       <p>Ruth 1:11&ndash;22</p>
+               <p>Old Age</p>
+	       <p>Depression</p>
+	       <p>Worry</p>
+	       <p>Peace</p>
+	       <p>Balaam</p>
             </td>
             <td>
-              Servants and Slaves in Palestine | Faithfulness of God |
-              Agriculture in Palestine
+              <p><a href="ruth02.pdf" target="_blank">Ruth 1:11-22</a></p>
+	      <p><a href="ruth02_quiz.pdf" target="_blank">Ruth02 Quiz</a></p>
+            </td>
+          </tr>
+          <tr>
+	    <td><b>Ruth03</b></td>
+            <td>
+	       <p>Ruth 2:1&ndash;7/<p>
+               <p>Servants and Slaves in Palestine</p>
+	       <p>Faithfulness of God</p>
+               <p>Agriculture in Palestine</p>
+            </td>
+            <td>
+              <p><a href="ruth03.pdf" target="_blank">Ruth 2:1-7</a></p>
+	      <p><a href="ruth03_quiz.pdf" target="_blank">Ruth03 Quiz</a></p>
             </td>
           </tr>
           <tr>
