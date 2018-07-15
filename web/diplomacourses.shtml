@@ -321,16 +321,21 @@
       </table>
       
  <h3>Electives</h3>
-      <table>
+      <table class="table">
          <tr>
            <th>Course Name</th>
 
            <th>Course Name</th>
 
            <th>Course Name</th>
+	   
+           <th>Course Name</th>
         </tr>
 	<tr>
-	<td>Schaff: Church History</td>
+	<td>
+	  <p>Schaff: History of the Christian Church</p>
+	  <p><a href="/church_history/Vol1/schaffchurchhistv1.shtml">Volume 1</a></p>
+	</td>
 	<td>Bede &ndash; Life and Writings</td>
 	<td>History of Utah</td>
 	<td>Bede &ndash; History - English Church</td>
